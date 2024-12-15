@@ -35,7 +35,7 @@ function loadTradingViewWidget() {
         interval: 'W',
         timezone: 'Asia/Kolkata',
         theme: 'light',
-        style: '1',
+        style: '0',
         locale: 'in',
         toolbar_bg: '#f1f3f6',
         enable_publishing: false,
