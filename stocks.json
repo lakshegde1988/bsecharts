@@ -1,3323 +1,5384 @@
 [
-	{
-		"Symbol": "3IINFOLTD"
-	},
-	{
-		"Symbol": "3PLAND"
-	},
-	{
-		"Symbol": "5PAISA"
-	},
-	{
-		"Symbol": "63MOONS"
-	},
-	{
-		"Symbol": "A1L"
-	},
-	{
-		"Symbol": "A2ZINFRA"
-	},
-	{
-		"Symbol": "AAATECH"
-	},
-	{
-		"Symbol": "AADHARHFC"
-	},
-	{
-		"Symbol": "AARTECH"
-	},
-	{
-		"Symbol": "ABAN"
-	},
-	{
-		"Symbol": "ABDL"
-	},
-	{
-		"Symbol": "ABSLNN50ET"
-	},
-	{
-		"Symbol": "ABSLPSE"
-	},
-	{
-		"Symbol": "ACCELYA"
-	},
-	{
-		"Symbol": "ACGL"
-	},
-	{
-		"Symbol": "ACL"
-	},
-	{
-		"Symbol": "ACLGATI"
-	},
-	{
-		"Symbol": "ACMESOLAR"
-	},
-	{
-		"Symbol": "ACTIVE"
-	},
-	{
-		"Symbol": "ADFFOODS"
-	},
-	{
-		"Symbol": "ADORWELD"
-	},
-	{
-		"Symbol": "ADSL"
-	},
-	{
-		"Symbol": "ADVANIHOTR"
-	},
-	{
-		"Symbol": "AEPL"
-	},
-	{
-		"Symbol": "AEROFLEX"
-	},
-	{
-		"Symbol": "AFCONS"
-	},
-	{
-		"Symbol": "AFFORDABLE"
-	},
-	{
-		"Symbol": "AFIL"
-	},
-	{
-		"Symbol": "AGARIND"
-	},
-	{
-		"Symbol": "AGIIL"
-	},
-	{
-		"Symbol": "AGOL"
-	},
-	{
-		"Symbol": "AGRITECH"
-	},
-	{
-		"Symbol": "AGSTRA"
-	},
-	{
-		"Symbol": "AHL"
-	},
-	{
-		"Symbol": "AHLEAST"
-	},
-	{
-		"Symbol": "AIRAN"
-	},
-	{
-		"Symbol": "AJMERA"
-	},
-	{
-		"Symbol": "AKI"
-	},
-	{
-		"Symbol": "AKSHARCHEM"
-	},
-	{
-		"Symbol": "AKSHOPTFBR"
-	},
-	{
-		"Symbol": "AKUMS"
-	},
-	{
-		"Symbol": "ALANKIT"
-	},
-	{
-		"Symbol": "ALBERTDAVD"
-	},
-	{
-		"Symbol": "ALEMBICLTD"
-	},
-	{
-		"Symbol": "ALICON"
-	},
-	{
-		"Symbol": "ALKALI"
-	},
-	{
-		"Symbol": "ALLDIGI"
-	},
-	{
-		"Symbol": "ALPHAGEO"
-	},
-	{
-		"Symbol": "AMBICAAGAR"
-	},
-	{
-		"Symbol": "AMBIKCO"
-	},
-	{
-		"Symbol": "AMDIND"
-	},
-	{
-		"Symbol": "AMJLAND"
-	},
-	{
-		"Symbol": "AMNPLST"
-	},
-	{
-		"Symbol": "AMRUTANJAN"
-	},
-	{
-		"Symbol": "ANDHRAPAP"
-	},
-	{
-		"Symbol": "ANDHRSUGAR"
-	},
-	{
-		"Symbol": "ANDREWYU"
-	},
-	{
-		"Symbol": "ANG"
-	},
-	{
-		"Symbol": "ANMOL"
-	},
-	{
-		"Symbol": "ANUHPHR"
-	},
-	{
-		"Symbol": "ANUP"
-	},
-	{
-		"Symbol": "ANUROOP"
-	},
-	{
-		"Symbol": "APCL"
-	},
-	{
-		"Symbol": "APCOTEXIND"
-	},
-	{
-		"Symbol": "APEX"
-	},
-	{
-		"Symbol": "APOLLO"
-	},
-	{
-		"Symbol": "APOLLOPIPE"
-	},
-	{
-		"Symbol": "APTECHT"
-	},
-	{
-		"Symbol": "ARCHIDPLY"
-	},
-	{
-		"Symbol": "ARIES"
-	},
-	{
-		"Symbol": "ARIHANTCAP"
-	},
-	{
-		"Symbol": "ARIHANTSUP"
-	},
-	{
-		"Symbol": "ARKADE"
-	},
-	{
-		"Symbol": "ARMANFIN"
-	},
-	{
-		"Symbol": "AROGRANITE"
-	},
-	{
-		"Symbol": "ARROWGREEN"
-	},
-	{
-		"Symbol": "ARTEMISMED"
-	},
-	{
-		"Symbol": "ARVSMART"
-	},
-	{
-		"Symbol": "ASAHISONG"
-	},
-	{
-		"Symbol": "ASAL"
-	},
-	{
-		"Symbol": "ASALCBR"
-	},
-	{
-		"Symbol": "ASHIANA"
-	},
-	{
-		"Symbol": "ASIANENE"
-	},
-	{
-		"Symbol": "ASIANHOTNR"
-	},
-	{
-		"Symbol": "ASIANTILES"
-	},
-	{
-		"Symbol": "ASKAUTOLTD"
-	},
-	{
-		"Symbol": "ASMS"
-	},
-	{
-		"Symbol": "ASMTEC"
-	},
-	{
-		"Symbol": "ASRL"
-	},
-	{
-		"Symbol": "ASTAR"
-	},
-	{
-		"Symbol": "ASTEC"
-	},
-	{
-		"Symbol": "ASTRON"
-	},
-	{
-		"Symbol": "ATAM"
-	},
-	{
-		"Symbol": "ATFL"
-	},
-	{
-		"Symbol": "ATL"
-	},
-	{
-		"Symbol": "ATULAUTO"
-	},
-	{
-		"Symbol": "AURIONPRO"
-	},
-	{
-		"Symbol": "AUTOAXLES"
-	},
-	{
-		"Symbol": "AUTOIND"
-	},
-	{
-		"Symbol": "AVADHSUGAR"
-	},
-	{
-		"Symbol": "AVANTEL"
-	},
-	{
-		"Symbol": "AVG"
-	},
-	{
-		"Symbol": "AVL"
-	},
-	{
-		"Symbol": "AVONMORE"
-	},
-	{
-		"Symbol": "AVTNPL"
-	},
-	{
-		"Symbol": "AWFIS"
-	},
-	{
-		"Symbol": "AWHCL"
-	},
-	{
-		"Symbol": "AXISCADES"
-	},
-	{
-		"Symbol": "AXITA"
-	},
-	{
-		"Symbol": "AXSENSEX"
-	},
-	{
-		"Symbol": "AZAD"
-	},
-	{
-		"Symbol": "BAGFILMS"
-	},
-	{
-		"Symbol": "BAIDFIN"
-	},
-	{
-		"Symbol": "BAJAJHCARE"
-	},
-	{
-		"Symbol": "BAJAJHFL"
-	},
-	{
-		"Symbol": "BAJEL"
-	},
-	{
-		"Symbol": "BALAJEE"
-	},
-	{
-		"Symbol": "BALAJITELE"
-	},
-	{
-		"Symbol": "BALKRISHNA"
-	},
-	{
-		"Symbol": "BALUFORGE"
-	},
-	{
-		"Symbol": "BANARISUG"
-	},
-	{
-		"Symbol": "BANCOINDIA"
-	},
-	{
-		"Symbol": "BANKPSU"
-	},
-	{
-		"Symbol": "BANSALWIRE"
-	},
-	{
-		"Symbol": "BANSWRAS"
-	},
-	{
-		"Symbol": "BARBEQUE"
-	},
-	{
-		"Symbol": "BBL"
-	},
-	{
-		"Symbol": "BBOX"
-	},
-	{
-		"Symbol": "BBTCL"
-	},
-	{
-		"Symbol": "BCLIND"
-	},
-	{
-		"Symbol": "BCONCEPTS"
-	},
-	{
-		"Symbol": "BCPL"
-	},
-	{
-		"Symbol": "BEDMUTHA"
-	},
-	{
-		"Symbol": "BEEKAY"
-	},
-	{
-		"Symbol": "BENARAS"
-	},
-	{
-		"Symbol": "BENGALASM"
-	},
-	{
-		"Symbol": "BEPL"
-	},
-	{
-		"Symbol": "BESTAGRO"
-	},
-	{
-		"Symbol": "BFINVEST"
-	},
-	{
-		"Symbol": "BFSI"
-	},
-	{
-		"Symbol": "BGJL"
-	},
-	{
-		"Symbol": "BHAGCHEM"
-	},
-	{
-		"Symbol": "BHAGYANGR"
-	},
-	{
-		"Symbol": "BHANDARI"
-	},
-	{
-		"Symbol": "BHARATGEAR"
-	},
-	{
-		"Symbol": "BHARATRAS"
-	},
-	{
-		"Symbol": "BHARATWIRE"
-	},
-	{
-		"Symbol": "BHARTIHEXA"
-	},
-	{
-		"Symbol": "BIBCL"
-	},
-	{
-		"Symbol": "BIGBLOC"
-	},
-	{
-		"Symbol": "BIOFILCHEM"
-	},
-	{
-		"Symbol": "BIRLACABLE"
-	},
-	{
-		"Symbol": "BIRLAMONEY"
-	},
-	{
-		"Symbol": "BLACKBUCK"
-	},
-	{
-		"Symbol": "BLAL"
-	},
-	{
-		"Symbol": "BLBLIMITED"
-	},
-	{
-		"Symbol": "BLIL"
-	},
-	{
-		"Symbol": "BLISSGVS"
-	},
-	{
-		"Symbol": "BLKASHYAP"
-	},
-	{
-		"Symbol": "BLSE"
-	},
-	{
-		"Symbol": "BLUECLOUDS"
-	},
-	{
-		"Symbol": "BLUECOAST"
-	},
-	{
-		"Symbol": "BLUEJET"
-	},
-	{
-		"Symbol": "BMW"
-	},
-	{
-		"Symbol": "BODALCHEM"
-	},
-	{
-		"Symbol": "BONLON"
-	},
-	{
-		"Symbol": "BOROLTD"
-	},
-	{
-		"Symbol": "BOROSCI"
-	},
-	{
-		"Symbol": "BPL"
-	},
-	{
-		"Symbol": "BRNL"
-	},
-	{
-		"Symbol": "BSL"
-	},
-	{
-		"Symbol": "BTML"
-	},
-	{
-		"Symbol": "BURNPUR"
-	},
-	{
-		"Symbol": "BUTTERFLY"
-	},
-	{
-		"Symbol": "BVCL"
-	},
-	{
-		"Symbol": "CAMLINFINE"
-	},
-	{
-		"Symbol": "CANTABIL"
-	},
-	{
-		"Symbol": "CAPITALSFB"
-	},
-	{
-		"Symbol": "CAPPIPES"
-	},
-	{
-		"Symbol": "CAREERP"
-	},
-	{
-		"Symbol": "CARYSIL"
-	},
-	{
-		"Symbol": "CEIGALL"
-	},
-	{
-		"Symbol": "CELEBRITY"
-	},
-	{
-		"Symbol": "CELLO"
-	},
-	{
-		"Symbol": "CENTENKA"
-	},
-	{
-		"Symbol": "CENTEXT"
-	},
-	{
-		"Symbol": "CENTRUM"
-	},
-	{
-		"Symbol": "CENTUM"
-	},
-	{
-		"Symbol": "CHEMBOND"
-	},
-	{
-		"Symbol": "CHEMCON"
-	},
-	{
-		"Symbol": "CHEMCRUX"
-	},
-	{
-		"Symbol": "CHEMFAB"
-	},
-	{
-		"Symbol": "CHEVIOT"
-	},
-	{
-		"Symbol": "CINELINE"
-	},
-	{
-		"Symbol": "CINEVISTA"
-	},
-	{
-		"Symbol": "CLSEL"
-	},
-	{
-		"Symbol": "COASTCORP"
-	},
-	{
-		"Symbol": "COCKERILL"
-	},
-	{
-		"Symbol": "COMPUSOFT"
-	},
-	{
-		"Symbol": "COMSYN"
-	},
-	{
-		"Symbol": "CONFIPET"
-	},
-	{
-		"Symbol": "CONTROLPR"
-	},
-	{
-		"Symbol": "CORDSCABLE"
-	},
-	{
-		"Symbol": "COSMOFIRST"
-	},
-	{
-		"Symbol": "COUNCODOS"
-	},
-	{
-		"Symbol": "CREST"
-	},
-	{
-		"Symbol": "CSLFINANCE"
-	},
-	{
-		"Symbol": "CTE"
-	},
-	{
-		"Symbol": "CUBEXTUB"
-	},
-	{
-		"Symbol": "CUPID"
-	},
-	{
-		"Symbol": "CYBERMEDIA"
-	},
-	{
-		"Symbol": "DALMIASUG"
-	},
-	{
-		"Symbol": "DAMODARIND"
-	},
-	{
-		"Symbol": "DAVANGERE"
-	},
-	{
-		"Symbol": "DBCORP"
-	},
-	{
-		"Symbol": "DBEIL"
-	},
-	{
-		"Symbol": "DBOL"
-	},
-	{
-		"Symbol": "DBSTOCKBRO"
-	},
-	{
-		"Symbol": "DCI"
-	},
-	{
-		"Symbol": "DCM"
-	},
-	{
-		"Symbol": "DCMNVL"
-	},
-	{
-		"Symbol": "DCMSRIND"
-	},
-	{
-		"Symbol": "DCXINDIA"
-	},
-	{
-		"Symbol": "DDEVPLASTIK"
-	},
-	{
-		"Symbol": "DECCAN"
-	},
-	{
-		"Symbol": "DECCANCE"
-	},
-	{
-		"Symbol": "DECNGOLD"
-	},
-	{
-		"Symbol": "DEEDEV"
-	},
-	{
-		"Symbol": "DEEP"
-	},
-	{
-		"Symbol": "DEEPINDS"
-	},
-	{
-		"Symbol": "DELTAMAGNT"
-	},
-	{
-		"Symbol": "DEN"
-	},
-	{
-		"Symbol": "DENORA"
-	},
-	{
-		"Symbol": "DEVIT"
-	},
-	{
-		"Symbol": "DHAMPURSUG"
-	},
-	{
-		"Symbol": "DHANBANK"
-	},
-	{
-		"Symbol": "DHANUKA"
-	},
-	{
-		"Symbol": "DHARMAJ"
-	},
-	{
-		"Symbol": "DHRUV"
-	},
-	{
-		"Symbol": "DHUNINV"
-	},
-	{
-		"Symbol": "DIAMINESQ"
-	},
-	{
-		"Symbol": "DIAMONDYD"
-	},
-	{
-		"Symbol": "DICIND"
-	},
-	{
-		"Symbol": "DIFFNKG"
-	},
-	{
-		"Symbol": "DIGIDRIVE"
-	},
-	{
-		"Symbol": "DISAQ"
-	},
-	{
-		"Symbol": "DIVGIITTS"
-	},
-	{
-		"Symbol": "DJML"
-	},
-	{
-		"Symbol": "DLINKINDIA"
-	},
-	{
-		"Symbol": "DMCC"
-	},
-	{
-		"Symbol": "DNAMEDIA"
-	},
-	{
-		"Symbol": "DOLATALGO"
-	},
-	{
-		"Symbol": "DOLFIN"
-	},
-	{
-		"Symbol": "DOLLAR"
-	},
-	{
-		"Symbol": "DOMS"
-	},
-	{
-		"Symbol": "DONEAR"
-	},
-	{
-		"Symbol": "DPABHUSHAN"
-	},
-	{
-		"Symbol": "DPWIRES"
-	},
-	{
-		"Symbol": "DRAGARWQ"
-	},
-	{
-		"Symbol": "DRCSYSTEMS"
-	},
-	{
-		"Symbol": "DREDGECORP"
-	},
-	{
-		"Symbol": "DSSL"
-	},
-	{
-		"Symbol": "DTIL"
-	},
-	{
-		"Symbol": "DUCON"
-	},
-	{
-		"Symbol": "DVL"
-	},
-	{
-		"Symbol": "DWARKESH"
-	},
-	{
-		"Symbol": "DYCL"
-	},
-	{
-		"Symbol": "DYNPRO"
-	},
-	{
-		"Symbol": "ECOSMOBLTY"
-	},
-	{
-		"Symbol": "EFCIL"
-	},
-	{
-		"Symbol": "EIEL"
-	},
-	{
-		"Symbol": "EIHAHOTELS"
-	},
-	{
-		"Symbol": "EIMCOELECO"
-	},
-	{
-		"Symbol": "EKC"
-	},
-	{
-		"Symbol": "EKI"
-	},
-	{
-		"Symbol": "ELANTAS"
-	},
-	{
-		"Symbol": "ELDEHSG"
-	},
-	{
-		"Symbol": "ELIN"
-	},
-	{
-		"Symbol": "ELPROINTL"
-	},
-	{
-		"Symbol": "EMAMIPAP"
-	},
-	{
-		"Symbol": "EMCURE"
-	},
-	{
-		"Symbol": "EMMBI"
-	},
-	{
-		"Symbol": "EMSLIMITED"
-	},
-	{
-		"Symbol": "EMUDHRA"
-	},
-	{
-		"Symbol": "ENERGYDEV"
-	},
-	{
-		"Symbol": "ENIL"
-	},
-	{
-		"Symbol": "ENKEIWHEL"
-	},
-	{
-		"Symbol": "ENTERO"
-	},
-	{
-		"Symbol": "EPIGRAL"
-	},
-	{
-		"Symbol": "EQUAL50ADD"
-	},
-	{
-		"Symbol": "ESAFSFB"
-	},
-	{
-		"Symbol": "ESG"
-	},
-	{
-		"Symbol": "ESTER"
-	},
-	{
-		"Symbol": "EVEREADY"
-	},
-	{
-		"Symbol": "EVERESTIND"
-	},
-	{
-		"Symbol": "EVINDIA"
-	},
-	{
-		"Symbol": "EXCELINDUS"
-	},
-	{
-		"Symbol": "EXICOM"
-	},
-	{
-		"Symbol": "EXPLEOSOL"
-	},
-	{
-		"Symbol": "EXXARO"
-	},
-	{
-		"Symbol": "FACT"
-	},
-	{
-		"Symbol": "FAIRCHEMOR"
-	},
-	{
-		"Symbol": "FAZE3Q"
-	},
-	{
-		"Symbol": "FCSSOFT"
-	},
-	{
-		"Symbol": "FEDDERSHOL"
-	},
-	{
-		"Symbol": "FEDFINA"
-	},
-	{
-		"Symbol": "FIBERWEB"
-	},
-	{
-		"Symbol": "FIEMIND"
-	},
-	{
-		"Symbol": "FILATEX"
-	},
-	{
-		"Symbol": "FINOPB"
-	},
-	{
-		"Symbol": "FIRSTCRY"
-	},
-	{
-		"Symbol": "FLAIR"
-	},
-	{
-		"Symbol": "FMGOETZE"
-	},
-	{
-		"Symbol": "FOODSIN"
-	},
-	{
-		"Symbol": "FOSECOIND"
-	},
-	{
-		"Symbol": "GALACTICO"
-	},
-	{
-		"Symbol": "GALAPREC"
-	},
-	{
-		"Symbol": "GANDHAR"
-	},
-	{
-		"Symbol": "GANDHITUBE"
-	},
-	{
-		"Symbol": "GANECOS"
-	},
-	{
-		"Symbol": "GANESHBE"
-	},
-	{
-		"Symbol": "GANESHHOUC"
-	},
-	{
-		"Symbol": "GANGESSECU"
-	},
-	{
-		"Symbol": "GARMNTMNTR"
-	},
-	{
-		"Symbol": "GARUDA"
-	},
-	{
-		"Symbol": "GCMSECU"
-	},
-	{
-		"Symbol": "GEECEE"
-	},
-	{
-		"Symbol": "GENCON"
-	},
-	{
-		"Symbol": "GENESYS"
-	},
-	{
-		"Symbol": "GENUSPAPER"
-	},
-	{
-		"Symbol": "GEOJITFSL"
-	},
-	{
-		"Symbol": "GEPIL"
-	},
-	{
-		"Symbol": "GFLLIMITED"
-	},
-	{
-		"Symbol": "GGENG"
-	},
-	{
-		"Symbol": "GHCLTEXTIL"
-	},
-	{
-		"Symbol": "GIANLIFE"
-	},
-	{
-		"Symbol": "GICHSGFIN"
-	},
-	{
-		"Symbol": "GILLANDERS"
-	},
-	{
-		"Symbol": "GINNIFILA"
-	},
-	{
-		"Symbol": "GIPCL"
-	},
-	{
-		"Symbol": "GKP"
-	},
-	{
-		"Symbol": "GLOSTERLTD"
-	},
-	{
-		"Symbol": "GMBREW"
-	},
-	{
-		"Symbol": "GNA"
-	},
-	{
-		"Symbol": "GOACARBON"
-	},
-	{
-		"Symbol": "GOCLCORP"
-	},
-	{
-		"Symbol": "GODAVARIB"
-	},
-	{
-		"Symbol": "GODIGIT"
-	},
-	{
-		"Symbol": "GOKULAGRO"
-	},
-	{
-		"Symbol": "GOLDIAM"
-	},
-	{
-		"Symbol": "GOODLUCK"
-	},
-	{
-		"Symbol": "GOODYEAR"
-	},
-	{
-		"Symbol": "GOPAL"
-	},
-	{
-		"Symbol": "GOYALALUM"
-	},
-	{
-		"Symbol": "GPTHEALTH"
-	},
-	{
-		"Symbol": "GPTINFRA"
-	},
-	{
-		"Symbol": "GRAUWEIL"
-	},
-	{
-		"Symbol": "GREENPLY"
-	},
-	{
-		"Symbol": "GREENPOWER"
-	},
-	{
-		"Symbol": "GRMOVER"
-	},
-	{
-		"Symbol": "GRPLTD"
-	},
-	{
-		"Symbol": "GRWRHITECH"
-	},
-	{
-		"Symbol": "GSLSU"
-	},
-	{
-		"Symbol": "GSS"
-	},
-	{
-		"Symbol": "GSTL"
-	},
-	{
-		"Symbol": "GTL"
-	},
-	{
-		"Symbol": "GTPL"
-	},
-	{
-		"Symbol": "GUFICBIO"
-	},
-	{
-		"Symbol": "GUJAPOLLO"
-	},
-	{
-		"Symbol": "GUJRAFFIA"
-	},
-	{
-		"Symbol": "GUJSTATFIN"
-	},
-	{
-		"Symbol": "GUJTHEM"
-	},
-	{
-		"Symbol": "GULFOILLUB"
-	},
-	{
-		"Symbol": "GULFPETRO"
-	},
-	{
-		"Symbol": "GULPOLY"
-	},
-	{
-		"Symbol": "HAPPYFORGE"
-	},
-	{
-		"Symbol": "HARDWYN"
-	},
-	{
-		"Symbol": "HARIOMPIPE"
-	},
-	{
-		"Symbol": "HARSHA"
-	},
-	{
-		"Symbol": "HAWKINCOOK"
-	},
-	{
-		"Symbol": "HBSL"
-	},
-	{
-		"Symbol": "HCG"
-	},
-	{
-		"Symbol": "HEADSUP"
-	},
-	{
-		"Symbol": "HEALTHADD"
-	},
-	{
-		"Symbol": "HEALTHY"
-	},
-	{
-		"Symbol": "HEIDELBERG"
-	},
-	{
-		"Symbol": "HERANBA"
-	},
-	{
-		"Symbol": "HESTERBIO"
-	},
-	{
-		"Symbol": "HEUBACHIND"
-	},
-	{
-		"Symbol": "HEXATRADEX"
-	},
-	{
-		"Symbol": "HGS"
-	},
-	{
-		"Symbol": "HIKAL"
-	},
-	{
-		"Symbol": "HIL"
-	},
-	{
-		"Symbol": "HILTON"
-	},
-	{
-		"Symbol": "HIMATSEIDE"
-	},
-	{
-		"Symbol": "HINDCOMPOS"
-	},
-	{
-		"Symbol": "HINDWAREAP"
-	},
-	{
-		"Symbol": "HINFLUR"
-	},
-	{
-		"Symbol": "HIRECT"
-	},
-	{
-		"Symbol": "HISARMETAL"
-	},
-	{
-		"Symbol": "HITECH"
-	},
-	{
-		"Symbol": "HITECHCORP"
-	},
-	{
-		"Symbol": "HLVLTD"
-	},
-	{
-		"Symbol": "HMAAGRO"
-	},
-	{
-		"Symbol": "HMVL"
-	},
-	{
-		"Symbol": "HNDFDS"
-	},
-	{
-		"Symbol": "HOCL"
-	},
-	{
-		"Symbol": "HONASA"
-	},
-	{
-		"Symbol": "HONDAPOWER"
-	},
-	{
-		"Symbol": "HOVS"
-	},
-	{
-		"Symbol": "HPAL"
-	},
-	{
-		"Symbol": "HPIL"
-	},
-	{
-		"Symbol": "HPL"
-	},
-	{
-		"Symbol": "HTMEDIA"
-	},
-	{
-		"Symbol": "HUHTAMAKI"
-	},
-	{
-		"Symbol": "ICDSLTD"
-	},
-	{
-		"Symbol": "ICRA"
-	},
-	{
-		"Symbol": "IFBAGRO"
-	},
-	{
-		"Symbol": "IFBIND"
-	},
-	{
-		"Symbol": "IFGLEXPOR"
-	},
-	{
-		"Symbol": "IFL"
-	},
-	{
-		"Symbol": "IGARASHI"
-	},
-	{
-		"Symbol": "IGPL"
-	},
-	{
-		"Symbol": "IIFLCAPS"
-	},
-	{
-		"Symbol": "IKIO"
-	},
-	{
-		"Symbol": "IMAGICAA"
-	},
-	{
-		"Symbol": "IMFA"
-	},
-	{
-		"Symbol": "IMPAL"
-	},
-	{
-		"Symbol": "INCREDIBLE"
-	},
-	{
-		"Symbol": "INDBANK"
-	},
-	{
-		"Symbol": "INDBNK"
-	},
-	{
-		"Symbol": "INDGN"
-	},
-	{
-		"Symbol": "INDIAGLYCO"
-	},
-	{
-		"Symbol": "INDIANCARD"
-	},
-	{
-		"Symbol": "INDIANHUME"
-	},
-	{
-		"Symbol": "INDIASHLTR"
-	},
-	{
-		"Symbol": "INDNIPPON"
-	},
-	{
-		"Symbol": "INDOAMIN"
-	},
-	{
-		"Symbol": "INDOBORAX"
-	},
-	{
-		"Symbol": "INDOCO"
-	},
-	{
-		"Symbol": "INDORAMA"
-	},
-	{
-		"Symbol": "INDOSTAR"
-	},
-	{
-		"Symbol": "INDOUS"
-	},
-	{
-		"Symbol": "INDOWIND"
-	},
-	{
-		"Symbol": "INDRAMEDCO"
-	},
-	{
-		"Symbol": "INDSWFTLTD"
-	},
-	{
-		"Symbol": "INDTERRAIN"
-	},
-	{
-		"Symbol": "INFOBEAN"
-	},
-	{
-		"Symbol": "INFOMEDIA"
-	},
-	{
-		"Symbol": "INNOVACAP"
-	},
-	{
-		"Symbol": "INOXINDIA"
-	},
-	{
-		"Symbol": "INSECTICID"
-	},
-	{
-		"Symbol": "INSPIRISYS"
-	},
-	{
-		"Symbol": "INTENTECH"
-	},
-	{
-		"Symbol": "INTERARCH"
-	},
-	{
-		"Symbol": "INTLCONV"
-	},
-	{
-		"Symbol": "INVENTURE"
-	},
-	{
-		"Symbol": "IREDA"
-	},
-	{
-		"Symbol": "IRMENERGY"
-	},
-	{
-		"Symbol": "ISTLTD"
-	},
-	{
-		"Symbol": "ITDC"
-	},
-	{
-		"Symbol": "IVC"
-	},
-	{
-		"Symbol": "IVP"
-	},
-	{
-		"Symbol": "IWEL"
-	},
-	{
-		"Symbol": "IXIGO"
-	},
-	{
-		"Symbol": "IZMO"
-	},
-	{
-		"Symbol": "JAGRAN"
-	},
-	{
-		"Symbol": "JAGSNPHARM"
-	},
-	{
-		"Symbol": "JAIBALAJI"
-	},
-	{
-		"Symbol": "JAYAGROGN"
-	},
-	{
-		"Symbol": "JAYBARMARU"
-	},
-	{
-		"Symbol": "JAYNECOIND"
-	},
-	{
-		"Symbol": "JAYSREETEA"
-	},
-	{
-		"Symbol": "JCHAC"
-	},
-	{
-		"Symbol": "JGCHEM"
-	},
-	{
-		"Symbol": "JHS"
-	},
-	{
-		"Symbol": "JINDALPHOT"
-	},
-	{
-		"Symbol": "JINDALPOLY"
-	},
-	{
-		"Symbol": "JINDRILL"
-	},
-	{
-		"Symbol": "JISLDVREQS"
-	},
-	{
-		"Symbol": "JITFINFRA"
-	},
-	{
-		"Symbol": "JLHL"
-	},
-	{
-		"Symbol": "JNKINDIA"
-	},
-	{
-		"Symbol": "JPOLYINVST"
-	},
-	{
-		"Symbol": "JSFB"
-	},
-	{
-		"Symbol": "JSWINFRA"
-	},
-	{
-		"Symbol": "JTEKTINDIA"
-	},
-	{
-		"Symbol": "JUNIPER"
-	},
-	{
-		"Symbol": "JYOTICNC"
-	},
-	{
-		"Symbol": "JYOTIRES"
-	},
-	{
-		"Symbol": "JYOTISTRUC"
-	},
-	{
-		"Symbol": "KABRAEXTRU"
-	},
-	{
-		"Symbol": "KAKATCEM"
-	},
-	{
-		"Symbol": "KAMATHOTEL"
-	},
-	{
-		"Symbol": "KAMDHENU"
-	},
-	{
-		"Symbol": "KANANIIND"
-	},
-	{
-		"Symbol": "KANORICHEM"
-	},
-	{
-		"Symbol": "KANPRPLA"
-	},
-	{
-		"Symbol": "KARMAENG"
-	},
-	{
-		"Symbol": "KARURVYSYA"
-	},
-	{
-		"Symbol": "KAUSHALYA"
-	},
-	{
-		"Symbol": "KBCGLOBAL"
-	},
-	{
-		"Symbol": "KCP"
-	},
-	{
-		"Symbol": "KCPSUGIND"
-	},
-	{
-		"Symbol": "KDDL"
-	},
-	{
-		"Symbol": "KECL"
-	},
-	{
-		"Symbol": "KELLTONTEC"
-	},
-	{
-		"Symbol": "KENNAMET"
-	},
-	{
-		"Symbol": "KENVI"
-	},
-	{
-		"Symbol": "KERNEX"
-	},
-	{
-		"Symbol": "KHADIM"
-	},
-	{
-		"Symbol": "KHAICHEM"
-	},
-	{
-		"Symbol": "KHAITANLTD"
-	},
-	{
-		"Symbol": "KHANDSE"
-	},
-	{
-		"Symbol": "KICL"
-	},
-	{
-		"Symbol": "KILITCH"
-	},
-	{
-		"Symbol": "KINGFA"
-	},
-	{
-		"Symbol": "KIRIINDUS"
-	},
-	{
-		"Symbol": "KIRLOSIND"
-	},
-	{
-		"Symbol": "KKCL"
-	},
-	{
-		"Symbol": "KLBRENG-B"
-	},
-	{
-		"Symbol": "KMCSHIL"
-	},
-	{
-		"Symbol": "KMEW"
-	},
-	{
-		"Symbol": "KMSUGAR"
-	},
-	{
-		"Symbol": "KOHINOOR"
-	},
-	{
-		"Symbol": "KOKUYOCMLN"
-	},
-	{
-		"Symbol": "KOLTEPATIL"
-	},
-	{
-		"Symbol": "KOTHARIPRO"
-	},
-	{
-		"Symbol": "KOVAI"
-	},
-	{
-		"Symbol": "KPEL"
-	},
-	{
-		"Symbol": "KRANTI"
-	},
-	{
-		"Symbol": "KRITINUT"
-	},
-	{
-		"Symbol": "KRN"
-	},
-	{
-		"Symbol": "KRONOX"
-	},
-	{
-		"Symbol": "KROSS"
-	},
-	{
-		"Symbol": "KRRAIL"
-	},
-	{
-		"Symbol": "KRSNAA"
-	},
-	{
-		"Symbol": "KRYSTAL"
-	},
-	{
-		"Symbol": "KSL"
-	},
-	{
-		"Symbol": "KSOLVES"
-	},
-	{
-		"Symbol": "KUANTUM"
-	},
-	{
-		"Symbol": "LAMBODHARA"
-	},
-	{
-		"Symbol": "LANCER"
-	},
-	{
-		"Symbol": "LANCORHOL"
-	},
-	{
-		"Symbol": "LIBERTSHOE"
-	},
-	{
-		"Symbol": "LICNFNHGP"
-	},
-	{
-		"Symbol": "LICNMID100"
-	},
-	{
-		"Symbol": "LIKHITHA"
-	},
-	{
-		"Symbol": "LINC"
-	},
-	{
-		"Symbol": "LINCOLN"
-	},
-	{
-		"Symbol": "LLOYDSENT"
-	},
-	{
-		"Symbol": "LOKESHMACH"
-	},
-	{
-		"Symbol": "LORDSCHLO"
-	},
-	{
-		"Symbol": "LOVABLE"
-	},
-	{
-		"Symbol": "LOWVOL"
-	},
-	{
-		"Symbol": "LUMAXIND"
-	},
-	{
-		"Symbol": "LUMAXTECH"
-	},
-	{
-		"Symbol": "LUXIND"
-	},
-	{
-		"Symbol": "LYKALABS"
-	},
-	{
-		"Symbol": "MADHAV"
-	},
-	{
-		"Symbol": "MADRASFERT"
-	},
-	{
-		"Symbol": "MAFANG"
-	},
-	{
-		"Symbol": "MAFATIND"
-	},
-	{
-		"Symbol": "MAGADSUGAR"
-	},
-	{
-		"Symbol": "MAGNUM"
-	},
-	{
-		"Symbol": "MAHAPEXLTD"
-	},
-	{
-		"Symbol": "MAHEPC"
-	},
-	{
-		"Symbol": "MAHKTECH"
-	},
-	{
-		"Symbol": "MAITHANALL"
-	},
-	{
-		"Symbol": "MAKEINDIA"
-	},
-	{
-		"Symbol": "MALUPAPER"
-	},
-	{
-		"Symbol": "MANAKALUCO"
-	},
-	{
-		"Symbol": "MANAKSIA"
-	},
-	{
-		"Symbol": "MANAKSTEEL"
-	},
-	{
-		"Symbol": "MANALIPETC"
-	},
-	{
-		"Symbol": "MANBA"
-	},
-	{
-		"Symbol": "MANCREDIT"
-	},
-	{
-		"Symbol": "MANGALAM"
-	},
-	{
-		"Symbol": "MANGCHEFER"
-	},
-	{
-		"Symbol": "MANGLMCEM"
-	},
-	{
-		"Symbol": "MANINDS"
-	},
-	{
-		"Symbol": "MANKIND"
-	},
-	{
-		"Symbol": "MANOMAY"
-	},
-	{
-		"Symbol": "MANORAMA"
-	},
-	{
-		"Symbol": "MANUGRAPH"
-	},
-	{
-		"Symbol": "MARALOVER"
-	},
-	{
-		"Symbol": "MARATHON"
-	},
-	{
-		"Symbol": "MASPTOP50"
-	},
-	{
-		"Symbol": "MASTERTR"
-	},
-	{
-		"Symbol": "MATRIMONY"
-	},
-	{
-		"Symbol": "MAWANASUG"
-	},
-	{
-		"Symbol": "MAXESTATES"
-	},
-	{
-		"Symbol": "MAXIND"
-	},
-	{
-		"Symbol": "MAYURUNIQ"
-	},
-	{
-		"Symbol": "MAZDA"
-	},
-	{
-		"Symbol": "MBLINFRA"
-	},
-	{
-		"Symbol": "MEDIASSIST"
-	},
-	{
-		"Symbol": "MEDICAMEQ"
-	},
-	{
-		"Symbol": "MEDICO"
-	},
-	{
-		"Symbol": "MEGASTAR"
-	},
-	{
-		"Symbol": "MENONBE"
-	},
-	{
-		"Symbol": "METAL"
-	},
-	{
-		"Symbol": "MGEL"
-	},
-	{
-		"Symbol": "MHLXMIRU"
-	},
-	{
-		"Symbol": "MICEL"
-	},
-	{
-		"Symbol": "MID150CASE"
-	},
-	{
-		"Symbol": "MIDQ50ADD"
-	},
-	{
-		"Symbol": "MIDSMALL"
-	},
-	{
-		"Symbol": "MIIL"
-	},
-	{
-		"Symbol": "MINDTECK"
-	},
-	{
-		"Symbol": "MIRCELECTR"
-	},
-	{
-		"Symbol": "MIRZAINT"
-	},
-	{
-		"Symbol": "MISHTANN"
-	},
-	{
-		"Symbol": "MITSU"
-	},
-	{
-		"Symbol": "MMFL"
-	},
-	{
-		"Symbol": "MOHEALTH"
-	},
-	{
-		"Symbol": "MOHITIND"
-	},
-	{
-		"Symbol": "MOL"
-	},
-	{
-		"Symbol": "MOLDTECH"
-	},
-	{
-		"Symbol": "MOLDTKPAC"
-	},
-	{
-		"Symbol": "MOLOWVOL"
-	},
-	{
-		"Symbol": "MOM100"
-	},
-	{
-		"Symbol": "MOMENTUM"
-	},
-	{
-		"Symbol": "MOMOMENTUM"
-	},
-	{
-		"Symbol": "MONARCH"
-	},
-	{
-		"Symbol": "MONQ50"
-	},
-	{
-		"Symbol": "MONTECARLO"
-	},
-	{
-		"Symbol": "MOQUALITY"
-	},
-	{
-		"Symbol": "MOSCHIP"
-	},
-	{
-		"Symbol": "MOTOGENFIN"
-	},
-	{
-		"Symbol": "MOVALUE"
-	},
-	{
-		"Symbol": "MPSLTD"
-	},
-	{
-		"Symbol": "MRO-TEK"
-	},
-	{
-		"Symbol": "MUFIN"
-	},
-	{
-		"Symbol": "MUFTI"
-	},
-	{
-		"Symbol": "MUKANDLTD"
-	},
-	{
-		"Symbol": "MUKKA"
-	},
-	{
-		"Symbol": "MULTICAP"
-	},
-	{
-		"Symbol": "MUNJALAU"
-	},
-	{
-		"Symbol": "MUNJALSHOW"
-	},
-	{
-		"Symbol": "MURUDCERA"
-	},
-	{
-		"Symbol": "MUTHOOTCAP"
-	},
-	{
-		"Symbol": "MUTHOOTMF"
-	},
-	{
-		"Symbol": "MVGJL"
-	},
-	{
-		"Symbol": "NACLIND"
-	},
-	{
-		"Symbol": "NAGAFERT"
-	},
-	{
-		"Symbol": "NAHARCAP"
-	},
-	{
-		"Symbol": "NAHARINDUS"
-	},
-	{
-		"Symbol": "NAHARPOLY"
-	},
-	{
-		"Symbol": "NAHARSPING"
-	},
-	{
-		"Symbol": "NAKSH"
-	},
-	{
-		"Symbol": "NARMADA"
-	},
-	{
-		"Symbol": "NATHBIOGEN"
-	},
-	{
-		"Symbol": "NATIONSTD"
-	},
-	{
-		"Symbol": "NAVKARCORP"
-	},
-	{
-		"Symbol": "NAVNETEDUL"
-	},
-	{
-		"Symbol": "NCLIND"
-	},
-	{
-		"Symbol": "NDLVENTURE"
-	},
-	{
-		"Symbol": "NDRAUTO"
-	},
-	{
-		"Symbol": "NDTV"
-	},
-	{
-		"Symbol": "NECCLTD"
-	},
-	{
-		"Symbol": "NELCAST"
-	},
-	{
-		"Symbol": "NELCO"
-	},
-	{
-		"Symbol": "NEOGEN"
-	},
-	{
-		"Symbol": "NGIL"
-	},
-	{
-		"Symbol": "NGLFINE"
-	},
-	{
-		"Symbol": "NIBE"
-	},
-	{
-		"Symbol": "NIFMID150"
-	},
-	{
-		"Symbol": "NIITLTD"
-	},
-	{
-		"Symbol": "NILAINFRA"
-	},
-	{
-		"Symbol": "NILKAMAL"
-	},
-	{
-		"Symbol": "NINSYS"
-	},
-	{
-		"Symbol": "NIPPOBATRY"
-	},
-	{
-		"Symbol": "NIRLON"
-	},
-	{
-		"Symbol": "NITINSPIN"
-	},
-	{
-		"Symbol": "NIVABUPA"
-	},
-	{
-		"Symbol": "NKIND"
-	},
-	{
-		"Symbol": "NORTHARC"
-	},
-	{
-		"Symbol": "NOVAAGRI"
-	},
-	{
-		"Symbol": "NOVARTIND"
-	},
-	{
-		"Symbol": "NPL"
-	},
-	{
-		"Symbol": "NRAIL"
-	},
-	{
-		"Symbol": "NSIL"
-	},
-	{
-		"Symbol": "NSL"
-	},
-	{
-		"Symbol": "NTPCGREEN"
-	},
-	{
-		"Symbol": "NUCLEUS"
-	},
-	{
-		"Symbol": "NURECA"
-	},
-	{
-		"Symbol": "NUVAMA"
-	},
-	{
-		"Symbol": "OAL"
-	},
-	{
-		"Symbol": "OBCL"
-	},
-	{
-		"Symbol": "OCCL"
-	},
-	{
-		"Symbol": "OCCLLTD"
-	},
-	{
-		"Symbol": "OLAELEC"
-	},
-	{
-		"Symbol": "OMAXAUTO"
-	},
-	{
-		"Symbol": "OMAXE"
-	},
-	{
-		"Symbol": "OMINFRAL"
-	},
-	{
-		"Symbol": "ONELIFECAP"
-	},
-	{
-		"Symbol": "ONMOBILE"
-	},
-	{
-		"Symbol": "ONWARDTEC"
-	},
-	{
-		"Symbol": "ORBTEXP"
-	},
-	{
-		"Symbol": "ORCHPHARMA"
-	},
-	{
-		"Symbol": "ORICONENT"
-	},
-	{
-		"Symbol": "ORIENTBELL"
-	},
-	{
-		"Symbol": "ORIENTCER"
-	},
-	{
-		"Symbol": "ORIENTHOT"
-	},
-	{
-		"Symbol": "ORIENTLTD"
-	},
-	{
-		"Symbol": "ORIENTPPR"
-	},
-	{
-		"Symbol": "ORIENTTECH"
-	},
-	{
-		"Symbol": "ORIRAIL"
-	},
-	{
-		"Symbol": "ORISSAMINE"
-	},
-	{
-		"Symbol": "ORTINGLOBE"
-	},
-	{
-		"Symbol": "OSWALGREEN"
-	},
-	{
-		"Symbol": "PAKKA"
-	},
-	{
-		"Symbol": "PALASHSECU"
-	},
-	{
-		"Symbol": "PALMJEWELS"
-	},
-	{
-		"Symbol": "PANAMAPET"
-	},
-	{
-		"Symbol": "PARACABLES"
-	},
-	{
-		"Symbol": "PARKHOTELS"
-	},
-	{
-		"Symbol": "PARSHVA"
-	},
-	{
-		"Symbol": "PATINTLOG"
-	},
-	{
-		"Symbol": "PAUSHAKLTD"
-	},
-	{
-		"Symbol": "PDMJEPAPER"
-	},
-	{
-		"Symbol": "PEARLPOLY"
-	},
-	{
-		"Symbol": "PENIND"
-	},
-	{
-		"Symbol": "PENINLAND"
-	},
-	{
-		"Symbol": "PFOCUS"
-	},
-	{
-		"Symbol": "PFS"
-	},
-	{
-		"Symbol": "PGIL"
-	},
-	{
-		"Symbol": "PICCADIL"
-	},
-	{
-		"Symbol": "PILANIINVS"
-	},
-	{
-		"Symbol": "PILITA"
-	},
-	{
-		"Symbol": "PIONEEREMB"
-	},
-	{
-		"Symbol": "PITTIENG"
-	},
-	{
-		"Symbol": "PIXTRANS"
-	},
-	{
-		"Symbol": "PLASTIBLEN"
-	},
-	{
-		"Symbol": "PLATIND"
-	},
-	{
-		"Symbol": "PLAZACABLE"
-	},
-	{
-		"Symbol": "PNBGILTS"
-	},
-	{
-		"Symbol": "PNC"
-	},
-	{
-		"Symbol": "PNGJL"
-	},
-	{
-		"Symbol": "POCL"
-	},
-	{
-		"Symbol": "PODDARMENT"
-	},
-	{
-		"Symbol": "POKARNA"
-	},
-	{
-		"Symbol": "PONNIERODE"
-	},
-	{
-		"Symbol": "POOJA"
-	},
-	{
-		"Symbol": "PPAP"
-	},
-	{
-		"Symbol": "PPL"
-	},
-	{
-		"Symbol": "PQIF"
-	},
-	{
-		"Symbol": "PRAENG"
-	},
-	{
-		"Symbol": "PRAKASHSTL"
-	},
-	{
-		"Symbol": "PRAVEG"
-	},
-	{
-		"Symbol": "PRECAM"
-	},
-	{
-		"Symbol": "PRECWIRE"
-	},
-	{
-		"Symbol": "PREMEXPLN"
-	},
-	{
-		"Symbol": "PREMIERENE"
-	},
-	{
-		"Symbol": "PRIMESECU"
-	},
-	{
-		"Symbol": "PRITIKAUTO"
-	},
-	{
-		"Symbol": "PROTEAN"
-	},
-	{
-		"Symbol": "PROZONER"
-	},
-	{
-		"Symbol": "PRUDENT"
-	},
-	{
-		"Symbol": "PSB"
-	},
-	{
-		"Symbol": "PSPPROJECT"
-	},
-	{
-		"Symbol": "PSUBANK"
-	},
-	{
-		"Symbol": "PSUBANKADD"
-	},
-	{
-		"Symbol": "PTC"
-	},
-	{
-		"Symbol": "PTCIL"
-	},
-	{
-		"Symbol": "PTL"
-	},
-	{
-		"Symbol": "PUNJABCHEM"
-	},
-	{
-		"Symbol": "PUNJCOMMU"
-	},
-	{
-		"Symbol": "PURVA"
-	},
-	{
-		"Symbol": "PVSL"
-	},
-	{
-		"Symbol": "PVTBANKADD"
-	},
-	{
-		"Symbol": "PYRAMID"
-	},
-	{
-		"Symbol": "QUICKHEAL"
-	},
-	{
-		"Symbol": "RACE"
-	},
-	{
-		"Symbol": "RACLGEAR"
-	},
-	{
-		"Symbol": "RADIANTCMS"
-	},
-	{
-		"Symbol": "RADIOCITY"
-	},
-	{
-		"Symbol": "RAJOOENG"
-	},
-	{
-		"Symbol": "RAJRATAN"
-	},
-	{
-		"Symbol": "RAJSREESUG"
-	},
-	{
-		"Symbol": "RAMANEWS"
-	},
-	{
-		"Symbol": "RAMAPHO"
-	},
-	{
-		"Symbol": "RAMASTEEL"
-	},
-	{
-		"Symbol": "RAMCOIND"
-	},
-	{
-		"Symbol": "RAMCOSYS"
-	},
-	{
-		"Symbol": "RAMRAT"
-	},
-	{
-		"Symbol": "RANASUG"
-	},
-	{
-		"Symbol": "RANEENGINE"
-	},
-	{
-		"Symbol": "RANEHOLDIN"
-	},
-	{
-		"Symbol": "RATNAVEER"
-	},
-	{
-		"Symbol": "RAWEDGE"
-	},
-	{
-		"Symbol": "RAYMONDLSL"
-	},
-	{
-		"Symbol": "RBL"
-	},
-	{
-		"Symbol": "RELCHEMQ"
-	},
-	{
-		"Symbol": "RELIABLE"
-	},
-	{
-		"Symbol": "RELICAB"
-	},
-	{
-		"Symbol": "REMSONSIND"
-	},
-	{
-		"Symbol": "REPRO"
-	},
-	{
-		"Symbol": "RESPONIND"
-	},
-	{
-		"Symbol": "RETAIL"
-	},
-	{
-		"Symbol": "RGL"
-	},
-	{
-		"Symbol": "RHETAN"
-	},
-	{
-		"Symbol": "RHL"
-	},
-	{
-		"Symbol": "RICOAUTO"
-	},
-	{
-		"Symbol": "RISHABH"
-	},
-	{
-		"Symbol": "RITCO"
-	},
-	{
-		"Symbol": "RKSWAMY"
-	},
-	{
-		"Symbol": "RML"
-	},
-	{
-		"Symbol": "ROHLTD"
-	},
-	{
-		"Symbol": "ROML"
-	},
-	{
-		"Symbol": "ROTO"
-	},
-	{
-		"Symbol": "RPEL"
-	},
-	{
-		"Symbol": "RPGLIFE"
-	},
-	{
-		"Symbol": "RPPINFRA"
-	},
-	{
-		"Symbol": "RPSGVENT"
-	},
-	{
-		"Symbol": "RPTECH"
-	},
-	{
-		"Symbol": "RSWM"
-	},
-	{
-		"Symbol": "RSYSTEMS"
-	},
-	{
-		"Symbol": "RUBFILA"
-	},
-	{
-		"Symbol": "RUBYMILLS"
-	},
-	{
-		"Symbol": "RUCHINFRA"
-	},
-	{
-		"Symbol": "RUCHIRA"
-	},
-	{
-		"Symbol": "RUPA"
-	},
-	{
-		"Symbol": "RUSHIL"
-	},
-	{
-		"Symbol": "RUSTOMJEE"
-	},
-	{
-		"Symbol": "RVHL"
-	},
-	{
-		"Symbol": "SADBHAV"
-	},
-	{
-		"Symbol": "SADBHIN"
-	},
-	{
-		"Symbol": "SADHNANIQ"
-	},
-	{
-		"Symbol": "SAGCEM"
-	},
-	{
-		"Symbol": "SAGILITY"
-	},
-	{
-		"Symbol": "SAHYADRI"
-	},
-	{
-		"Symbol": "SAINTGOBAIN"
-	},
-	{
-		"Symbol": "SAKHTISUG"
-	},
-	{
-		"Symbol": "SAKSOFT"
-	},
-	{
-		"Symbol": "SALASAR"
-	},
-	{
-		"Symbol": "SALONA"
-	},
-	{
-		"Symbol": "SALSTEEL"
-	},
-	{
-		"Symbol": "SALZERELEC"
-	},
-	{
-		"Symbol": "SAMBHAAV"
-	},
-	{
-		"Symbol": "SAMPANN"
-	},
-	{
-		"Symbol": "SANDESH"
-	},
-	{
-		"Symbol": "SANDHAR"
-	},
-	{
-		"Symbol": "SANGAMIND"
-	},
-	{
-		"Symbol": "SANGHIIND"
-	},
-	{
-		"Symbol": "SANOFICONR"
-	},
-	{
-		"Symbol": "SANSTAR"
-	},
-	{
-		"Symbol": "SARLAPOLY"
-	},
-	{
-		"Symbol": "SARVESHWAR"
-	},
-	{
-		"Symbol": "SASKEN"
-	},
-	{
-		"Symbol": "SASTASUNDR"
-	},
-	{
-		"Symbol": "SATIA"
-	},
-	{
-		"Symbol": "SATINDLTD"
-	},
-	{
-		"Symbol": "SAURASHCEM"
-	},
-	{
-		"Symbol": "SBC"
-	},
-	{
-		"Symbol": "SBGLP"
-	},
-	{
-		"Symbol": "SCHAND"
-	},
-	{
-		"Symbol": "SCILAL"
-	},
-	{
-		"Symbol": "SDBL"
-	},
-	{
-		"Symbol": "SEAMECLTD"
-	},
-	{
-		"Symbol": "SECMARK"
-	},
-	{
-		"Symbol": "SECURKLOUD"
-	},
-	{
-		"Symbol": "SELAN"
-	},
-	{
-		"Symbol": "SELMC"
-	},
-	{
-		"Symbol": "SENCO"
-	},
-	{
-		"Symbol": "SESHAPAPER"
-	},
-	{
-		"Symbol": "SGFIN"
-	},
-	{
-		"Symbol": "SGIL"
-	},
-	{
-		"Symbol": "SGL"
-	},
-	{
-		"Symbol": "SGMART"
-	},
-	{
-		"Symbol": "SGRL"
-	},
-	{
-		"Symbol": "SHAILY"
-	},
-	{
-		"Symbol": "SHALBY"
-	},
-	{
-		"Symbol": "SHALPAINTS"
-	},
-	{
-		"Symbol": "SHANKARA"
-	},
-	{
-		"Symbol": "SHANTIGEAR"
-	},
-	{
-		"Symbol": "SHARDACROP"
-	},
-	{
-		"Symbol": "SHARDAMOTR"
-	},
-	{
-		"Symbol": "SHEMAROO"
-	},
-	{
-		"Symbol": "SHILCTECH"
-	},
-	{
-		"Symbol": "SHISHIND"
-	},
-	{
-		"Symbol": "SHIVACEM"
-	},
-	{
-		"Symbol": "SHIVALIK"
-	},
-	{
-		"Symbol": "SHIVAMAUTO"
-	},
-	{
-		"Symbol": "SHIVAMILLS"
-	},
-	{
-		"Symbol": "SHIVATEX"
-	},
-	{
-		"Symbol": "SHK"
-	},
-	{
-		"Symbol": "SHREDIGCEM"
-	},
-	{
-		"Symbol": "SHREEPUSHK"
-	},
-	{
-		"Symbol": "SHREYANIND"
-	},
-	{
-		"Symbol": "SHUBHAM"
-	},
-	{
-		"Symbol": "SHYAMCENT"
-	},
-	{
-		"Symbol": "SIGACHI"
-	},
-	{
-		"Symbol": "SIGIND"
-	},
-	{
-		"Symbol": "SIGMA"
-	},
-	{
-		"Symbol": "SIGNPOST"
-	},
-	{
-		"Symbol": "SIKA"
-	},
-	{
-		"Symbol": "SIL"
-	},
-	{
-		"Symbol": "SILVERTUC"
-	},
-	{
-		"Symbol": "SINCLAIR"
-	},
-	{
-		"Symbol": "SINDHUTRAD"
-	},
-	{
-		"Symbol": "SIRCA"
-	},
-	{
-		"Symbol": "SIYSIL"
-	},
-	{
-		"Symbol": "SKIPPER"
-	},
-	{
-		"Symbol": "SKMEGGPROD"
-	},
-	{
-		"Symbol": "SMALLCAP"
-	},
-	{
-		"Symbol": "SMCGLOBAL"
-	},
-	{
-		"Symbol": "SMLISUZU"
-	},
-	{
-		"Symbol": "SMLT"
-	},
-	{
-		"Symbol": "SMSPHARMA"
-	},
-	{
-		"Symbol": "SNOWMAN"
-	},
-	{
-		"Symbol": "SOFTTECH"
-	},
-	{
-		"Symbol": "SOLARA"
-	},
-	{
-		"Symbol": "SOMANYCERA"
-	},
-	{
-		"Symbol": "SOMICONVEY"
-	},
-	{
-		"Symbol": "SOTL"
-	},
-	{
-		"Symbol": "SOUTHWEST"
-	},
-	{
-		"Symbol": "SPAL"
-	},
-	{
-		"Symbol": "SPECIALITY"
-	},
-	{
-		"Symbol": "SPENCERS"
-	},
-	{
-		"Symbol": "SPIC"
-	},
-	{
-		"Symbol": "SPICEJET"
-	},
-	{
-		"Symbol": "SPLIL"
-	},
-	{
-		"Symbol": "SPORTKING"
-	},
-	{
-		"Symbol": "SREEL"
-	},
-	{
-		"Symbol": "SRGHFL"
-	},
-	{
-		"Symbol": "SRHHYPOLTD"
-	},
-	{
-		"Symbol": "SRM"
-	},
-	{
-		"Symbol": "SSDL"
-	},
-	{
-		"Symbol": "SSWL"
-	},
-	{
-		"Symbol": "STANLEY"
-	},
-	{
-		"Symbol": "STARPAPER"
-	},
-	{
-		"Symbol": "STARTECK"
-	},
-	{
-		"Symbol": "STCINDIA"
-	},
-	{
-		"Symbol": "STEELCAS"
-	},
-	{
-		"Symbol": "STEELXIND"
-	},
-	{
-		"Symbol": "STEL"
-	},
-	{
-		"Symbol": "STERTOOLS"
-	},
-	{
-		"Symbol": "STL"
-	},
-	{
-		"Symbol": "STOVEKRAFT"
-	},
-	{
-		"Symbol": "STYLAMIND"
-	},
-	{
-		"Symbol": "STYLEBAAZA"
-	},
-	{
-		"Symbol": "STYRENIX"
-	},
-	{
-		"Symbol": "SUBROS"
-	},
-	{
-		"Symbol": "SUKHJITS"
-	},
-	{
-		"Symbol": "SUMMITSEC"
-	},
-	{
-		"Symbol": "SUNCLAY"
-	},
-	{
-		"Symbol": "SUNDARAM"
-	},
-	{
-		"Symbol": "SUNDARMFIN"
-	},
-	{
-		"Symbol": "SUNDRMBRAK"
-	},
-	{
-		"Symbol": "SUPERHOUSE"
-	},
-	{
-		"Symbol": "SUPRIYA"
-	},
-	{
-		"Symbol": "SURAJEST"
-	},
-	{
-		"Symbol": "SURAKSHA"
-	},
-	{
-		"Symbol": "SURANAT&P"
-	},
-	{
-		"Symbol": "SURYALAXMI"
-	},
-	{
-		"Symbol": "SURYODAY"
-	},
-	{
-		"Symbol": "SUTLEJTEX"
-	},
-	{
-		"Symbol": "SUVEN"
-	},
-	{
-		"Symbol": "SUVIDHAA"
-	},
-	{
-		"Symbol": "SUYOG"
-	},
-	{
-		"Symbol": "SWARAJENG"
-	},
-	{
-		"Symbol": "SWELECTES"
-	},
-	{
-		"Symbol": "SWIGGY"
-	},
-	{
-		"Symbol": "SYNCOMF"
-	},
-	{
-		"Symbol": "TAINWALCHM"
-	},
-	{
-		"Symbol": "TAJGVK"
-	},
-	{
-		"Symbol": "TAKE"
-	},
-	{
-		"Symbol": "TALBROAUTO"
-	},
-	{
-		"Symbol": "TANAA"
-	},
-	{
-		"Symbol": "TANFACIND"
-	},
-	{
-		"Symbol": "TARC"
-	},
-	{
-		"Symbol": "TARMAT"
-	},
-	{
-		"Symbol": "TARSONS"
-	},
-	{
-		"Symbol": "TASTYBITE"
-	},
-	{
-		"Symbol": "TATATECH"
-	},
-	{
-		"Symbol": "TATVA"
-	},
-	{
-		"Symbol": "TBOTEK"
-	},
-	{
-		"Symbol": "TBZ"
-	},
-	{
-		"Symbol": "TCI"
-	},
-	{
-		"Symbol": "TCLCONS"
-	},
-	{
-		"Symbol": "TCPLPACK"
-	},
-	{
-		"Symbol": "TDSL"
-	},
-	{
-		"Symbol": "TECH"
-	},
-	{
-		"Symbol": "TEXINFRA"
-	},
-	{
-		"Symbol": "TEXMOPIPES"
-	},
-	{
-		"Symbol": "TFCILTD"
-	},
-	{
-		"Symbol": "TGBHOTELS"
-	},
-	{
-		"Symbol": "TGVSL"
-	},
-	{
-		"Symbol": "THANGAMAYL"
-	},
-	{
-		"Symbol": "THEINVEST"
-	},
-	{
-		"Symbol": "THEMISMED"
-	},
-	{
-		"Symbol": "THOMASCOTT"
-	},
-	{
-		"Symbol": "THYROCARE"
-	},
-	{
-		"Symbol": "TIIL"
-	},
-	{
-		"Symbol": "TIMESGTY"
-	},
-	{
-		"Symbol": "TIMEX"
-	},
-	{
-		"Symbol": "TINNARUBR"
-	},
-	{
-		"Symbol": "TIPSFILMS"
-	},
-	{
-		"Symbol": "TNPETRO"
-	},
-	{
-		"Symbol": "TNPL"
-	},
-	{
-		"Symbol": "TNTELE"
-	},
-	{
-		"Symbol": "TOKYOPLAST"
-	},
-	{
-		"Symbol": "TOLINS"
-	},
-	{
-		"Symbol": "TOP100CASE"
-	},
-	{
-		"Symbol": "TOP10ADD"
-	},
-	{
-		"Symbol": "TOTEM"
-	},
-	{
-		"Symbol": "TPHQ"
-	},
-	{
-		"Symbol": "TPLPLASTEH"
-	},
-	{
-		"Symbol": "TRACXN"
-	},
-	{
-		"Symbol": "TRANSWORLD"
-	},
-	{
-		"Symbol": "TREL"
-	},
-	{
-		"Symbol": "TRF"
-	},
-	{
-		"Symbol": "TRIGYN"
-	},
-	{
-		"Symbol": "TTKHLTCARE"
-	},
-	{
-		"Symbol": "TUTIALKA"
-	},
-	{
-		"Symbol": "TVSSRICHAK"
-	},
-	{
-		"Symbol": "TVTODAY"
-	},
-	{
-		"Symbol": "UCAL"
-	},
-	{
-		"Symbol": "UDAICEMENT"
-	},
-	{
-		"Symbol": "UDS"
-	},
-	{
-		"Symbol": "UFLEX"
-	},
-	{
-		"Symbol": "UFO"
-	},
-	{
-		"Symbol": "UGARSUGAR"
-	},
-	{
-		"Symbol": "UGROCAP"
-	},
-	{
-		"Symbol": "UHZAVERI"
-	},
-	{
-		"Symbol": "ULTRAMAR"
-	},
-	{
-		"Symbol": "UMANGDAIRY"
-	},
-	{
-		"Symbol": "UMESLTD"
-	},
-	{
-		"Symbol": "UNIAUTO"
-	},
-	{
-		"Symbol": "UNICHEMLAB"
-	},
-	{
-		"Symbol": "UNIDT"
-	},
-	{
-		"Symbol": "UNIECOM"
-	},
-	{
-		"Symbol": "UNIENTER"
-	},
-	{
-		"Symbol": "UNIPARTS"
-	},
-	{
-		"Symbol": "UNIVCABLES"
-	},
-	{
-		"Symbol": "UNIVPHOTO"
-	},
-	{
-		"Symbol": "URSUGAR"
-	},
-	{
-		"Symbol": "USK"
-	},
-	{
-		"Symbol": "UTINEXT50"
-	},
-	{
-		"Symbol": "UTTAMSUGAR"
-	},
-	{
-		"Symbol": "UYFINCORP"
-	},
-	{
-		"Symbol": "VADILALIND"
-	},
-	{
-		"Symbol": "VALIANTLAB"
-	},
-	{
-		"Symbol": "VALIANTORG"
-	},
-	{
-		"Symbol": "VARDMNPOLY"
-	},
-	{
-		"Symbol": "VEEDOL"
-	},
-	{
-		"Symbol": "VENKEYS"
-	},
-	{
-		"Symbol": "VENUSREM"
-	},
-	{
-		"Symbol": "VERANDA"
-	},
-	{
-		"Symbol": "VHL"
-	},
-	{
-		"Symbol": "VIDHIING"
-	},
-	{
-		"Symbol": "VIKASECO"
-	},
-	{
-		"Symbol": "VIKASLIFE"
-	},
-	{
-		"Symbol": "VIMTALABS"
-	},
-	{
-		"Symbol": "VINCOFE"
-	},
-	{
-		"Symbol": "VINDHYATEL"
-	},
-	{
-		"Symbol": "VINEETLAB"
-	},
-	{
-		"Symbol": "VINYLINDIA"
-	},
-	{
-		"Symbol": "VIPCLOTHNG"
-	},
-	{
-		"Symbol": "VIRINCHI"
-	},
-	{
-		"Symbol": "VISAKAIND"
-	},
-	{
-		"Symbol": "VISHALBL"
-	},
-	{
-		"Symbol": "VISHNU"
-	},
-	{
-		"Symbol": "VISHWARAJ"
-	},
-	{
-		"Symbol": "VIVIDHA"
-	},
-	{
-		"Symbol": "VLSFINANCE"
-	},
-	{
-		"Symbol": "VPRPL"
-	},
-	{
-		"Symbol": "VRAJ"
-	},
-	{
-		"Symbol": "VSL"
-	},
-	{
-		"Symbol": "VSSL"
-	},
-	{
-		"Symbol": "VSTL"
-	},
-	{
-		"Symbol": "VSTTILLERS"
-	},
-	{
-		"Symbol": "WAAREEENER"
-	},
-	{
-		"Symbol": "WALCHANNAG"
-	},
-	{
-		"Symbol": "WANBURY"
-	},
-	{
-		"Symbol": "WARDINMOBI"
-	},
-	{
-		"Symbol": "WCIL"
-	},
-	{
-		"Symbol": "WEBELSOLAR"
-	},
-	{
-		"Symbol": "WEIZMANIND"
-	},
-	{
-		"Symbol": "WEL"
-	},
-	{
-		"Symbol": "WELINV"
-	},
-	{
-		"Symbol": "WELSPLSOL"
-	},
-	{
-		"Symbol": "WENDT"
-	},
-	{
-		"Symbol": "WEWIN"
-	},
-	{
-		"Symbol": "WHEELS"
-	},
-	{
-		"Symbol": "WILLAMAGOR"
-	},
-	{
-		"Symbol": "WINDLAS"
-	},
-	{
-		"Symbol": "WINDMACHIN"
-	},
-	{
-		"Symbol": "WORL"
-	},
-	{
-		"Symbol": "WPIL"
-	},
-	{
-		"Symbol": "WSI"
-	},
-	{
-		"Symbol": "XCHANGING"
-	},
-	{
-		"Symbol": "XPROINDIA"
-	},
-	{
-		"Symbol": "XTGLOBAL"
-	},
-	{
-		"Symbol": "YASHO"
-	},
-	{
-		"Symbol": "YATHARTH"
-	},
-	{
-		"Symbol": "YATRA"
-	},
-	{
-		"Symbol": "YUKEN"
-	},
-	{
-		"Symbol": "ZEELEARN"
-	},
-	{
-		"Symbol": "ZFSTEERING"
-	},
-	{
-		"Symbol": "ZIMLAB"
-	},
-	{
-		"Symbol": "ZODIAC"
-	},
-	{
-		"Symbol": "ZODIACLOTH"
-	},
-	{
-		"Symbol": "ZUARI"
-	},
-	{
-		"Symbol": "ZUARIIND"
-	}
+  {
+    "360ONE": "3IINFOLTD"
+  },
+  {
+    "360ONE": "3MINDIA"
+  },
+  {
+    "360ONE": "3PLAND"
+  },
+  {
+    "360ONE": "5PAISA"
+  },
+  {
+    "360ONE": "63MOONS"
+  },
+  {
+    "360ONE": "A1L"
+  },
+  {
+    "360ONE": "A2ZINFRA"
+  },
+  {
+    "360ONE": "AAATECH"
+  },
+  {
+    "360ONE": "AADHARHFC"
+  },
+  {
+    "360ONE": "AARTECH"
+  },
+  {
+    "360ONE": "AARTIDRUGS"
+  },
+  {
+    "360ONE": "AARTIIND"
+  },
+  {
+    "360ONE": "AARTIPHARM"
+  },
+  {
+    "360ONE": "AAVAS"
+  },
+  {
+    "360ONE": "ABAN"
+  },
+  {
+    "360ONE": "ABB"
+  },
+  {
+    "360ONE": "ABBOTINDIA"
+  },
+  {
+    "360ONE": "ABCAPITAL"
+  },
+  {
+    "360ONE": "ABDL"
+  },
+  {
+    "360ONE": "ABFRL"
+  },
+  {
+    "360ONE": "ABREL"
+  },
+  {
+    "360ONE": "ABSLAMC"
+  },
+  {
+    "360ONE": "ABSLNN50ET"
+  },
+  {
+    "360ONE": "ABSLPSE"
+  },
+  {
+    "360ONE": "ACC"
+  },
+  {
+    "360ONE": "ACCELYA"
+  },
+  {
+    "360ONE": "ACE"
+  },
+  {
+    "360ONE": "ACGL"
+  },
+  {
+    "360ONE": "ACI"
+  },
+  {
+    "360ONE": "ACL"
+  },
+  {
+    "360ONE": "ACLGATI"
+  },
+  {
+    "360ONE": "ACMESOLAR"
+  },
+  {
+    "360ONE": "ACTIVE"
+  },
+  {
+    "360ONE": "ADANIENSOL"
+  },
+  {
+    "360ONE": "ADANIENT"
+  },
+  {
+    "360ONE": "ADANIGREEN"
+  },
+  {
+    "360ONE": "ADANIPORTS"
+  },
+  {
+    "360ONE": "ADANIPOWER"
+  },
+  {
+    "360ONE": "ADFFOODS"
+  },
+  {
+    "360ONE": "ADORWELD"
+  },
+  {
+    "360ONE": "ADSL"
+  },
+  {
+    "360ONE": "ADVANIHOTR"
+  },
+  {
+    "360ONE": "ADVENZYMES"
+  },
+  {
+    "360ONE": "AEGISLOG"
+  },
+  {
+    "360ONE": "AEPL"
+  },
+  {
+    "360ONE": "AEROFLEX"
+  },
+  {
+    "360ONE": "AETHER"
+  },
+  {
+    "360ONE": "AFCONS"
+  },
+  {
+    "360ONE": "AFFLE"
+  },
+  {
+    "360ONE": "AFFORDABLE"
+  },
+  {
+    "360ONE": "AFIL"
+  },
+  {
+    "360ONE": "AGARIND"
+  },
+  {
+    "360ONE": "AGI"
+  },
+  {
+    "360ONE": "AGIIL"
+  },
+  {
+    "360ONE": "AGOL"
+  },
+  {
+    "360ONE": "AGRITECH"
+  },
+  {
+    "360ONE": "AGSTRA"
+  },
+  {
+    "360ONE": "AHL"
+  },
+  {
+    "360ONE": "AHLEAST"
+  },
+  {
+    "360ONE": "AHLUCONT"
+  },
+  {
+    "360ONE": "AIAENG"
+  },
+  {
+    "360ONE": "AIIL"
+  },
+  {
+    "360ONE": "AIRAN"
+  },
+  {
+    "360ONE": "AJANTPHARM"
+  },
+  {
+    "360ONE": "AJMERA"
+  },
+  {
+    "360ONE": "AKI"
+  },
+  {
+    "360ONE": "AKSHARCHEM"
+  },
+  {
+    "360ONE": "AKSHOPTFBR"
+  },
+  {
+    "360ONE": "AKUMS"
+  },
+  {
+    "360ONE": "AKZOINDIA"
+  },
+  {
+    "360ONE": "ALANKIT"
+  },
+  {
+    "360ONE": "ALBERTDAVD"
+  },
+  {
+    "360ONE": "ALEMBICLTD"
+  },
+  {
+    "360ONE": "ALICON"
+  },
+  {
+    "360ONE": "ALKALI"
+  },
+  {
+    "360ONE": "ALKEM"
+  },
+  {
+    "360ONE": "ALKYLAMINE"
+  },
+  {
+    "360ONE": "ALLCARGO"
+  },
+  {
+    "360ONE": "ALLDIGI"
+  },
+  {
+    "360ONE": "ALOKINDS"
+  },
+  {
+    "360ONE": "ALPHAGEO"
+  },
+  {
+    "360ONE": "AMBER"
+  },
+  {
+    "360ONE": "AMBICAAGAR"
+  },
+  {
+    "360ONE": "AMBIKCO"
+  },
+  {
+    "360ONE": "AMBUJACEM"
+  },
+  {
+    "360ONE": "AMDIND"
+  },
+  {
+    "360ONE": "AMIORG"
+  },
+  {
+    "360ONE": "AMJLAND"
+  },
+  {
+    "360ONE": "AMNPLST"
+  },
+  {
+    "360ONE": "AMRUTANJAN"
+  },
+  {
+    "360ONE": "ANANDRATHI"
+  },
+  {
+    "360ONE": "ANANTRAJ"
+  },
+  {
+    "360ONE": "ANDHRAPAP"
+  },
+  {
+    "360ONE": "ANDHRSUGAR"
+  },
+  {
+    "360ONE": "ANDREWYU"
+  },
+  {
+    "360ONE": "ANG"
+  },
+  {
+    "360ONE": "ANGELONE"
+  },
+  {
+    "360ONE": "ANMOL"
+  },
+  {
+    "360ONE": "ANUHPHR"
+  },
+  {
+    "360ONE": "ANUP"
+  },
+  {
+    "360ONE": "ANURAS"
+  },
+  {
+    "360ONE": "ANUROOP"
+  },
+  {
+    "360ONE": "APARINDS"
+  },
+  {
+    "360ONE": "APCL"
+  },
+  {
+    "360ONE": "APCOTEXIND"
+  },
+  {
+    "360ONE": "APEX"
+  },
+  {
+    "360ONE": "APLAPOLLO"
+  },
+  {
+    "360ONE": "APLLTD"
+  },
+  {
+    "360ONE": "APOLLO"
+  },
+  {
+    "360ONE": "APOLLOHOSP"
+  },
+  {
+    "360ONE": "APOLLOPIPE"
+  },
+  {
+    "360ONE": "APOLLOTYRE"
+  },
+  {
+    "360ONE": "APTECHT"
+  },
+  {
+    "360ONE": "APTUS"
+  },
+  {
+    "360ONE": "ARCHIDPLY"
+  },
+  {
+    "360ONE": "ARE&M"
+  },
+  {
+    "360ONE": "ARIES"
+  },
+  {
+    "360ONE": "ARIHANTCAP"
+  },
+  {
+    "360ONE": "ARIHANTSUP"
+  },
+  {
+    "360ONE": "ARKADE"
+  },
+  {
+    "360ONE": "ARMANFIN"
+  },
+  {
+    "360ONE": "AROGRANITE"
+  },
+  {
+    "360ONE": "ARROWGREEN"
+  },
+  {
+    "360ONE": "ARTEMISMED"
+  },
+  {
+    "360ONE": "ARVIND"
+  },
+  {
+    "360ONE": "ARVINDFASN"
+  },
+  {
+    "360ONE": "ARVSMART"
+  },
+  {
+    "360ONE": "ASAHIINDIA"
+  },
+  {
+    "360ONE": "ASAHISONG"
+  },
+  {
+    "360ONE": "ASAL"
+  },
+  {
+    "360ONE": "ASALCBR"
+  },
+  {
+    "360ONE": "ASHAPURMIN"
+  },
+  {
+    "360ONE": "ASHIANA"
+  },
+  {
+    "360ONE": "ASHOKA"
+  },
+  {
+    "360ONE": "ASHOKLEY"
+  },
+  {
+    "360ONE": "ASIANENE"
+  },
+  {
+    "360ONE": "ASIANHOTNR"
+  },
+  {
+    "360ONE": "ASIANPAINT"
+  },
+  {
+    "360ONE": "ASIANTILES"
+  },
+  {
+    "360ONE": "ASKAUTOLTD"
+  },
+  {
+    "360ONE": "ASMS"
+  },
+  {
+    "360ONE": "ASMTEC"
+  },
+  {
+    "360ONE": "ASRL"
+  },
+  {
+    "360ONE": "ASTAR"
+  },
+  {
+    "360ONE": "ASTEC"
+  },
+  {
+    "360ONE": "ASTERDM"
+  },
+  {
+    "360ONE": "ASTRAL"
+  },
+  {
+    "360ONE": "ASTRAMICRO"
+  },
+  {
+    "360ONE": "ASTRAZEN"
+  },
+  {
+    "360ONE": "ASTRON"
+  },
+  {
+    "360ONE": "ATAM"
+  },
+  {
+    "360ONE": "ATFL"
+  },
+  {
+    "360ONE": "ATGL"
+  },
+  {
+    "360ONE": "ATL"
+  },
+  {
+    "360ONE": "ATUL"
+  },
+  {
+    "360ONE": "ATULAUTO"
+  },
+  {
+    "360ONE": "AUBANK"
+  },
+  {
+    "360ONE": "AURIONPRO"
+  },
+  {
+    "360ONE": "AUROPHARMA"
+  },
+  {
+    "360ONE": "AUTOAXLES"
+  },
+  {
+    "360ONE": "AUTOIND"
+  },
+  {
+    "360ONE": "AVADHSUGAR"
+  },
+  {
+    "360ONE": "AVALON"
+  },
+  {
+    "360ONE": "AVANTEL"
+  },
+  {
+    "360ONE": "AVANTIFEED"
+  },
+  {
+    "360ONE": "AVG"
+  },
+  {
+    "360ONE": "AVL"
+  },
+  {
+    "360ONE": "AVONMORE"
+  },
+  {
+    "360ONE": "AVTNPL"
+  },
+  {
+    "360ONE": "AWFIS"
+  },
+  {
+    "360ONE": "AWHCL"
+  },
+  {
+    "360ONE": "AWL"
+  },
+  {
+    "360ONE": "AXISBANK"
+  },
+  {
+    "360ONE": "AXISCADES"
+  },
+  {
+    "360ONE": "AXITA"
+  },
+  {
+    "360ONE": "AZAD"
+  },
+  {
+    "360ONE": "BAGFILMS"
+  },
+  {
+    "360ONE": "BAIDFIN"
+  },
+  {
+    "360ONE": "BAJAJ-AUTO"
+  },
+  {
+    "360ONE": "BAJAJCON"
+  },
+  {
+    "360ONE": "BAJAJELEC"
+  },
+  {
+    "360ONE": "BAJAJFINSV"
+  },
+  {
+    "360ONE": "BAJAJHCARE"
+  },
+  {
+    "360ONE": "BAJAJHFL"
+  },
+  {
+    "360ONE": "BAJAJHIND"
+  },
+  {
+    "360ONE": "BAJAJHLDNG"
+  },
+  {
+    "360ONE": "BAJEL"
+  },
+  {
+    "360ONE": "BAJFINANCE"
+  },
+  {
+    "360ONE": "BALAJEE"
+  },
+  {
+    "360ONE": "BALAJITELE"
+  },
+  {
+    "360ONE": "BALAMINES"
+  },
+  {
+    "360ONE": "BALKRISHNA"
+  },
+  {
+    "360ONE": "BALKRISIND"
+  },
+  {
+    "360ONE": "BALMLAWRIE"
+  },
+  {
+    "360ONE": "BALRAMCHIN"
+  },
+  {
+    "360ONE": "BALUFORGE"
+  },
+  {
+    "360ONE": "BANARISUG"
+  },
+  {
+    "360ONE": "BANCOINDIA"
+  },
+  {
+    "360ONE": "BANDHANBNK"
+  },
+  {
+    "360ONE": "BANKBARODA"
+  },
+  {
+    "360ONE": "BANKINDIA"
+  },
+  {
+    "360ONE": "BANKPSU"
+  },
+  {
+    "360ONE": "BANSALWIRE"
+  },
+  {
+    "360ONE": "BANSWRAS"
+  },
+  {
+    "360ONE": "BARBEQUE"
+  },
+  {
+    "360ONE": "BASF"
+  },
+  {
+    "360ONE": "BATAINDIA"
+  },
+  {
+    "360ONE": "BAYERCROP"
+  },
+  {
+    "360ONE": "BBL"
+  },
+  {
+    "360ONE": "BBOX"
+  },
+  {
+    "360ONE": "BBTC"
+  },
+  {
+    "360ONE": "BBTCL"
+  },
+  {
+    "360ONE": "BCLIND"
+  },
+  {
+    "360ONE": "BCONCEPTS"
+  },
+  {
+    "360ONE": "BCPL"
+  },
+  {
+    "360ONE": "BDL"
+  },
+  {
+    "360ONE": "BECTORFOOD"
+  },
+  {
+    "360ONE": "BEDMUTHA"
+  },
+  {
+    "360ONE": "BEEKAY"
+  },
+  {
+    "360ONE": "BEL"
+  },
+  {
+    "360ONE": "BEML"
+  },
+  {
+    "360ONE": "BENARAS"
+  },
+  {
+    "360ONE": "BENGALASM"
+  },
+  {
+    "360ONE": "BEPL"
+  },
+  {
+    "360ONE": "BERGEPAINT"
+  },
+  {
+    "360ONE": "BESTAGRO"
+  },
+  {
+    "360ONE": "BFINVEST"
+  },
+  {
+    "360ONE": "BFSI"
+  },
+  {
+    "360ONE": "BGJL"
+  },
+  {
+    "360ONE": "BHAGCHEM"
+  },
+  {
+    "360ONE": "BHAGYANGR"
+  },
+  {
+    "360ONE": "BHANDARI"
+  },
+  {
+    "360ONE": "BHARATFORG"
+  },
+  {
+    "360ONE": "BHARATGEAR"
+  },
+  {
+    "360ONE": "BHARATRAS"
+  },
+  {
+    "360ONE": "BHARATWIRE"
+  },
+  {
+    "360ONE": "BHARTIARTL"
+  },
+  {
+    "360ONE": "BHARTIHEXA"
+  },
+  {
+    "360ONE": "BHEL"
+  },
+  {
+    "360ONE": "BIBCL"
+  },
+  {
+    "360ONE": "BIGBLOC"
+  },
+  {
+    "360ONE": "BIKAJI"
+  },
+  {
+    "360ONE": "BIOCON"
+  },
+  {
+    "360ONE": "BIOFILCHEM"
+  },
+  {
+    "360ONE": "BIRLACABLE"
+  },
+  {
+    "360ONE": "BIRLACORPN"
+  },
+  {
+    "360ONE": "BIRLAMONEY"
+  },
+  {
+    "360ONE": "BLACKBUCK"
+  },
+  {
+    "360ONE": "BLAL"
+  },
+  {
+    "360ONE": "BLBLIMITED"
+  },
+  {
+    "360ONE": "BLIL"
+  },
+  {
+    "360ONE": "BLISSGVS"
+  },
+  {
+    "360ONE": "BLKASHYAP"
+  },
+  {
+    "360ONE": "BLS"
+  },
+  {
+    "360ONE": "BLSE"
+  },
+  {
+    "360ONE": "BLUECLOUDS"
+  },
+  {
+    "360ONE": "BLUECOAST"
+  },
+  {
+    "360ONE": "BLUEDART"
+  },
+  {
+    "360ONE": "BLUEJET"
+  },
+  {
+    "360ONE": "BLUESTARCO"
+  },
+  {
+    "360ONE": "BMW"
+  },
+  {
+    "360ONE": "BODALCHEM"
+  },
+  {
+    "360ONE": "BOMDYEING"
+  },
+  {
+    "360ONE": "BONLON"
+  },
+  {
+    "360ONE": "BOROLTD"
+  },
+  {
+    "360ONE": "BORORENEW"
+  },
+  {
+    "360ONE": "BOROSCI"
+  },
+  {
+    "360ONE": "BOSCHLTD"
+  },
+  {
+    "360ONE": "BPCL"
+  },
+  {
+    "360ONE": "BPL"
+  },
+  {
+    "360ONE": "BRIGADE"
+  },
+  {
+    "360ONE": "BRITANNIA"
+  },
+  {
+    "360ONE": "BRNL"
+  },
+  {
+    "360ONE": "BSL"
+  },
+  {
+    "360ONE": "BSOFT"
+  },
+  {
+    "360ONE": "BTML"
+  },
+  {
+    "360ONE": "BURNPUR"
+  },
+  {
+    "360ONE": "BUTTERFLY"
+  },
+  {
+    "360ONE": "BVCL"
+  },
+  {
+    "360ONE": "CAMLINFINE"
+  },
+  {
+    "360ONE": "CAMPUS"
+  },
+  {
+    "360ONE": "CAMS"
+  },
+  {
+    "360ONE": "CANBK"
+  },
+  {
+    "360ONE": "CANFINHOME"
+  },
+  {
+    "360ONE": "CANTABIL"
+  },
+  {
+    "360ONE": "CAPACITE"
+  },
+  {
+    "360ONE": "CAPITALSFB"
+  },
+  {
+    "360ONE": "CAPLIPOINT"
+  },
+  {
+    "360ONE": "CARBORUNIV"
+  },
+  {
+    "360ONE": "CAREERP"
+  },
+  {
+    "360ONE": "CARERATING"
+  },
+  {
+    "360ONE": "CARTRADE"
+  },
+  {
+    "360ONE": "CARYSIL"
+  },
+  {
+    "360ONE": "CASTROLIND"
+  },
+  {
+    "360ONE": "CCL"
+  },
+  {
+    "360ONE": "CEATLTD"
+  },
+  {
+    "360ONE": "CEIGALL"
+  },
+  {
+    "360ONE": "CELEBRITY"
+  },
+  {
+    "360ONE": "CELLO"
+  },
+  {
+    "360ONE": "CENTENKA"
+  },
+  {
+    "360ONE": "CENTEXT"
+  },
+  {
+    "360ONE": "CENTRALBK"
+  },
+  {
+    "360ONE": "CENTRUM"
+  },
+  {
+    "360ONE": "CENTUM"
+  },
+  {
+    "360ONE": "CENTURYPLY"
+  },
+  {
+    "360ONE": "CERA"
+  },
+  {
+    "360ONE": "CESC"
+  },
+  {
+    "360ONE": "CGCL"
+  },
+  {
+    "360ONE": "CGPOWER"
+  },
+  {
+    "360ONE": "CHALET"
+  },
+  {
+    "360ONE": "CHAMBLFERT"
+  },
+  {
+    "360ONE": "CHEMBOND"
+  },
+  {
+    "360ONE": "CHEMCON"
+  },
+  {
+    "360ONE": "CHEMCRUX"
+  },
+  {
+    "360ONE": "CHEMFAB"
+  },
+  {
+    "360ONE": "CHEMPLASTS"
+  },
+  {
+    "360ONE": "CHENNPETRO"
+  },
+  {
+    "360ONE": "CHEVIOT"
+  },
+  {
+    "360ONE": "CHOICEIN"
+  },
+  {
+    "360ONE": "CHOLAFIN"
+  },
+  {
+    "360ONE": "CHOLAHLDNG"
+  },
+  {
+    "360ONE": "CIEINDIA"
+  },
+  {
+    "360ONE": "CIGNITITEC"
+  },
+  {
+    "360ONE": "CINELINE"
+  },
+  {
+    "360ONE": "CINEVISTA"
+  },
+  {
+    "360ONE": "CIPLA"
+  },
+  {
+    "360ONE": "CLEAN"
+  },
+  {
+    "360ONE": "CLSEL"
+  },
+  {
+    "360ONE": "CMSINFO"
+  },
+  {
+    "360ONE": "COALINDIA"
+  },
+  {
+    "360ONE": "COASTCORP"
+  },
+  {
+    "360ONE": "COCKERILL"
+  },
+  {
+    "360ONE": "COFORGE"
+  },
+  {
+    "360ONE": "COLPAL"
+  },
+  {
+    "360ONE": "COMPUSOFT"
+  },
+  {
+    "360ONE": "COMSYN"
+  },
+  {
+    "360ONE": "CONCOR"
+  },
+  {
+    "360ONE": "CONCORDBIO"
+  },
+  {
+    "360ONE": "CONFIPET"
+  },
+  {
+    "360ONE": "CONTROLPR"
+  },
+  {
+    "360ONE": "CORDSCABLE"
+  },
+  {
+    "360ONE": "COROMANDEL"
+  },
+  {
+    "360ONE": "COSMOFIRST"
+  },
+  {
+    "360ONE": "COUNCODOS"
+  },
+  {
+    "360ONE": "CRAFTSMAN"
+  },
+  {
+    "360ONE": "CREDITACC"
+  },
+  {
+    "360ONE": "CREST"
+  },
+  {
+    "360ONE": "CRISIL"
+  },
+  {
+    "360ONE": "CROMPTON"
+  },
+  {
+    "360ONE": "CSBBANK"
+  },
+  {
+    "360ONE": "CSLFINANCE"
+  },
+  {
+    "360ONE": "CTE"
+  },
+  {
+    "360ONE": "CUB"
+  },
+  {
+    "360ONE": "CUBEXTUB"
+  },
+  {
+    "360ONE": "CUMMINSIND"
+  },
+  {
+    "360ONE": "CUPID"
+  },
+  {
+    "360ONE": "CYBERMEDIA"
+  },
+  {
+    "360ONE": "CYIENT"
+  },
+  {
+    "360ONE": "CYIENTDLM"
+  },
+  {
+    "360ONE": "DABUR"
+  },
+  {
+    "360ONE": "DALBHARAT"
+  },
+  {
+    "360ONE": "DALMIASUG"
+  },
+  {
+    "360ONE": "DAMODARIND"
+  },
+  {
+    "360ONE": "DATAMATICS"
+  },
+  {
+    "360ONE": "DATAPATTNS"
+  },
+  {
+    "360ONE": "DAVANGERE"
+  },
+  {
+    "360ONE": "DBCORP"
+  },
+  {
+    "360ONE": "DBEIL"
+  },
+  {
+    "360ONE": "DBL"
+  },
+  {
+    "360ONE": "DBOL"
+  },
+  {
+    "360ONE": "DBREALTY"
+  },
+  {
+    "360ONE": "DBSTOCKBRO"
+  },
+  {
+    "360ONE": "DCAL"
+  },
+  {
+    "360ONE": "DCBBANK"
+  },
+  {
+    "360ONE": "DCI"
+  },
+  {
+    "360ONE": "DCM"
+  },
+  {
+    "360ONE": "DCMNVL"
+  },
+  {
+    "360ONE": "DCMSHRIRAM"
+  },
+  {
+    "360ONE": "DCMSRIND"
+  },
+  {
+    "360ONE": "DCW"
+  },
+  {
+    "360ONE": "DCXINDIA"
+  },
+  {
+    "360ONE": "DDEVPLASTIK"
+  },
+  {
+    "360ONE": "DECCAN"
+  },
+  {
+    "360ONE": "DECCANCE"
+  },
+  {
+    "360ONE": "DECNGOLD"
+  },
+  {
+    "360ONE": "DEEDEV"
+  },
+  {
+    "360ONE": "DEEP"
+  },
+  {
+    "360ONE": "DEEPAKFERT"
+  },
+  {
+    "360ONE": "DEEPAKNTR"
+  },
+  {
+    "360ONE": "DEEPINDS"
+  },
+  {
+    "360ONE": "DELHIVERY"
+  },
+  {
+    "360ONE": "DELTACORP"
+  },
+  {
+    "360ONE": "DELTAMAGNT"
+  },
+  {
+    "360ONE": "DEN"
+  },
+  {
+    "360ONE": "DENORA"
+  },
+  {
+    "360ONE": "DEVIT"
+  },
+  {
+    "360ONE": "DEVYANI"
+  },
+  {
+    "360ONE": "DHAMPURSUG"
+  },
+  {
+    "360ONE": "DHANBANK"
+  },
+  {
+    "360ONE": "DHANI"
+  },
+  {
+    "360ONE": "DHANUKA"
+  },
+  {
+    "360ONE": "DHARMAJ"
+  },
+  {
+    "360ONE": "DHRUV"
+  },
+  {
+    "360ONE": "DHUNINV"
+  },
+  {
+    "360ONE": "DIAMINESQ"
+  },
+  {
+    "360ONE": "DIAMONDYD"
+  },
+  {
+    "360ONE": "DICIND"
+  },
+  {
+    "360ONE": "DIFFNKG"
+  },
+  {
+    "360ONE": "DIGIDRIVE"
+  },
+  {
+    "360ONE": "DISAQ"
+  },
+  {
+    "360ONE": "DISHTV"
+  },
+  {
+    "360ONE": "DIVGIITTS"
+  },
+  {
+    "360ONE": "DIVISLAB"
+  },
+  {
+    "360ONE": "DIXON"
+  },
+  {
+    "360ONE": "DJML"
+  },
+  {
+    "360ONE": "DLF"
+  },
+  {
+    "360ONE": "DLINKINDIA"
+  },
+  {
+    "360ONE": "DMART"
+  },
+  {
+    "360ONE": "DMCC"
+  },
+  {
+    "360ONE": "DNAMEDIA"
+  },
+  {
+    "360ONE": "DODLA"
+  },
+  {
+    "360ONE": "DOLATALGO"
+  },
+  {
+    "360ONE": "DOLFIN"
+  },
+  {
+    "360ONE": "DOLLAR"
+  },
+  {
+    "360ONE": "DOMS"
+  },
+  {
+    "360ONE": "DONEAR"
+  },
+  {
+    "360ONE": "DPABHUSHAN"
+  },
+  {
+    "360ONE": "DPWIRES"
+  },
+  {
+    "360ONE": "DRAGARWQ"
+  },
+  {
+    "360ONE": "DRCSYSTEMS"
+  },
+  {
+    "360ONE": "DREAMFOLKS"
+  },
+  {
+    "360ONE": "DREDGECORP"
+  },
+  {
+    "360ONE": "DRREDDY"
+  },
+  {
+    "360ONE": "DSSL"
+  },
+  {
+    "360ONE": "DTIL"
+  },
+  {
+    "360ONE": "DUCON"
+  },
+  {
+    "360ONE": "DVL"
+  },
+  {
+    "360ONE": "DWARKESH"
+  },
+  {
+    "360ONE": "DYCL"
+  },
+  {
+    "360ONE": "DYNAMATECH"
+  },
+  {
+    "360ONE": "DYNPRO"
+  },
+  {
+    "360ONE": "EASEMYTRIP"
+  },
+  {
+    "360ONE": "ECLERX"
+  },
+  {
+    "360ONE": "ECOSMOBLTY"
+  },
+  {
+    "360ONE": "EDELWEISS"
+  },
+  {
+    "360ONE": "EFCIL"
+  },
+  {
+    "360ONE": "EICHERMOT"
+  },
+  {
+    "360ONE": "EIDPARRY"
+  },
+  {
+    "360ONE": "EIEL"
+  },
+  {
+    "360ONE": "EIHAHOTELS"
+  },
+  {
+    "360ONE": "EIHOTEL"
+  },
+  {
+    "360ONE": "EIMCOELECO"
+  },
+  {
+    "360ONE": "EKC"
+  },
+  {
+    "360ONE": "EKI"
+  },
+  {
+    "360ONE": "ELANTAS"
+  },
+  {
+    "360ONE": "ELDEHSG"
+  },
+  {
+    "360ONE": "ELECON"
+  },
+  {
+    "360ONE": "ELECTCAST"
+  },
+  {
+    "360ONE": "ELGIEQUIP"
+  },
+  {
+    "360ONE": "ELIN"
+  },
+  {
+    "360ONE": "ELPROINTL"
+  },
+  {
+    "360ONE": "EMAMILTD"
+  },
+  {
+    "360ONE": "EMAMIPAP"
+  },
+  {
+    "360ONE": "EMBDL"
+  },
+  {
+    "360ONE": "EMCURE"
+  },
+  {
+    "360ONE": "EMIL"
+  },
+  {
+    "360ONE": "EMMBI"
+  },
+  {
+    "360ONE": "EMSLIMITED"
+  },
+  {
+    "360ONE": "EMUDHRA"
+  },
+  {
+    "360ONE": "ENDURANCE"
+  },
+  {
+    "360ONE": "ENERGYDEV"
+  },
+  {
+    "360ONE": "ENGINERSIN"
+  },
+  {
+    "360ONE": "ENIL"
+  },
+  {
+    "360ONE": "ENKEIWHEL"
+  },
+  {
+    "360ONE": "ENTERO"
+  },
+  {
+    "360ONE": "EPIGRAL"
+  },
+  {
+    "360ONE": "EPL"
+  },
+  {
+    "360ONE": "EQUAL50ADD"
+  },
+  {
+    "360ONE": "EQUITASBNK"
+  },
+  {
+    "360ONE": "ERIS"
+  },
+  {
+    "360ONE": "ESABINDIA"
+  },
+  {
+    "360ONE": "ESAFSFB"
+  },
+  {
+    "360ONE": "ESCORTS"
+  },
+  {
+    "360ONE": "ESG"
+  },
+  {
+    "360ONE": "ESTER"
+  },
+  {
+    "360ONE": "ETHOSLTD"
+  },
+  {
+    "360ONE": "EUREKAFORB"
+  },
+  {
+    "360ONE": "EVEREADY"
+  },
+  {
+    "360ONE": "EVERESTIND"
+  },
+  {
+    "360ONE": "EVINDIA"
+  },
+  {
+    "360ONE": "EXCELINDUS"
+  },
+  {
+    "360ONE": "EXICOM"
+  },
+  {
+    "360ONE": "EXIDEIND"
+  },
+  {
+    "360ONE": "EXPLEOSOL"
+  },
+  {
+    "360ONE": "EXXARO"
+  },
+  {
+    "360ONE": "FACT"
+  },
+  {
+    "360ONE": "FAIRCHEMOR"
+  },
+  {
+    "360ONE": "FAZE3Q"
+  },
+  {
+    "360ONE": "FCL"
+  },
+  {
+    "360ONE": "FCSSOFT"
+  },
+  {
+    "360ONE": "FDC"
+  },
+  {
+    "360ONE": "FEDDERSHOL"
+  },
+  {
+    "360ONE": "FEDERALBNK"
+  },
+  {
+    "360ONE": "FEDFINA"
+  },
+  {
+    "360ONE": "FIBERWEB"
+  },
+  {
+    "360ONE": "FIEMIND"
+  },
+  {
+    "360ONE": "FILATEX"
+  },
+  {
+    "360ONE": "FINCABLES"
+  },
+  {
+    "360ONE": "FINEORG"
+  },
+  {
+    "360ONE": "FINOPB"
+  },
+  {
+    "360ONE": "FINPIPE"
+  },
+  {
+    "360ONE": "FIRSTCRY"
+  },
+  {
+    "360ONE": "FIVESTAR"
+  },
+  {
+    "360ONE": "FLAIR"
+  },
+  {
+    "360ONE": "FLUOROCHEM"
+  },
+  {
+    "360ONE": "FMGOETZE"
+  },
+  {
+    "360ONE": "FOODSIN"
+  },
+  {
+    "360ONE": "FORCEMOT"
+  },
+  {
+    "360ONE": "FORTIS"
+  },
+  {
+    "360ONE": "FOSECOIND"
+  },
+  {
+    "360ONE": "FSL"
+  },
+  {
+    "360ONE": "FUSION"
+  },
+  {
+    "360ONE": "GABRIEL"
+  },
+  {
+    "360ONE": "GAEL"
+  },
+  {
+    "360ONE": "GAIL"
+  },
+  {
+    "360ONE": "GALACTICO"
+  },
+  {
+    "360ONE": "GALAPREC"
+  },
+  {
+    "360ONE": "GALAXYSURF"
+  },
+  {
+    "360ONE": "GANDHAR"
+  },
+  {
+    "360ONE": "GANDHITUBE"
+  },
+  {
+    "360ONE": "GANECOS"
+  },
+  {
+    "360ONE": "GANESHBE"
+  },
+  {
+    "360ONE": "GANESHHOUC"
+  },
+  {
+    "360ONE": "GANGESSECU"
+  },
+  {
+    "360ONE": "GARFIBRES"
+  },
+  {
+    "360ONE": "GARMNTMNTR"
+  },
+  {
+    "360ONE": "GARUDA"
+  },
+  {
+    "360ONE": "GATEWAY"
+  },
+  {
+    "360ONE": "GCMSECU"
+  },
+  {
+    "360ONE": "GEECEE"
+  },
+  {
+    "360ONE": "GENCON"
+  },
+  {
+    "360ONE": "GENESYS"
+  },
+  {
+    "360ONE": "GENSOL"
+  },
+  {
+    "360ONE": "GENUSPAPER"
+  },
+  {
+    "360ONE": "GENUSPOWER"
+  },
+  {
+    "360ONE": "GEOJITFSL"
+  },
+  {
+    "360ONE": "GEPIL"
+  },
+  {
+    "360ONE": "GESHIP"
+  },
+  {
+    "360ONE": "GFLLIMITED"
+  },
+  {
+    "360ONE": "GGENG"
+  },
+  {
+    "360ONE": "GHCL"
+  },
+  {
+    "360ONE": "GHCLTEXTIL"
+  },
+  {
+    "360ONE": "GIANLIFE"
+  },
+  {
+    "360ONE": "GICHSGFIN"
+  },
+  {
+    "360ONE": "GICRE"
+  },
+  {
+    "360ONE": "GILLANDERS"
+  },
+  {
+    "360ONE": "GILLETTE"
+  },
+  {
+    "360ONE": "GINNIFILA"
+  },
+  {
+    "360ONE": "GIPCL"
+  },
+  {
+    "360ONE": "GKP"
+  },
+  {
+    "360ONE": "GLAND"
+  },
+  {
+    "360ONE": "GLAXO"
+  },
+  {
+    "360ONE": "GLENMARK"
+  },
+  {
+    "360ONE": "GLOBUSSPR"
+  },
+  {
+    "360ONE": "GLOSTERLTD"
+  },
+  {
+    "360ONE": "GLS"
+  },
+  {
+    "360ONE": "GMBREW"
+  },
+  {
+    "360ONE": "GMDCLTD"
+  },
+  {
+    "360ONE": "GMMPFAUDLR"
+  },
+  {
+    "360ONE": "GMRAIRPORT"
+  },
+  {
+    "360ONE": "GMRP&UI"
+  },
+  {
+    "360ONE": "GNA"
+  },
+  {
+    "360ONE": "GNFC"
+  },
+  {
+    "360ONE": "GOACARBON"
+  },
+  {
+    "360ONE": "GOCLCORP"
+  },
+  {
+    "360ONE": "GOCOLORS"
+  },
+  {
+    "360ONE": "GODAVARIB"
+  },
+  {
+    "360ONE": "GODFRYPHLP"
+  },
+  {
+    "360ONE": "GODIGIT"
+  },
+  {
+    "360ONE": "GODREJAGRO"
+  },
+  {
+    "360ONE": "GODREJCP"
+  },
+  {
+    "360ONE": "GODREJIND"
+  },
+  {
+    "360ONE": "GODREJPROP"
+  },
+  {
+    "360ONE": "GOKEX"
+  },
+  {
+    "360ONE": "GOKULAGRO"
+  },
+  {
+    "360ONE": "GOLDIAM"
+  },
+  {
+    "360ONE": "GOODLUCK"
+  },
+  {
+    "360ONE": "GOODYEAR"
+  },
+  {
+    "360ONE": "GOPAL"
+  },
+  {
+    "360ONE": "GOYALALUM"
+  },
+  {
+    "360ONE": "GPIL"
+  },
+  {
+    "360ONE": "GPTHEALTH"
+  },
+  {
+    "360ONE": "GPTINFRA"
+  },
+  {
+    "360ONE": "GRANULES"
+  },
+  {
+    "360ONE": "GRAPHITE"
+  },
+  {
+    "360ONE": "GRASIM"
+  },
+  {
+    "360ONE": "GRAUWEIL"
+  },
+  {
+    "360ONE": "GRAVITA"
+  },
+  {
+    "360ONE": "GREAVESCOT"
+  },
+  {
+    "360ONE": "GREENLAM"
+  },
+  {
+    "360ONE": "GREENPANEL"
+  },
+  {
+    "360ONE": "GREENPLY"
+  },
+  {
+    "360ONE": "GREENPOWER"
+  },
+  {
+    "360ONE": "GRINDWELL"
+  },
+  {
+    "360ONE": "GRINFRA"
+  },
+  {
+    "360ONE": "GRMOVER"
+  },
+  {
+    "360ONE": "GRPLTD"
+  },
+  {
+    "360ONE": "GRSE"
+  },
+  {
+    "360ONE": "GRWRHITECH"
+  },
+  {
+    "360ONE": "GSFC"
+  },
+  {
+    "360ONE": "GSLSU"
+  },
+  {
+    "360ONE": "GSPL"
+  },
+  {
+    "360ONE": "GSS"
+  },
+  {
+    "360ONE": "GSTL"
+  },
+  {
+    "360ONE": "GTL"
+  },
+  {
+    "360ONE": "GTLINFRA"
+  },
+  {
+    "360ONE": "GTPL"
+  },
+  {
+    "360ONE": "GUFICBIO"
+  },
+  {
+    "360ONE": "GUJALKALI"
+  },
+  {
+    "360ONE": "GUJAPOLLO"
+  },
+  {
+    "360ONE": "GUJGASLTD"
+  },
+  {
+    "360ONE": "GUJRAFFIA"
+  },
+  {
+    "360ONE": "GUJSTATFIN"
+  },
+  {
+    "360ONE": "GUJTHEM"
+  },
+  {
+    "360ONE": "GULFOILLUB"
+  },
+  {
+    "360ONE": "GULFPETRO"
+  },
+  {
+    "360ONE": "GULPOLY"
+  },
+  {
+    "360ONE": "HAL"
+  },
+  {
+    "360ONE": "HARDWYN"
+  },
+  {
+    "360ONE": "HARIOMPIPE"
+  },
+  {
+    "360ONE": "HARSHA"
+  },
+  {
+    "360ONE": "HATHWAY"
+  },
+  {
+    "360ONE": "HATSUN"
+  },
+  {
+    "360ONE": "HAVELLS"
+  },
+  {
+    "360ONE": "HAWKINCOOK"
+  },
+  {
+    "360ONE": "HBLPOWER"
+  },
+  {
+    "360ONE": "HBSL"
+  },
+  {
+    "360ONE": "HCC"
+  },
+  {
+    "360ONE": "HCG"
+  },
+  {
+    "360ONE": "HCLTECH"
+  },
+  {
+    "360ONE": "HDFCAMC"
+  },
+  {
+    "360ONE": "HDFCBANK"
+  },
+  {
+    "360ONE": "HDFCLIFE"
+  },
+  {
+    "360ONE": "HEADSUP"
+  },
+  {
+    "360ONE": "HEALTHADD"
+  },
+  {
+    "360ONE": "HEALTHY"
+  },
+  {
+    "360ONE": "HEG"
+  },
+  {
+    "360ONE": "HEIDELBERG"
+  },
+  {
+    "360ONE": "HEMIPROP"
+  },
+  {
+    "360ONE": "HERANBA"
+  },
+  {
+    "360ONE": "HERITGFOOD"
+  },
+  {
+    "360ONE": "HEROMOTOCO"
+  },
+  {
+    "360ONE": "HESTERBIO"
+  },
+  {
+    "360ONE": "HEUBACHIND"
+  },
+  {
+    "360ONE": "HEXATRADEX"
+  },
+  {
+    "360ONE": "HFCL"
+  },
+  {
+    "360ONE": "HGINFRA"
+  },
+  {
+    "360ONE": "HGS"
+  },
+  {
+    "360ONE": "HIKAL"
+  },
+  {
+    "360ONE": "HIL"
+  },
+  {
+    "360ONE": "HILTON"
+  },
+  {
+    "360ONE": "HIMATSEIDE"
+  },
+  {
+    "360ONE": "HINDALCO"
+  },
+  {
+    "360ONE": "HINDCOMPOS"
+  },
+  {
+    "360ONE": "HINDOILEXP"
+  },
+  {
+    "360ONE": "HINDPETRO"
+  },
+  {
+    "360ONE": "HINDUNILVR"
+  },
+  {
+    "360ONE": "HINDWAREAP"
+  },
+  {
+    "360ONE": "HINDZINC"
+  },
+  {
+    "360ONE": "HINFLUR"
+  },
+  {
+    "360ONE": "HIRECT"
+  },
+  {
+    "360ONE": "HISARMETAL"
+  },
+  {
+    "360ONE": "HITECH"
+  },
+  {
+    "360ONE": "HITECHCORP"
+  },
+  {
+    "360ONE": "HLEGLAS"
+  },
+  {
+    "360ONE": "HLVLTD"
+  },
+  {
+    "360ONE": "HMAAGRO"
+  },
+  {
+    "360ONE": "HMVL"
+  },
+  {
+    "360ONE": "HNDFDS"
+  },
+  {
+    "360ONE": "HOCL"
+  },
+  {
+    "360ONE": "HOMEFIRST"
+  },
+  {
+    "360ONE": "HONASA"
+  },
+  {
+    "360ONE": "HONAUT"
+  },
+  {
+    "360ONE": "HONDAPOWER"
+  },
+  {
+    "360ONE": "HOVS"
+  },
+  {
+    "360ONE": "HPAL"
+  },
+  {
+    "360ONE": "HPIL"
+  },
+  {
+    "360ONE": "HPL"
+  },
+  {
+    "360ONE": "HSCL"
+  },
+  {
+    "360ONE": "HTMEDIA"
+  },
+  {
+    "360ONE": "HUDCO"
+  },
+  {
+    "360ONE": "HUHTAMAKI"
+  },
+  {
+    "360ONE": "HYUNDAI"
+  },
+  {
+    "360ONE": "ICDSLTD"
+  },
+  {
+    "360ONE": "ICICIB22"
+  },
+  {
+    "360ONE": "ICICIBANK"
+  },
+  {
+    "360ONE": "ICICIGI"
+  },
+  {
+    "360ONE": "ICICIPRULI"
+  },
+  {
+    "360ONE": "ICIL"
+  },
+  {
+    "360ONE": "ICRA"
+  },
+  {
+    "360ONE": "IDBI"
+  },
+  {
+    "360ONE": "IDEA"
+  },
+  {
+    "360ONE": "IDEAFORGE"
+  },
+  {
+    "360ONE": "IDFCFIRSTB"
+  },
+  {
+    "360ONE": "IEX"
+  },
+  {
+    "360ONE": "IFBAGRO"
+  },
+  {
+    "360ONE": "IFBIND"
+  },
+  {
+    "360ONE": "IFCI"
+  },
+  {
+    "360ONE": "IFGLEXPOR"
+  },
+  {
+    "360ONE": "IFL"
+  },
+  {
+    "360ONE": "IGARASHI"
+  },
+  {
+    "360ONE": "IGL"
+  },
+  {
+    "360ONE": "IGPL"
+  },
+  {
+    "360ONE": "IIFL"
+  },
+  {
+    "360ONE": "IIFLCAPS"
+  },
+  {
+    "360ONE": "IKIO"
+  },
+  {
+    "360ONE": "IMAGICAA"
+  },
+  {
+    "360ONE": "IMFA"
+  },
+  {
+    "360ONE": "IMPAL"
+  },
+  {
+    "360ONE": "INCREDIBLE"
+  },
+  {
+    "360ONE": "INDBANK"
+  },
+  {
+    "360ONE": "INDBNK"
+  },
+  {
+    "360ONE": "INDGN"
+  },
+  {
+    "360ONE": "INDHOTEL"
+  },
+  {
+    "360ONE": "INDIACEM"
+  },
+  {
+    "360ONE": "INDIAGLYCO"
+  },
+  {
+    "360ONE": "INDIAMART"
+  },
+  {
+    "360ONE": "INDIANB"
+  },
+  {
+    "360ONE": "INDIANCARD"
+  },
+  {
+    "360ONE": "INDIANHUME"
+  },
+  {
+    "360ONE": "INDIASHLTR"
+  },
+  {
+    "360ONE": "INDIGO"
+  },
+  {
+    "360ONE": "INDIGOPNTS"
+  },
+  {
+    "360ONE": "INDOAMIN"
+  },
+  {
+    "360ONE": "INDOBORAX"
+  },
+  {
+    "360ONE": "INDOCO"
+  },
+  {
+    "360ONE": "INDORAMA"
+  },
+  {
+    "360ONE": "INDOSTAR"
+  },
+  {
+    "360ONE": "INDOUS"
+  },
+  {
+    "360ONE": "INDOWIND"
+  },
+  {
+    "360ONE": "INDRAMEDCO"
+  },
+  {
+    "360ONE": "INDSWFTLTD"
+  },
+  {
+    "360ONE": "INDTERRAIN"
+  },
+  {
+    "360ONE": "INDUSINDBK"
+  },
+  {
+    "360ONE": "INDUSTOWER"
+  },
+  {
+    "360ONE": "INFIBEAM"
+  },
+  {
+    "360ONE": "INFOBEAN"
+  },
+  {
+    "360ONE": "INFOMEDIA"
+  },
+  {
+    "360ONE": "INFY"
+  },
+  {
+    "360ONE": "INGERRAND"
+  },
+  {
+    "360ONE": "INNOVACAP"
+  },
+  {
+    "360ONE": "INOXGREEN"
+  },
+  {
+    "360ONE": "INOXINDIA"
+  },
+  {
+    "360ONE": "INOXWIND"
+  },
+  {
+    "360ONE": "INSECTICID"
+  },
+  {
+    "360ONE": "INSPIRISYS"
+  },
+  {
+    "360ONE": "INTELLECT"
+  },
+  {
+    "360ONE": "INTENTECH"
+  },
+  {
+    "360ONE": "INTERARCH"
+  },
+  {
+    "360ONE": "INTLCONV"
+  },
+  {
+    "360ONE": "INVENTURE"
+  },
+  {
+    "360ONE": "IOB"
+  },
+  {
+    "360ONE": "IOC"
+  },
+  {
+    "360ONE": "IOLCP"
+  },
+  {
+    "360ONE": "IONEXCHANG"
+  },
+  {
+    "360ONE": "IPCALAB"
+  },
+  {
+    "360ONE": "IPL"
+  },
+  {
+    "360ONE": "IRB"
+  },
+  {
+    "360ONE": "IRCON"
+  },
+  {
+    "360ONE": "IRCTC"
+  },
+  {
+    "360ONE": "IREDA"
+  },
+  {
+    "360ONE": "IRFC"
+  },
+  {
+    "360ONE": "IRMENERGY"
+  },
+  {
+    "360ONE": "ISEC"
+  },
+  {
+    "360ONE": "ISGEC"
+  },
+  {
+    "360ONE": "ISTLTD"
+  },
+  {
+    "360ONE": "ITC"
+  },
+  {
+    "360ONE": "ITDC"
+  },
+  {
+    "360ONE": "ITDCEM"
+  },
+  {
+    "360ONE": "ITI"
+  },
+  {
+    "360ONE": "IVC"
+  },
+  {
+    "360ONE": "IVP"
+  },
+  {
+    "360ONE": "IWEL"
+  },
+  {
+    "360ONE": "IXIGO"
+  },
+  {
+    "360ONE": "IZMO"
+  },
+  {
+    "360ONE": "J&KBANK"
+  },
+  {
+    "360ONE": "JAGRAN"
+  },
+  {
+    "360ONE": "JAGSNPHARM"
+  },
+  {
+    "360ONE": "JAIBALAJI"
+  },
+  {
+    "360ONE": "JAICORPLTD"
+  },
+  {
+    "360ONE": "JAMNAAUTO"
+  },
+  {
+    "360ONE": "JAYAGROGN"
+  },
+  {
+    "360ONE": "JAYBARMARU"
+  },
+  {
+    "360ONE": "JAYNECOIND"
+  },
+  {
+    "360ONE": "JAYSREETEA"
+  },
+  {
+    "360ONE": "JBCHEPHARM"
+  },
+  {
+    "360ONE": "JBMA"
+  },
+  {
+    "360ONE": "JCHAC"
+  },
+  {
+    "360ONE": "JGCHEM"
+  },
+  {
+    "360ONE": "JHS"
+  },
+  {
+    "360ONE": "JINDALPHOT"
+  },
+  {
+    "360ONE": "JINDALPOLY"
+  },
+  {
+    "360ONE": "JINDALSAW"
+  },
+  {
+    "360ONE": "JINDALSTEL"
+  },
+  {
+    "360ONE": "JINDRILL"
+  },
+  {
+    "360ONE": "JINDWORLD"
+  },
+  {
+    "360ONE": "JIOFIN"
+  },
+  {
+    "360ONE": "JISLDVREQS"
+  },
+  {
+    "360ONE": "JISLJALEQS"
+  },
+  {
+    "360ONE": "JITFINFRA"
+  },
+  {
+    "360ONE": "JKCEMENT"
+  },
+  {
+    "360ONE": "JKIL"
+  },
+  {
+    "360ONE": "JKLAKSHMI"
+  },
+  {
+    "360ONE": "JKPAPER"
+  },
+  {
+    "360ONE": "JKTYRE"
+  },
+  {
+    "360ONE": "JLHL"
+  },
+  {
+    "360ONE": "JMFINANCIL"
+  },
+  {
+    "360ONE": "JNKINDIA"
+  },
+  {
+    "360ONE": "JPOLYINVST"
+  },
+  {
+    "360ONE": "JSFB"
+  },
+  {
+    "360ONE": "JSL"
+  },
+  {
+    "360ONE": "JSWENERGY"
+  },
+  {
+    "360ONE": "JSWINFRA"
+  },
+  {
+    "360ONE": "JSWSTEEL"
+  },
+  {
+    "360ONE": "JTEKTINDIA"
+  },
+  {
+    "360ONE": "JTLIND"
+  },
+  {
+    "360ONE": "JUBLFOOD"
+  },
+  {
+    "360ONE": "JUBLINGREA"
+  },
+  {
+    "360ONE": "JUBLPHARMA"
+  },
+  {
+    "360ONE": "JUNIPER"
+  },
+  {
+    "360ONE": "JUSTDIAL"
+  },
+  {
+    "360ONE": "JWL"
+  },
+  {
+    "360ONE": "JYOTHYLAB"
+  },
+  {
+    "360ONE": "JYOTICNC"
+  },
+  {
+    "360ONE": "JYOTIRES"
+  },
+  {
+    "360ONE": "JYOTISTRUC"
+  },
+  {
+    "360ONE": "KABRAEXTRU"
+  },
+  {
+    "360ONE": "KAJARIACER"
+  },
+  {
+    "360ONE": "KAKATCEM"
+  },
+  {
+    "360ONE": "KALAMANDIR"
+  },
+  {
+    "360ONE": "KALYANKJIL"
+  },
+  {
+    "360ONE": "KAMAHOLD"
+  },
+  {
+    "360ONE": "KAMATHOTEL"
+  },
+  {
+    "360ONE": "KAMDHENU"
+  },
+  {
+    "360ONE": "KANANIIND"
+  },
+  {
+    "360ONE": "KANORICHEM"
+  },
+  {
+    "360ONE": "KANPRPLA"
+  },
+  {
+    "360ONE": "KANSAINER"
+  },
+  {
+    "360ONE": "KARMAENG"
+  },
+  {
+    "360ONE": "KARURVYSYA"
+  },
+  {
+    "360ONE": "KAUSHALYA"
+  },
+  {
+    "360ONE": "KAYNES"
+  },
+  {
+    "360ONE": "KBCGLOBAL"
+  },
+  {
+    "360ONE": "KCP"
+  },
+  {
+    "360ONE": "KCPSUGIND"
+  },
+  {
+    "360ONE": "KDDL"
+  },
+  {
+    "360ONE": "KEC"
+  },
+  {
+    "360ONE": "KECL"
+  },
+  {
+    "360ONE": "KEI"
+  },
+  {
+    "360ONE": "KELLTONTEC"
+  },
+  {
+    "360ONE": "KENNAMET"
+  },
+  {
+    "360ONE": "KENVI"
+  },
+  {
+    "360ONE": "KERNEX"
+  },
+  {
+    "360ONE": "KESORAMIND"
+  },
+  {
+    "360ONE": "KFINTECH"
+  },
+  {
+    "360ONE": "KHADIM"
+  },
+  {
+    "360ONE": "KHAICHEM"
+  },
+  {
+    "360ONE": "KHAITANLTD"
+  },
+  {
+    "360ONE": "KHANDSE"
+  },
+  {
+    "360ONE": "KICL"
+  },
+  {
+    "360ONE": "KILITCH"
+  },
+  {
+    "360ONE": "KIMS"
+  },
+  {
+    "360ONE": "KINGFA"
+  },
+  {
+    "360ONE": "KIOCL"
+  },
+  {
+    "360ONE": "KIRIINDUS"
+  },
+  {
+    "360ONE": "KIRLFER"
+  },
+  {
+    "360ONE": "KIRLOSBROS"
+  },
+  {
+    "360ONE": "KIRLOSENG"
+  },
+  {
+    "360ONE": "KIRLOSIND"
+  },
+  {
+    "360ONE": "KIRLPNU"
+  },
+  {
+    "360ONE": "KKCL"
+  },
+  {
+    "360ONE": "KLBRENG-B"
+  },
+  {
+    "360ONE": "KMCSHIL"
+  },
+  {
+    "360ONE": "KMEW"
+  },
+  {
+    "360ONE": "KMSUGAR"
+  },
+  {
+    "360ONE": "KNRCON"
+  },
+  {
+    "360ONE": "KOHINOOR"
+  },
+  {
+    "360ONE": "KOKUYOCMLN"
+  },
+  {
+    "360ONE": "KOLTEPATIL"
+  },
+  {
+    "360ONE": "KOTAKBANK"
+  },
+  {
+    "360ONE": "KOTHARIPRO"
+  },
+  {
+    "360ONE": "KOVAI"
+  },
+  {
+    "360ONE": "KPEL"
+  },
+  {
+    "360ONE": "KPIGREEN"
+  },
+  {
+    "360ONE": "KPIL"
+  },
+  {
+    "360ONE": "KPITTECH"
+  },
+  {
+    "360ONE": "KPRMILL"
+  },
+  {
+    "360ONE": "KRANTI"
+  },
+  {
+    "360ONE": "KRBL"
+  },
+  {
+    "360ONE": "KRITINUT"
+  },
+  {
+    "360ONE": "KRN"
+  },
+  {
+    "360ONE": "KRONOX"
+  },
+  {
+    "360ONE": "KROSS"
+  },
+  {
+    "360ONE": "KRRAIL"
+  },
+  {
+    "360ONE": "KRSNAA"
+  },
+  {
+    "360ONE": "KRYSTAL"
+  },
+  {
+    "360ONE": "KSB"
+  },
+  {
+    "360ONE": "KSCL"
+  },
+  {
+    "360ONE": "KSL"
+  },
+  {
+    "360ONE": "KSOLVES"
+  },
+  {
+    "360ONE": "KTKBANK"
+  },
+  {
+    "360ONE": "KUANTUM"
+  },
+  {
+    "360ONE": "LALPATHLAB"
+  },
+  {
+    "360ONE": "LAMBODHARA"
+  },
+  {
+    "360ONE": "LANCER"
+  },
+  {
+    "360ONE": "LANCORHOL"
+  },
+  {
+    "360ONE": "LANDMARK"
+  },
+  {
+    "360ONE": "LAOPALA"
+  },
+  {
+    "360ONE": "LATENTVIEW"
+  },
+  {
+    "360ONE": "LAURUSLABS"
+  },
+  {
+    "360ONE": "LEMONTREE"
+  },
+  {
+    "360ONE": "LGBBROSLTD"
+  },
+  {
+    "360ONE": "LIBERTSHOE"
+  },
+  {
+    "360ONE": "LICHSGFIN"
+  },
+  {
+    "360ONE": "LICI"
+  },
+  {
+    "360ONE": "LICNFNHGP"
+  },
+  {
+    "360ONE": "LICNMID100"
+  },
+  {
+    "360ONE": "LIKHITHA"
+  },
+  {
+    "360ONE": "LINC"
+  },
+  {
+    "360ONE": "LINCOLN"
+  },
+  {
+    "360ONE": "LINDEINDIA"
+  },
+  {
+    "360ONE": "LLOYDSENGG"
+  },
+  {
+    "360ONE": "LLOYDSENT"
+  },
+  {
+    "360ONE": "LLOYDSME"
+  },
+  {
+    "360ONE": "LMW"
+  },
+  {
+    "360ONE": "LODHA"
+  },
+  {
+    "360ONE": "LOKESHMACH"
+  },
+  {
+    "360ONE": "LORDSCHLO"
+  },
+  {
+    "360ONE": "LOVABLE"
+  },
+  {
+    "360ONE": "LOWVOL"
+  },
+  {
+    "360ONE": "LT"
+  },
+  {
+    "360ONE": "LTF"
+  },
+  {
+    "360ONE": "LTFOODS"
+  },
+  {
+    "360ONE": "LTIM"
+  },
+  {
+    "360ONE": "LTTS"
+  },
+  {
+    "360ONE": "LUMAXIND"
+  },
+  {
+    "360ONE": "LUMAXTECH"
+  },
+  {
+    "360ONE": "LUPIN"
+  },
+  {
+    "360ONE": "LUXIND"
+  },
+  {
+    "360ONE": "LXCHEM"
+  },
+  {
+    "360ONE": "LYKALABS"
+  },
+  {
+    "360ONE": "M&M"
+  },
+  {
+    "360ONE": "M&MFIN"
+  },
+  {
+    "360ONE": "MADHAV"
+  },
+  {
+    "360ONE": "MADRASFERT"
+  },
+  {
+    "360ONE": "MAFANG"
+  },
+  {
+    "360ONE": "MAFATIND"
+  },
+  {
+    "360ONE": "MAGADSUGAR"
+  },
+  {
+    "360ONE": "MAGNUM"
+  },
+  {
+    "360ONE": "MAHABANK"
+  },
+  {
+    "360ONE": "MAHAPEXLTD"
+  },
+  {
+    "360ONE": "MAHEPC"
+  },
+  {
+    "360ONE": "MAHKTECH"
+  },
+  {
+    "360ONE": "MAHLIFE"
+  },
+  {
+    "360ONE": "MAHLOG"
+  },
+  {
+    "360ONE": "MAHSCOOTER"
+  },
+  {
+    "360ONE": "MAHSEAMLES"
+  },
+  {
+    "360ONE": "MAITHANALL"
+  },
+  {
+    "360ONE": "MAKEINDIA"
+  },
+  {
+    "360ONE": "MALUPAPER"
+  },
+  {
+    "360ONE": "MANAKALUCO"
+  },
+  {
+    "360ONE": "MANAKSIA"
+  },
+  {
+    "360ONE": "MANAKSTEEL"
+  },
+  {
+    "360ONE": "MANALIPETC"
+  },
+  {
+    "360ONE": "MANBA"
+  },
+  {
+    "360ONE": "MANCREDIT"
+  },
+  {
+    "360ONE": "MANGALAM"
+  },
+  {
+    "360ONE": "MANGCHEFER"
+  },
+  {
+    "360ONE": "MANGLMCEM"
+  },
+  {
+    "360ONE": "MANINDS"
+  },
+  {
+    "360ONE": "MANINFRA"
+  },
+  {
+    "360ONE": "MANKIND"
+  },
+  {
+    "360ONE": "MANOMAY"
+  },
+  {
+    "360ONE": "MANORAMA"
+  },
+  {
+    "360ONE": "MANUGRAPH"
+  },
+  {
+    "360ONE": "MANYAVAR"
+  },
+  {
+    "360ONE": "MAPMYINDIA"
+  },
+  {
+    "360ONE": "MARALOVER"
+  },
+  {
+    "360ONE": "MARATHON"
+  },
+  {
+    "360ONE": "MARICO"
+  },
+  {
+    "360ONE": "MARKSANS"
+  },
+  {
+    "360ONE": "MARUTI"
+  },
+  {
+    "360ONE": "MASFIN"
+  },
+  {
+    "360ONE": "MASPTOP50"
+  },
+  {
+    "360ONE": "MASTEK"
+  },
+  {
+    "360ONE": "MASTERTR"
+  },
+  {
+    "360ONE": "MATRIMONY"
+  },
+  {
+    "360ONE": "MAWANASUG"
+  },
+  {
+    "360ONE": "MAXESTATES"
+  },
+  {
+    "360ONE": "MAXHEALTH"
+  },
+  {
+    "360ONE": "MAXIND"
+  },
+  {
+    "360ONE": "MAYURUNIQ"
+  },
+  {
+    "360ONE": "MAZDA"
+  },
+  {
+    "360ONE": "MAZDOCK"
+  },
+  {
+    "360ONE": "MBLINFRA"
+  },
+  {
+    "360ONE": "MCLOUD"
+  },
+  {
+    "360ONE": "MCX"
+  },
+  {
+    "360ONE": "MEDANTA"
+  },
+  {
+    "360ONE": "MEDIASSIST"
+  },
+  {
+    "360ONE": "MEDICAMEQ"
+  },
+  {
+    "360ONE": "MEDICO"
+  },
+  {
+    "360ONE": "MEDPLUS"
+  },
+  {
+    "360ONE": "MEGASTAR"
+  },
+  {
+    "360ONE": "MENONBE"
+  },
+  {
+    "360ONE": "METAL"
+  },
+  {
+    "360ONE": "METROBRAND"
+  },
+  {
+    "360ONE": "METROPOLIS"
+  },
+  {
+    "360ONE": "MFSL"
+  },
+  {
+    "360ONE": "MGEL"
+  },
+  {
+    "360ONE": "MGL"
+  },
+  {
+    "360ONE": "MHLXMIRU"
+  },
+  {
+    "360ONE": "MHRIL"
+  },
+  {
+    "360ONE": "MICEL"
+  },
+  {
+    "360ONE": "MID150CASE"
+  },
+  {
+    "360ONE": "MIDHANI"
+  },
+  {
+    "360ONE": "MIDQ50ADD"
+  },
+  {
+    "360ONE": "MIDSMALL"
+  },
+  {
+    "360ONE": "MIIL"
+  },
+  {
+    "360ONE": "MINDACORP"
+  },
+  {
+    "360ONE": "MINDTECK"
+  },
+  {
+    "360ONE": "MIRCELECTR"
+  },
+  {
+    "360ONE": "MIRZAINT"
+  },
+  {
+    "360ONE": "MISHTANN"
+  },
+  {
+    "360ONE": "MITSU"
+  },
+  {
+    "360ONE": "MMFL"
+  },
+  {
+    "360ONE": "MMTC"
+  },
+  {
+    "360ONE": "MOHEALTH"
+  },
+  {
+    "360ONE": "MOHITIND"
+  },
+  {
+    "360ONE": "MOIL"
+  },
+  {
+    "360ONE": "MOL"
+  },
+  {
+    "360ONE": "MOLDTECH"
+  },
+  {
+    "360ONE": "MOLDTKPAC"
+  },
+  {
+    "360ONE": "MOLOWVOL"
+  },
+  {
+    "360ONE": "MOM100"
+  },
+  {
+    "360ONE": "MOMENTUM"
+  },
+  {
+    "360ONE": "MOMOMENTUM"
+  },
+  {
+    "360ONE": "MONARCH"
+  },
+  {
+    "360ONE": "MONQ50"
+  },
+  {
+    "360ONE": "MONTECARLO"
+  },
+  {
+    "360ONE": "MOQUALITY"
+  },
+  {
+    "360ONE": "MOREPENLAB"
+  },
+  {
+    "360ONE": "MOSCHIP"
+  },
+  {
+    "360ONE": "MOTHERSON"
+  },
+  {
+    "360ONE": "MOTILALOFS"
+  },
+  {
+    "360ONE": "MOTOGENFIN"
+  },
+  {
+    "360ONE": "MOVALUE"
+  },
+  {
+    "360ONE": "MPHASIS"
+  },
+  {
+    "360ONE": "MPSLTD"
+  },
+  {
+    "360ONE": "MRF"
+  },
+  {
+    "360ONE": "MRO-TEK"
+  },
+  {
+    "360ONE": "MRPL"
+  },
+  {
+    "360ONE": "MSTCLTD"
+  },
+  {
+    "360ONE": "MSUMI"
+  },
+  {
+    "360ONE": "MTARTECH"
+  },
+  {
+    "360ONE": "MTNL"
+  },
+  {
+    "360ONE": "MUFIN"
+  },
+  {
+    "360ONE": "MUFTI"
+  },
+  {
+    "360ONE": "MUKANDLTD"
+  },
+  {
+    "360ONE": "MUKKA"
+  },
+  {
+    "360ONE": "MULTICAP"
+  },
+  {
+    "360ONE": "MUNJALAU"
+  },
+  {
+    "360ONE": "MUNJALSHOW"
+  },
+  {
+    "360ONE": "MURUDCERA"
+  },
+  {
+    "360ONE": "MUTHOOTCAP"
+  },
+  {
+    "360ONE": "MUTHOOTFIN"
+  },
+  {
+    "360ONE": "MUTHOOTMF"
+  },
+  {
+    "360ONE": "MVGJL"
+  },
+  {
+    "360ONE": "NACLIND"
+  },
+  {
+    "360ONE": "NAGAFERT"
+  },
+  {
+    "360ONE": "NAHARCAP"
+  },
+  {
+    "360ONE": "NAHARINDUS"
+  },
+  {
+    "360ONE": "NAHARPOLY"
+  },
+  {
+    "360ONE": "NAHARSPING"
+  },
+  {
+    "360ONE": "NAKSH"
+  },
+  {
+    "360ONE": "NAM-INDIA"
+  },
+  {
+    "360ONE": "NARMADA"
+  },
+  {
+    "360ONE": "NATCOPHARM"
+  },
+  {
+    "360ONE": "NATHBIOGEN"
+  },
+  {
+    "360ONE": "NATIONALUM"
+  },
+  {
+    "360ONE": "NATIONSTD"
+  },
+  {
+    "360ONE": "NAUKRI"
+  },
+  {
+    "360ONE": "NAVA"
+  },
+  {
+    "360ONE": "NAVINFLUOR"
+  },
+  {
+    "360ONE": "NAVKARCORP"
+  },
+  {
+    "360ONE": "NAVNETEDUL"
+  },
+  {
+    "360ONE": "NAZARA"
+  },
+  {
+    "360ONE": "NBCC"
+  },
+  {
+    "360ONE": "NCC"
+  },
+  {
+    "360ONE": "NCLIND"
+  },
+  {
+    "360ONE": "NDLVENTURE"
+  },
+  {
+    "360ONE": "NDRAUTO"
+  },
+  {
+    "360ONE": "NDTV"
+  },
+  {
+    "360ONE": "NECCLTD"
+  },
+  {
+    "360ONE": "NELCAST"
+  },
+  {
+    "360ONE": "NELCO"
+  },
+  {
+    "360ONE": "NEOGEN"
+  },
+  {
+    "360ONE": "NESCO"
+  },
+  {
+    "360ONE": "NESTLEIND"
+  },
+  {
+    "360ONE": "NETWEB"
+  },
+  {
+    "360ONE": "NETWORK18"
+  },
+  {
+    "360ONE": "NEULANDLAB"
+  },
+  {
+    "360ONE": "NEWGEN"
+  },
+  {
+    "360ONE": "NFL"
+  },
+  {
+    "360ONE": "NGIL"
+  },
+  {
+    "360ONE": "NGLFINE"
+  },
+  {
+    "360ONE": "NH"
+  },
+  {
+    "360ONE": "NHPC"
+  },
+  {
+    "360ONE": "NIACL"
+  },
+  {
+    "360ONE": "NIBE"
+  },
+  {
+    "360ONE": "NIFMID150"
+  },
+  {
+    "360ONE": "NIITLTD"
+  },
+  {
+    "360ONE": "NIITMTS"
+  },
+  {
+    "360ONE": "NILAINFRA"
+  },
+  {
+    "360ONE": "NILKAMAL"
+  },
+  {
+    "360ONE": "NINSYS"
+  },
+  {
+    "360ONE": "NIRLON"
+  },
+  {
+    "360ONE": "NITINSPIN"
+  },
+  {
+    "360ONE": "NIVABUPA"
+  },
+  {
+    "360ONE": "NKIND"
+  },
+  {
+    "360ONE": "NLCINDIA"
+  },
+  {
+    "360ONE": "NMDC"
+  },
+  {
+    "360ONE": "NOCIL"
+  },
+  {
+    "360ONE": "NORTHARC"
+  },
+  {
+    "360ONE": "NOVAAGRI"
+  },
+  {
+    "360ONE": "NOVARTIND"
+  },
+  {
+    "360ONE": "NPL"
+  },
+  {
+    "360ONE": "NRAIL"
+  },
+  {
+    "360ONE": "NRBBEARING"
+  },
+  {
+    "360ONE": "NSIL"
+  },
+  {
+    "360ONE": "NSL"
+  },
+  {
+    "360ONE": "NSLNISP"
+  },
+  {
+    "360ONE": "NTPC"
+  },
+  {
+    "360ONE": "NTPCGREEN"
+  },
+  {
+    "360ONE": "NUCLEUS"
+  },
+  {
+    "360ONE": "NURECA"
+  },
+  {
+    "360ONE": "NUVAMA"
+  },
+  {
+    "360ONE": "NUVOCO"
+  },
+  {
+    "360ONE": "NYKAA"
+  },
+  {
+    "360ONE": "OAL"
+  },
+  {
+    "360ONE": "OBCL"
+  },
+  {
+    "360ONE": "OBEROIRLTY"
+  },
+  {
+    "360ONE": "OCCL"
+  },
+  {
+    "360ONE": "OCCLLTD"
+  },
+  {
+    "360ONE": "OFSS"
+  },
+  {
+    "360ONE": "OIL"
+  },
+  {
+    "360ONE": "OLAELEC"
+  },
+  {
+    "360ONE": "OLECTRA"
+  },
+  {
+    "360ONE": "OMAXAUTO"
+  },
+  {
+    "360ONE": "OMAXE"
+  },
+  {
+    "360ONE": "OMINFRAL"
+  },
+  {
+    "360ONE": "ONELIFECAP"
+  },
+  {
+    "360ONE": "ONGC"
+  },
+  {
+    "360ONE": "ONMOBILE"
+  },
+  {
+    "360ONE": "ONWARDTEC"
+  },
+  {
+    "360ONE": "ORBTEXP"
+  },
+  {
+    "360ONE": "ORCHPHARMA"
+  },
+  {
+    "360ONE": "ORICONENT"
+  },
+  {
+    "360ONE": "ORIENTBELL"
+  },
+  {
+    "360ONE": "ORIENTCEM"
+  },
+  {
+    "360ONE": "ORIENTCER"
+  },
+  {
+    "360ONE": "ORIENTELEC"
+  },
+  {
+    "360ONE": "ORIENTHOT"
+  },
+  {
+    "360ONE": "ORIENTLTD"
+  },
+  {
+    "360ONE": "ORIENTTECH"
+  },
+  {
+    "360ONE": "ORIRAIL"
+  },
+  {
+    "360ONE": "ORISSAMINE"
+  },
+  {
+    "360ONE": "ORTINGLOBE"
+  },
+  {
+    "360ONE": "OSWALGREEN"
+  },
+  {
+    "360ONE": "PAGEIND"
+  },
+  {
+    "360ONE": "PAISALO"
+  },
+  {
+    "360ONE": "PAKKA"
+  },
+  {
+    "360ONE": "PALASHSECU"
+  },
+  {
+    "360ONE": "PALMJEWELS"
+  },
+  {
+    "360ONE": "PANAMAPET"
+  },
+  {
+    "360ONE": "PARACABLES"
+  },
+  {
+    "360ONE": "PARADEEP"
+  },
+  {
+    "360ONE": "PARAGMILK"
+  },
+  {
+    "360ONE": "PARAS"
+  },
+  {
+    "360ONE": "PARKHOTELS"
+  },
+  {
+    "360ONE": "PARSHVA"
+  },
+  {
+    "360ONE": "PATANJALI"
+  },
+  {
+    "360ONE": "PATELENG"
+  },
+  {
+    "360ONE": "PATINTLOG"
+  },
+  {
+    "360ONE": "PAUSHAKLTD"
+  },
+  {
+    "360ONE": "PAYTM"
+  },
+  {
+    "360ONE": "PCBL"
+  },
+  {
+    "360ONE": "PDMJEPAPER"
+  },
+  {
+    "360ONE": "PDSL"
+  },
+  {
+    "360ONE": "PEARLPOLY"
+  },
+  {
+    "360ONE": "PEL"
+  },
+  {
+    "360ONE": "PENIND"
+  },
+  {
+    "360ONE": "PENINLAND"
+  },
+  {
+    "360ONE": "PERSISTENT"
+  },
+  {
+    "360ONE": "PETRONET"
+  },
+  {
+    "360ONE": "PFC"
+  },
+  {
+    "360ONE": "PFIZER"
+  },
+  {
+    "360ONE": "PFOCUS"
+  },
+  {
+    "360ONE": "PFS"
+  },
+  {
+    "360ONE": "PGEL"
+  },
+  {
+    "360ONE": "PGHH"
+  },
+  {
+    "360ONE": "PGHL"
+  },
+  {
+    "360ONE": "PGIL"
+  },
+  {
+    "360ONE": "PHOENIXLTD"
+  },
+  {
+    "360ONE": "PICCADIL"
+  },
+  {
+    "360ONE": "PIDILITIND"
+  },
+  {
+    "360ONE": "PIIND"
+  },
+  {
+    "360ONE": "PILANIINVS"
+  },
+  {
+    "360ONE": "PILITA"
+  },
+  {
+    "360ONE": "PIONEEREMB"
+  },
+  {
+    "360ONE": "PITTIENG"
+  },
+  {
+    "360ONE": "PIXTRANS"
+  },
+  {
+    "360ONE": "PLASTIBLEN"
+  },
+  {
+    "360ONE": "PLATIND"
+  },
+  {
+    "360ONE": "PLAZACABLE"
+  },
+  {
+    "360ONE": "PNB"
+  },
+  {
+    "360ONE": "PNBGILTS"
+  },
+  {
+    "360ONE": "PNBHOUSING"
+  },
+  {
+    "360ONE": "PNC"
+  },
+  {
+    "360ONE": "PNCINFRA"
+  },
+  {
+    "360ONE": "PNGJL"
+  },
+  {
+    "360ONE": "POCL"
+  },
+  {
+    "360ONE": "PODDARMENT"
+  },
+  {
+    "360ONE": "POKARNA"
+  },
+  {
+    "360ONE": "POLICYBZR"
+  },
+  {
+    "360ONE": "POLYCAB"
+  },
+  {
+    "360ONE": "POLYMED"
+  },
+  {
+    "360ONE": "POLYPLEX"
+  },
+  {
+    "360ONE": "PONNIERODE"
+  },
+  {
+    "360ONE": "POOJA"
+  },
+  {
+    "360ONE": "POONAWALLA"
+  },
+  {
+    "360ONE": "POWERGRID"
+  },
+  {
+    "360ONE": "POWERINDIA"
+  },
+  {
+    "360ONE": "POWERMECH"
+  },
+  {
+    "360ONE": "PQIF"
+  },
+  {
+    "360ONE": "PRAENG"
+  },
+  {
+    "360ONE": "PRAJIND"
+  },
+  {
+    "360ONE": "PRAKASH"
+  },
+  {
+    "360ONE": "PRAKASHSTL"
+  },
+  {
+    "360ONE": "PRAVEG"
+  },
+  {
+    "360ONE": "PRECAM"
+  },
+  {
+    "360ONE": "PRECWIRE"
+  },
+  {
+    "360ONE": "PREMEXPLN"
+  },
+  {
+    "360ONE": "PREMIERENE"
+  },
+  {
+    "360ONE": "PRESTIGE"
+  },
+  {
+    "360ONE": "PRICOLLTD"
+  },
+  {
+    "360ONE": "PRIMESECU"
+  },
+  {
+    "360ONE": "PRINCEPIPE"
+  },
+  {
+    "360ONE": "PRITIKAUTO"
+  },
+  {
+    "360ONE": "PRIVISCL"
+  },
+  {
+    "360ONE": "PROTEAN"
+  },
+  {
+    "360ONE": "PROZONER"
+  },
+  {
+    "360ONE": "PRSMJOHNSN"
+  },
+  {
+    "360ONE": "PRUDENT"
+  },
+  {
+    "360ONE": "PSB"
+  },
+  {
+    "360ONE": "PSUBANK"
+  },
+  {
+    "360ONE": "PSUBANKADD"
+  },
+  {
+    "360ONE": "PTC"
+  },
+  {
+    "360ONE": "PTCIL"
+  },
+  {
+    "360ONE": "PTL"
+  },
+  {
+    "360ONE": "PUNJABCHEM"
+  },
+  {
+    "360ONE": "PUNJCOMMU"
+  },
+  {
+    "360ONE": "PURVA"
+  },
+  {
+    "360ONE": "PVRINOX"
+  },
+  {
+    "360ONE": "PVSL"
+  },
+  {
+    "360ONE": "PVTBANKADD"
+  },
+  {
+    "360ONE": "PYRAMID"
+  },
+  {
+    "360ONE": "QUESS"
+  },
+  {
+    "360ONE": "QUICKHEAL"
+  },
+  {
+    "360ONE": "RACE"
+  },
+  {
+    "360ONE": "RACLGEAR"
+  },
+  {
+    "360ONE": "RADIANTCMS"
+  },
+  {
+    "360ONE": "RADICO"
+  },
+  {
+    "360ONE": "RADIOCITY"
+  },
+  {
+    "360ONE": "RAILTEL"
+  },
+  {
+    "360ONE": "RAIN"
+  },
+  {
+    "360ONE": "RAINBOW"
+  },
+  {
+    "360ONE": "RAJESHEXPO"
+  },
+  {
+    "360ONE": "RAJOOENG"
+  },
+  {
+    "360ONE": "RAJRATAN"
+  },
+  {
+    "360ONE": "RAJSREESUG"
+  },
+  {
+    "360ONE": "RALLIS"
+  },
+  {
+    "360ONE": "RAMANEWS"
+  },
+  {
+    "360ONE": "RAMAPHO"
+  },
+  {
+    "360ONE": "RAMASTEEL"
+  },
+  {
+    "360ONE": "RAMCOCEM"
+  },
+  {
+    "360ONE": "RAMCOIND"
+  },
+  {
+    "360ONE": "RAMCOSYS"
+  },
+  {
+    "360ONE": "RAMKY"
+  },
+  {
+    "360ONE": "RAMRAT"
+  },
+  {
+    "360ONE": "RANASUG"
+  },
+  {
+    "360ONE": "RANEENGINE"
+  },
+  {
+    "360ONE": "RANEHOLDIN"
+  },
+  {
+    "360ONE": "RATEGAIN"
+  },
+  {
+    "360ONE": "RATNAMANI"
+  },
+  {
+    "360ONE": "RATNAVEER"
+  },
+  {
+    "360ONE": "RAWEDGE"
+  },
+  {
+    "360ONE": "RAYMOND"
+  },
+  {
+    "360ONE": "RAYMONDLSL"
+  },
+  {
+    "360ONE": "RBA"
+  },
+  {
+    "360ONE": "RBL"
+  },
+  {
+    "360ONE": "RBLBANK"
+  },
+  {
+    "360ONE": "RCF"
+  },
+  {
+    "360ONE": "RECLTD"
+  },
+  {
+    "360ONE": "REDINGTON"
+  },
+  {
+    "360ONE": "REDTAPE"
+  },
+  {
+    "360ONE": "RELAXO"
+  },
+  {
+    "360ONE": "RELCHEMQ"
+  },
+  {
+    "360ONE": "RELIABLE"
+  },
+  {
+    "360ONE": "RELIANCE"
+  },
+  {
+    "360ONE": "RELICAB"
+  },
+  {
+    "360ONE": "RELIGARE"
+  },
+  {
+    "360ONE": "REMSONSIND"
+  },
+  {
+    "360ONE": "RENUKA"
+  },
+  {
+    "360ONE": "REPCOHOME"
+  },
+  {
+    "360ONE": "REPRO"
+  },
+  {
+    "360ONE": "RESPONIND"
+  },
+  {
+    "360ONE": "RETAIL"
+  },
+  {
+    "360ONE": "RGL"
+  },
+  {
+    "360ONE": "RHETAN"
+  },
+  {
+    "360ONE": "RHIM"
+  },
+  {
+    "360ONE": "RHL"
+  },
+  {
+    "360ONE": "RICOAUTO"
+  },
+  {
+    "360ONE": "RIIL"
+  },
+  {
+    "360ONE": "RISHABH"
+  },
+  {
+    "360ONE": "RITCO"
+  },
+  {
+    "360ONE": "RITES"
+  },
+  {
+    "360ONE": "RKFORGE"
+  },
+  {
+    "360ONE": "RKSWAMY"
+  },
+  {
+    "360ONE": "RML"
+  },
+  {
+    "360ONE": "ROHLTD"
+  },
+  {
+    "360ONE": "ROLEXRINGS"
+  },
+  {
+    "360ONE": "ROML"
+  },
+  {
+    "360ONE": "ROSSARI"
+  },
+  {
+    "360ONE": "ROTO"
+  },
+  {
+    "360ONE": "ROUTE"
+  },
+  {
+    "360ONE": "RPEL"
+  },
+  {
+    "360ONE": "RPGLIFE"
+  },
+  {
+    "360ONE": "RPSGVENT"
+  },
+  {
+    "360ONE": "RPTECH"
+  },
+  {
+    "360ONE": "RRKABEL"
+  },
+  {
+    "360ONE": "RSWM"
+  },
+  {
+    "360ONE": "RSYSTEMS"
+  },
+  {
+    "360ONE": "RTNINDIA"
+  },
+  {
+    "360ONE": "RTNPOWER"
+  },
+  {
+    "360ONE": "RUBFILA"
+  },
+  {
+    "360ONE": "RUBYMILLS"
+  },
+  {
+    "360ONE": "RUCHINFRA"
+  },
+  {
+    "360ONE": "RUCHIRA"
+  },
+  {
+    "360ONE": "RUPA"
+  },
+  {
+    "360ONE": "RUSHIL"
+  },
+  {
+    "360ONE": "RUSTOMJEE"
+  },
+  {
+    "360ONE": "RVHL"
+  },
+  {
+    "360ONE": "RVNL"
+  },
+  {
+    "360ONE": "SADBHAV"
+  },
+  {
+    "360ONE": "SADBHIN"
+  },
+  {
+    "360ONE": "SADHNANIQ"
+  },
+  {
+    "360ONE": "SAFARI"
+  },
+  {
+    "360ONE": "SAGCEM"
+  },
+  {
+    "360ONE": "SAGILITY"
+  },
+  {
+    "360ONE": "SAHYADRI"
+  },
+  {
+    "360ONE": "SAIL"
+  },
+  {
+    "360ONE": "SAINTGOBAIN"
+  },
+  {
+    "360ONE": "SAKHTISUG"
+  },
+  {
+    "360ONE": "SAKSOFT"
+  },
+  {
+    "360ONE": "SALASAR"
+  },
+  {
+    "360ONE": "SALONA"
+  },
+  {
+    "360ONE": "SALSTEEL"
+  },
+  {
+    "360ONE": "SALZERELEC"
+  },
+  {
+    "360ONE": "SAMBHAAV"
+  },
+  {
+    "360ONE": "SAMHI"
+  },
+  {
+    "360ONE": "SAMMAANCAP"
+  },
+  {
+    "360ONE": "SAMPANN"
+  },
+  {
+    "360ONE": "SANDESH"
+  },
+  {
+    "360ONE": "SANDHAR"
+  },
+  {
+    "360ONE": "SANDUMA"
+  },
+  {
+    "360ONE": "SANGAMIND"
+  },
+  {
+    "360ONE": "SANGHIIND"
+  },
+  {
+    "360ONE": "SANGHVIMOV"
+  },
+  {
+    "360ONE": "SANOFI"
+  },
+  {
+    "360ONE": "SANOFICONR"
+  },
+  {
+    "360ONE": "SANSERA"
+  },
+  {
+    "360ONE": "SANSTAR"
+  },
+  {
+    "360ONE": "SARDAEN"
+  },
+  {
+    "360ONE": "SAREGAMA"
+  },
+  {
+    "360ONE": "SARLAPOLY"
+  },
+  {
+    "360ONE": "SARVESHWAR"
+  },
+  {
+    "360ONE": "SASKEN"
+  },
+  {
+    "360ONE": "SASTASUNDR"
+  },
+  {
+    "360ONE": "SATIA"
+  },
+  {
+    "360ONE": "SATIN"
+  },
+  {
+    "360ONE": "SATINDLTD"
+  },
+  {
+    "360ONE": "SAURASHCEM"
+  },
+  {
+    "360ONE": "SBC"
+  },
+  {
+    "360ONE": "SBCL"
+  },
+  {
+    "360ONE": "SBFC"
+  },
+  {
+    "360ONE": "SBGLP"
+  },
+  {
+    "360ONE": "SBICARD"
+  },
+  {
+    "360ONE": "SBILIFE"
+  },
+  {
+    "360ONE": "SBIN"
+  },
+  {
+    "360ONE": "SCHAEFFLER"
+  },
+  {
+    "360ONE": "SCHAND"
+  },
+  {
+    "360ONE": "SCHNEIDER"
+  },
+  {
+    "360ONE": "SCI"
+  },
+  {
+    "360ONE": "SCILAL"
+  },
+  {
+    "360ONE": "SDBL"
+  },
+  {
+    "360ONE": "SEAMECLTD"
+  },
+  {
+    "360ONE": "SECMARK"
+  },
+  {
+    "360ONE": "SECURKLOUD"
+  },
+  {
+    "360ONE": "SELAN"
+  },
+  {
+    "360ONE": "SELMC"
+  },
+  {
+    "360ONE": "SENCO"
+  },
+  {
+    "360ONE": "SEPC"
+  },
+  {
+    "360ONE": "SESHAPAPER"
+  },
+  {
+    "360ONE": "SFL"
+  },
+  {
+    "360ONE": "SGFIN"
+  },
+  {
+    "360ONE": "SGIL"
+  },
+  {
+    "360ONE": "SGL"
+  },
+  {
+    "360ONE": "SGMART"
+  },
+  {
+    "360ONE": "SGRL"
+  },
+  {
+    "360ONE": "SHAILY"
+  },
+  {
+    "360ONE": "SHALBY"
+  },
+  {
+    "360ONE": "SHALPAINTS"
+  },
+  {
+    "360ONE": "SHANKARA"
+  },
+  {
+    "360ONE": "SHANTIGEAR"
+  },
+  {
+    "360ONE": "SHARDACROP"
+  },
+  {
+    "360ONE": "SHARDAMOTR"
+  },
+  {
+    "360ONE": "SHAREINDIA"
+  },
+  {
+    "360ONE": "SHEMAROO"
+  },
+  {
+    "360ONE": "SHILCTECH"
+  },
+  {
+    "360ONE": "SHILPAMED"
+  },
+  {
+    "360ONE": "SHISHIND"
+  },
+  {
+    "360ONE": "SHIVACEM"
+  },
+  {
+    "360ONE": "SHIVALIK"
+  },
+  {
+    "360ONE": "SHIVAMAUTO"
+  },
+  {
+    "360ONE": "SHIVAMILLS"
+  },
+  {
+    "360ONE": "SHIVATEX"
+  },
+  {
+    "360ONE": "SHK"
+  },
+  {
+    "360ONE": "SHOPERSTOP"
+  },
+  {
+    "360ONE": "SHREDIGCEM"
+  },
+  {
+    "360ONE": "SHREECEM"
+  },
+  {
+    "360ONE": "SHREEPUSHK"
+  },
+  {
+    "360ONE": "SHREYANIND"
+  },
+  {
+    "360ONE": "SHRIRAMFIN"
+  },
+  {
+    "360ONE": "SHUBHAM"
+  },
+  {
+    "360ONE": "SHYAMCENT"
+  },
+  {
+    "360ONE": "SHYAMMETL"
+  },
+  {
+    "360ONE": "SIEMENS"
+  },
+  {
+    "360ONE": "SIGACHI"
+  },
+  {
+    "360ONE": "SIGIND"
+  },
+  {
+    "360ONE": "SIGMA"
+  },
+  {
+    "360ONE": "SIGNATURE"
+  },
+  {
+    "360ONE": "SIGNPOST"
+  },
+  {
+    "360ONE": "SIKA"
+  },
+  {
+    "360ONE": "SIL"
+  },
+  {
+    "360ONE": "SILVERTUC"
+  },
+  {
+    "360ONE": "SINCLAIR"
+  },
+  {
+    "360ONE": "SINDHUTRAD"
+  },
+  {
+    "360ONE": "SIRCA"
+  },
+  {
+    "360ONE": "SIS"
+  },
+  {
+    "360ONE": "SIYSIL"
+  },
+  {
+    "360ONE": "SJS"
+  },
+  {
+    "360ONE": "SJVN"
+  },
+  {
+    "360ONE": "SKFINDIA"
+  },
+  {
+    "360ONE": "SKMEGGPROD"
+  },
+  {
+    "360ONE": "SMALLCAP"
+  },
+  {
+    "360ONE": "SMCGLOBAL"
+  },
+  {
+    "360ONE": "SMLISUZU"
+  },
+  {
+    "360ONE": "SMLT"
+  },
+  {
+    "360ONE": "SMSPHARMA"
+  },
+  {
+    "360ONE": "SNOWMAN"
+  },
+  {
+    "360ONE": "SOBHA"
+  },
+  {
+    "360ONE": "SOFTTECH"
+  },
+  {
+    "360ONE": "SOLARA"
+  },
+  {
+    "360ONE": "SOLARINDS"
+  },
+  {
+    "360ONE": "SOMANYCERA"
+  },
+  {
+    "360ONE": "SOMICONVEY"
+  },
+  {
+    "360ONE": "SONACOMS"
+  },
+  {
+    "360ONE": "SONATSOFTW"
+  },
+  {
+    "360ONE": "SOTL"
+  },
+  {
+    "360ONE": "SOUTHBANK"
+  },
+  {
+    "360ONE": "SOUTHWEST"
+  },
+  {
+    "360ONE": "SPAL"
+  },
+  {
+    "360ONE": "SPANDANA"
+  },
+  {
+    "360ONE": "SPARC"
+  },
+  {
+    "360ONE": "SPECIALITY"
+  },
+  {
+    "360ONE": "SPENCERS"
+  },
+  {
+    "360ONE": "SPIC"
+  },
+  {
+    "360ONE": "SPICEJET"
+  },
+  {
+    "360ONE": "SPLIL"
+  },
+  {
+    "360ONE": "SPLPETRO"
+  },
+  {
+    "360ONE": "SPORTKING"
+  },
+  {
+    "360ONE": "SREEL"
+  },
+  {
+    "360ONE": "SRF"
+  },
+  {
+    "360ONE": "SRGHFL"
+  },
+  {
+    "360ONE": "SRHHYPOLTD"
+  },
+  {
+    "360ONE": "SRM"
+  },
+  {
+    "360ONE": "SSDL"
+  },
+  {
+    "360ONE": "SSWL"
+  },
+  {
+    "360ONE": "STANLEY"
+  },
+  {
+    "360ONE": "STARCEMENT"
+  },
+  {
+    "360ONE": "STARHEALTH"
+  },
+  {
+    "360ONE": "STARPAPER"
+  },
+  {
+    "360ONE": "STARTECK"
+  },
+  {
+    "360ONE": "STCINDIA"
+  },
+  {
+    "360ONE": "STEELCAS"
+  },
+  {
+    "360ONE": "STEELXIND"
+  },
+  {
+    "360ONE": "STEL"
+  },
+  {
+    "360ONE": "STERTOOLS"
+  },
+  {
+    "360ONE": "STL"
+  },
+  {
+    "360ONE": "STLTECH"
+  },
+  {
+    "360ONE": "STOVEKRAFT"
+  },
+  {
+    "360ONE": "STYLAMIND"
+  },
+  {
+    "360ONE": "STYLEBAAZA"
+  },
+  {
+    "360ONE": "STYRENIX"
+  },
+  {
+    "360ONE": "SUBEXLTD"
+  },
+  {
+    "360ONE": "SUBROS"
+  },
+  {
+    "360ONE": "SUDARSCHEM"
+  },
+  {
+    "360ONE": "SUKHJITS"
+  },
+  {
+    "360ONE": "SULA"
+  },
+  {
+    "360ONE": "SUMICHEM"
+  },
+  {
+    "360ONE": "SUMMITSEC"
+  },
+  {
+    "360ONE": "SUNCLAY"
+  },
+  {
+    "360ONE": "SUNDARAM"
+  },
+  {
+    "360ONE": "SUNDARMFIN"
+  },
+  {
+    "360ONE": "SUNDRMBRAK"
+  },
+  {
+    "360ONE": "SUNDRMFAST"
+  },
+  {
+    "360ONE": "SUNFLAG"
+  },
+  {
+    "360ONE": "SUNPHARMA"
+  },
+  {
+    "360ONE": "SUNTECK"
+  },
+  {
+    "360ONE": "SUNTV"
+  },
+  {
+    "360ONE": "SUPERHOUSE"
+  },
+  {
+    "360ONE": "SUPRAJIT"
+  },
+  {
+    "360ONE": "SUPREMEIND"
+  },
+  {
+    "360ONE": "SUPRIYA"
+  },
+  {
+    "360ONE": "SURAJEST"
+  },
+  {
+    "360ONE": "SURAKSHA"
+  },
+  {
+    "360ONE": "SURANAT&P"
+  },
+  {
+    "360ONE": "SURYALAXMI"
+  },
+  {
+    "360ONE": "SURYAROSNI"
+  },
+  {
+    "360ONE": "SURYODAY"
+  },
+  {
+    "360ONE": "SUTLEJTEX"
+  },
+  {
+    "360ONE": "SUVEN"
+  },
+  {
+    "360ONE": "SUVENPHAR"
+  },
+  {
+    "360ONE": "SUVIDHAA"
+  },
+  {
+    "360ONE": "SUYOG"
+  },
+  {
+    "360ONE": "SUZLON"
+  },
+  {
+    "360ONE": "SWANENERGY"
+  },
+  {
+    "360ONE": "SWARAJENG"
+  },
+  {
+    "360ONE": "SWELECTES"
+  },
+  {
+    "360ONE": "SWIGGY"
+  },
+  {
+    "360ONE": "SWSOLAR"
+  },
+  {
+    "360ONE": "SYMPHONY"
+  },
+  {
+    "360ONE": "SYNCOMF"
+  },
+  {
+    "360ONE": "SYNGENE"
+  },
+  {
+    "360ONE": "SYRMA"
+  },
+  {
+    "360ONE": "TAINWALCHM"
+  },
+  {
+    "360ONE": "TAJGVK"
+  },
+  {
+    "360ONE": "TAKE"
+  },
+  {
+    "360ONE": "TALBROAUTO"
+  },
+  {
+    "360ONE": "TANAA"
+  },
+  {
+    "360ONE": "TANFACIND"
+  },
+  {
+    "360ONE": "TANLA"
+  },
+  {
+    "360ONE": "TARC"
+  },
+  {
+    "360ONE": "TARMAT"
+  },
+  {
+    "360ONE": "TARSONS"
+  },
+  {
+    "360ONE": "TASTYBITE"
+  },
+  {
+    "360ONE": "TATACHEM"
+  },
+  {
+    "360ONE": "TATACOMM"
+  },
+  {
+    "360ONE": "TATACONSUM"
+  },
+  {
+    "360ONE": "TATAELXSI"
+  },
+  {
+    "360ONE": "TATAINVEST"
+  },
+  {
+    "360ONE": "TATAMOTORS"
+  },
+  {
+    "360ONE": "TATAPOWER"
+  },
+  {
+    "360ONE": "TATASTEEL"
+  },
+  {
+    "360ONE": "TATATECH"
+  },
+  {
+    "360ONE": "TATVA"
+  },
+  {
+    "360ONE": "TBOTEK"
+  },
+  {
+    "360ONE": "TBZ"
+  },
+  {
+    "360ONE": "TCI"
+  },
+  {
+    "360ONE": "TCIEXP"
+  },
+  {
+    "360ONE": "TCLCONS"
+  },
+  {
+    "360ONE": "TCPLPACK"
+  },
+  {
+    "360ONE": "TCS"
+  },
+  {
+    "360ONE": "TDPOWERSYS"
+  },
+  {
+    "360ONE": "TDSL"
+  },
+  {
+    "360ONE": "TEAMLEASE"
+  },
+  {
+    "360ONE": "TECH"
+  },
+  {
+    "360ONE": "TECHM"
+  },
+  {
+    "360ONE": "TECHNOE"
+  },
+  {
+    "360ONE": "TEGA"
+  },
+  {
+    "360ONE": "TEJASNET"
+  },
+  {
+    "360ONE": "TEXINFRA"
+  },
+  {
+    "360ONE": "TEXMOPIPES"
+  },
+  {
+    "360ONE": "TEXRAIL"
+  },
+  {
+    "360ONE": "TFCILTD"
+  },
+  {
+    "360ONE": "TGBHOTELS"
+  },
+  {
+    "360ONE": "TGVSL"
+  },
+  {
+    "360ONE": "THANGAMAYL"
+  },
+  {
+    "360ONE": "THEINVEST"
+  },
+  {
+    "360ONE": "THEMISMED"
+  },
+  {
+    "360ONE": "THERMAX"
+  },
+  {
+    "360ONE": "THOMASCOOK"
+  },
+  {
+    "360ONE": "THOMASCOTT"
+  },
+  {
+    "360ONE": "THYROCARE"
+  },
+  {
+    "360ONE": "TI"
+  },
+  {
+    "360ONE": "TIIL"
+  },
+  {
+    "360ONE": "TIINDIA"
+  },
+  {
+    "360ONE": "TIMESGTY"
+  },
+  {
+    "360ONE": "TIMETECHNO"
+  },
+  {
+    "360ONE": "TIMEX"
+  },
+  {
+    "360ONE": "TIMKEN"
+  },
+  {
+    "360ONE": "TINNARUBR"
+  },
+  {
+    "360ONE": "TIPSFILMS"
+  },
+  {
+    "360ONE": "TIPSMUSIC"
+  },
+  {
+    "360ONE": "TIRUMALCHM"
+  },
+  {
+    "360ONE": "TITAGARH"
+  },
+  {
+    "360ONE": "TITAN"
+  },
+  {
+    "360ONE": "TMB"
+  },
+  {
+    "360ONE": "TNPETRO"
+  },
+  {
+    "360ONE": "TNPL"
+  },
+  {
+    "360ONE": "TNTELE"
+  },
+  {
+    "360ONE": "TOKYOPLAST"
+  },
+  {
+    "360ONE": "TOLINS"
+  },
+  {
+    "360ONE": "TOP100CASE"
+  },
+  {
+    "360ONE": "TOP10ADD"
+  },
+  {
+    "360ONE": "TORNTPHARM"
+  },
+  {
+    "360ONE": "TORNTPOWER"
+  },
+  {
+    "360ONE": "TOTEM"
+  },
+  {
+    "360ONE": "TPHQ"
+  },
+  {
+    "360ONE": "TPLPLASTEH"
+  },
+  {
+    "360ONE": "TRACXN"
+  },
+  {
+    "360ONE": "TRANSWORLD"
+  },
+  {
+    "360ONE": "TREL"
+  },
+  {
+    "360ONE": "TRENT"
+  },
+  {
+    "360ONE": "TRF"
+  },
+  {
+    "360ONE": "TRIDENT"
+  },
+  {
+    "360ONE": "TRIGYN"
+  },
+  {
+    "360ONE": "TRITURBINE"
+  },
+  {
+    "360ONE": "TRIVENI"
+  },
+  {
+    "360ONE": "TTKHLTCARE"
+  },
+  {
+    "360ONE": "TTKPRESTIG"
+  },
+  {
+    "360ONE": "TTML"
+  },
+  {
+    "360ONE": "TUTIALKA"
+  },
+  {
+    "360ONE": "TVSHLTD"
+  },
+  {
+    "360ONE": "TVSMOTOR"
+  },
+  {
+    "360ONE": "TVSSCS"
+  },
+  {
+    "360ONE": "TVSSRICHAK"
+  },
+  {
+    "360ONE": "TVTODAY"
+  },
+  {
+    "360ONE": "UBL"
+  },
+  {
+    "360ONE": "UCAL"
+  },
+  {
+    "360ONE": "UCOBANK"
+  },
+  {
+    "360ONE": "UDAICEMENT"
+  },
+  {
+    "360ONE": "UDS"
+  },
+  {
+    "360ONE": "UFLEX"
+  },
+  {
+    "360ONE": "UFO"
+  },
+  {
+    "360ONE": "UGARSUGAR"
+  },
+  {
+    "360ONE": "UGROCAP"
+  },
+  {
+    "360ONE": "UHZAVERI"
+  },
+  {
+    "360ONE": "UJJIVANSFB"
+  },
+  {
+    "360ONE": "ULTRACEMCO"
+  },
+  {
+    "360ONE": "ULTRAMAR"
+  },
+  {
+    "360ONE": "UMANGDAIRY"
+  },
+  {
+    "360ONE": "UMESLTD"
+  },
+  {
+    "360ONE": "UNIAUTO"
+  },
+  {
+    "360ONE": "UNICHEMLAB"
+  },
+  {
+    "360ONE": "UNIDT"
+  },
+  {
+    "360ONE": "UNIECOM"
+  },
+  {
+    "360ONE": "UNIENTER"
+  },
+  {
+    "360ONE": "UNIONBANK"
+  },
+  {
+    "360ONE": "UNIPARTS"
+  },
+  {
+    "360ONE": "UNITDSPR"
+  },
+  {
+    "360ONE": "UNIVCABLES"
+  },
+  {
+    "360ONE": "UNIVPHOTO"
+  },
+  {
+    "360ONE": "UNOMINDA"
+  },
+  {
+    "360ONE": "UPL"
+  },
+  {
+    "360ONE": "URSUGAR"
+  },
+  {
+    "360ONE": "USHAMART"
+  },
+  {
+    "360ONE": "USK"
+  },
+  {
+    "360ONE": "UTIAMC"
+  },
+  {
+    "360ONE": "UTINEXT50"
+  },
+  {
+    "360ONE": "UTISXN50"
+  },
+  {
+    "360ONE": "UTKARSHBNK"
+  },
+  {
+    "360ONE": "UTTAMSUGAR"
+  },
+  {
+    "360ONE": "UYFINCORP"
+  },
+  {
+    "360ONE": "VADILALIND"
+  },
+  {
+    "360ONE": "VAIBHAVGBL"
+  },
+  {
+    "360ONE": "VAKRANGEE"
+  },
+  {
+    "360ONE": "VALIANTLAB"
+  },
+  {
+    "360ONE": "VALIANTORG"
+  },
+  {
+    "360ONE": "VARDMNPOLY"
+  },
+  {
+    "360ONE": "VARROC"
+  },
+  {
+    "360ONE": "VASCONEQ"
+  },
+  {
+    "360ONE": "VBL"
+  },
+  {
+    "360ONE": "VEDL"
+  },
+  {
+    "360ONE": "VEEDOL"
+  },
+  {
+    "360ONE": "VENKEYS"
+  },
+  {
+    "360ONE": "VENUSPIPES"
+  },
+  {
+    "360ONE": "VENUSREM"
+  },
+  {
+    "360ONE": "VERANDA"
+  },
+  {
+    "360ONE": "VESUVIUS"
+  },
+  {
+    "360ONE": "VGUARD"
+  },
+  {
+    "360ONE": "VHL"
+  },
+  {
+    "360ONE": "VIDHIING"
+  },
+  {
+    "360ONE": "VIJAYA"
+  },
+  {
+    "360ONE": "VIKASECO"
+  },
+  {
+    "360ONE": "VIKASLIFE"
+  },
+  {
+    "360ONE": "VIMTALABS"
+  },
+  {
+    "360ONE": "VINATIORGA"
+  },
+  {
+    "360ONE": "VINCOFE"
+  },
+  {
+    "360ONE": "VINDHYATEL"
+  },
+  {
+    "360ONE": "VINEETLAB"
+  },
+  {
+    "360ONE": "VINYLINDIA"
+  },
+  {
+    "360ONE": "VIPCLOTHNG"
+  },
+  {
+    "360ONE": "VIPIND"
+  },
+  {
+    "360ONE": "VIRINCHI"
+  },
+  {
+    "360ONE": "VISAKAIND"
+  },
+  {
+    "360ONE": "VISHALBL"
+  },
+  {
+    "360ONE": "VISHNU"
+  },
+  {
+    "360ONE": "VISHWARAJ"
+  },
+  {
+    "360ONE": "VIVIDHA"
+  },
+  {
+    "360ONE": "VLSFINANCE"
+  },
+  {
+    "360ONE": "VMART"
+  },
+  {
+    "360ONE": "VOLTAMP"
+  },
+  {
+    "360ONE": "VOLTAS"
+  },
+  {
+    "360ONE": "VPRPL"
+  },
+  {
+    "360ONE": "VRAJ"
+  },
+  {
+    "360ONE": "VRLLOG"
+  },
+  {
+    "360ONE": "VSL"
+  },
+  {
+    "360ONE": "VSSL"
+  },
+  {
+    "360ONE": "VSTIND"
+  },
+  {
+    "360ONE": "VSTL"
+  },
+  {
+    "360ONE": "VSTTILLERS"
+  },
+  {
+    "360ONE": "VTL"
+  },
+  {
+    "360ONE": "WAAREEENER"
+  },
+  {
+    "360ONE": "WABAG"
+  },
+  {
+    "360ONE": "WALCHANNAG"
+  },
+  {
+    "360ONE": "WANBURY"
+  },
+  {
+    "360ONE": "WARDINMOBI"
+  },
+  {
+    "360ONE": "WCIL"
+  },
+  {
+    "360ONE": "WEBELSOLAR"
+  },
+  {
+    "360ONE": "WEIZMANIND"
+  },
+  {
+    "360ONE": "WEL"
+  },
+  {
+    "360ONE": "WELCORP"
+  },
+  {
+    "360ONE": "WELENT"
+  },
+  {
+    "360ONE": "WELINV"
+  },
+  {
+    "360ONE": "WELSPLSOL"
+  },
+  {
+    "360ONE": "WELSPUNLIV"
+  },
+  {
+    "360ONE": "WENDT"
+  },
+  {
+    "360ONE": "WESTLIFE"
+  },
+  {
+    "360ONE": "WEWIN"
+  },
+  {
+    "360ONE": "WHEELS"
+  },
+  {
+    "360ONE": "WHIRLPOOL"
+  },
+  {
+    "360ONE": "WILLAMAGOR"
+  },
+  {
+    "360ONE": "WINDLAS"
+  },
+  {
+    "360ONE": "WINDMACHIN"
+  },
+  {
+    "360ONE": "WIPRO"
+  },
+  {
+    "360ONE": "WOCKPHARMA"
+  },
+  {
+    "360ONE": "WONDERLA"
+  },
+  {
+    "360ONE": "WORL"
+  },
+  {
+    "360ONE": "WPIL"
+  },
+  {
+    "360ONE": "WSI"
+  },
+  {
+    "360ONE": "WSTCSTPAPR"
+  },
+  {
+    "360ONE": "XCHANGING"
+  },
+  {
+    "360ONE": "XPROINDIA"
+  },
+  {
+    "360ONE": "XTGLOBAL"
+  },
+  {
+    "360ONE": "YASHO"
+  },
+  {
+    "360ONE": "YATHARTH"
+  },
+  {
+    "360ONE": "YATRA"
+  },
+  {
+    "360ONE": "YESBANK"
+  },
+  {
+    "360ONE": "YUKEN"
+  },
+  {
+    "360ONE": "ZEEL"
+  },
+  {
+    "360ONE": "ZEELEARN"
+  },
+  {
+    "360ONE": "ZENSARTECH"
+  },
+  {
+    "360ONE": "ZENTEC"
+  },
+  {
+    "360ONE": "ZFCVINDIA"
+  },
+  {
+    "360ONE": "ZFSTEERING"
+  },
+  {
+    "360ONE": "ZIMLAB"
+  },
+  {
+    "360ONE": "ZODIAC"
+  },
+  {
+    "360ONE": "ZODIACLOTH"
+  },
+  {
+    "360ONE": "ZOMATO"
+  },
+  {
+    "360ONE": "ZUARI"
+  },
+  {
+    "360ONE": "ZUARIIND"
+  },
+  {
+    "360ONE": "ZYDUSLIFE"
+  },
+  {
+    "360ONE": "ZYDUSWELL"
+  }
 ]
