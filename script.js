@@ -34,7 +34,7 @@ function loadTradingViewWidget() {
         symbol: `BSE:${stocks[currentIndex].Symbol}`,
         interval: 'W',
         timezone: 'Asia/Kolkata',
-        theme: 'light',
+        theme: 'dark',
         style: '0',
         locale: 'in',
         toolbar_bg: '#f1f3f6',
