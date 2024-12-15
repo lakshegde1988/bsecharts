@@ -1,5384 +1,5387 @@
 [
   {
-    "360ONE": "3IINFOLTD"
+    "Symbol": "360ONE"
   },
   {
-    "360ONE": "3MINDIA"
+    "Symbol": "3IINFOLTD"
   },
   {
-    "360ONE": "3PLAND"
+    "Symbol": "3MINDIA"
   },
   {
-    "360ONE": "5PAISA"
+    "Symbol": "3PLAND"
   },
   {
-    "360ONE": "63MOONS"
+    "Symbol": "5PAISA"
   },
   {
-    "360ONE": "A1L"
+    "Symbol": "63MOONS"
   },
   {
-    "360ONE": "A2ZINFRA"
+    "Symbol": "A1L"
   },
   {
-    "360ONE": "AAATECH"
+    "Symbol": "A2ZINFRA"
   },
   {
-    "360ONE": "AADHARHFC"
+    "Symbol": "AAATECH"
   },
   {
-    "360ONE": "AARTECH"
+    "Symbol": "AADHARHFC"
   },
   {
-    "360ONE": "AARTIDRUGS"
+    "Symbol": "AARTECH"
   },
   {
-    "360ONE": "AARTIIND"
+    "Symbol": "AARTIDRUGS"
   },
   {
-    "360ONE": "AARTIPHARM"
+    "Symbol": "AARTIIND"
   },
   {
-    "360ONE": "AAVAS"
+    "Symbol": "AARTIPHARM"
   },
   {
-    "360ONE": "ABAN"
+    "Symbol": "AAVAS"
   },
   {
-    "360ONE": "ABB"
+    "Symbol": "ABAN"
   },
   {
-    "360ONE": "ABBOTINDIA"
+    "Symbol": "ABB"
   },
   {
-    "360ONE": "ABCAPITAL"
+    "Symbol": "ABBOTINDIA"
   },
   {
-    "360ONE": "ABDL"
+    "Symbol": "ABCAPITAL"
   },
   {
-    "360ONE": "ABFRL"
+    "Symbol": "ABDL"
   },
   {
-    "360ONE": "ABREL"
+    "Symbol": "ABFRL"
   },
   {
-    "360ONE": "ABSLAMC"
+    "Symbol": "ABREL"
   },
   {
-    "360ONE": "ABSLNN50ET"
+    "Symbol": "ABSLAMC"
   },
   {
-    "360ONE": "ABSLPSE"
+    "Symbol": "ABSLNN50ET"
   },
   {
-    "360ONE": "ACC"
+    "Symbol": "ABSLPSE"
   },
   {
-    "360ONE": "ACCELYA"
+    "Symbol": "ACC"
   },
   {
-    "360ONE": "ACE"
+    "Symbol": "ACCELYA"
   },
   {
-    "360ONE": "ACGL"
+    "Symbol": "ACE"
   },
   {
-    "360ONE": "ACI"
+    "Symbol": "ACGL"
   },
   {
-    "360ONE": "ACL"
+    "Symbol": "ACI"
   },
   {
-    "360ONE": "ACLGATI"
+    "Symbol": "ACL"
   },
   {
-    "360ONE": "ACMESOLAR"
+    "Symbol": "ACLGATI"
   },
   {
-    "360ONE": "ACTIVE"
+    "Symbol": "ACMESOLAR"
   },
   {
-    "360ONE": "ADANIENSOL"
+    "Symbol": "ACTIVE"
   },
   {
-    "360ONE": "ADANIENT"
+    "Symbol": "ADANIENSOL"
   },
   {
-    "360ONE": "ADANIGREEN"
+    "Symbol": "ADANIENT"
   },
   {
-    "360ONE": "ADANIPORTS"
+    "Symbol": "ADANIGREEN"
   },
   {
-    "360ONE": "ADANIPOWER"
+    "Symbol": "ADANIPORTS"
   },
   {
-    "360ONE": "ADFFOODS"
+    "Symbol": "ADANIPOWER"
   },
   {
-    "360ONE": "ADORWELD"
+    "Symbol": "ADFFOODS"
   },
   {
-    "360ONE": "ADSL"
+    "Symbol": "ADORWELD"
   },
   {
-    "360ONE": "ADVANIHOTR"
+    "Symbol": "ADSL"
   },
   {
-    "360ONE": "ADVENZYMES"
+    "Symbol": "ADVANIHOTR"
   },
   {
-    "360ONE": "AEGISLOG"
+    "Symbol": "ADVENZYMES"
   },
   {
-    "360ONE": "AEPL"
+    "Symbol": "AEGISLOG"
   },
   {
-    "360ONE": "AEROFLEX"
+    "Symbol": "AEPL"
   },
   {
-    "360ONE": "AETHER"
+    "Symbol": "AEROFLEX"
   },
   {
-    "360ONE": "AFCONS"
+    "Symbol": "AETHER"
   },
   {
-    "360ONE": "AFFLE"
+    "Symbol": "AFCONS"
   },
   {
-    "360ONE": "AFFORDABLE"
+    "Symbol": "AFFLE"
   },
   {
-    "360ONE": "AFIL"
+    "Symbol": "AFFORDABLE"
   },
   {
-    "360ONE": "AGARIND"
+    "Symbol": "AFIL"
   },
   {
-    "360ONE": "AGI"
+    "Symbol": "AGARIND"
   },
   {
-    "360ONE": "AGIIL"
+    "Symbol": "AGI"
   },
   {
-    "360ONE": "AGOL"
+    "Symbol": "AGIIL"
   },
   {
-    "360ONE": "AGRITECH"
+    "Symbol": "AGOL"
   },
   {
-    "360ONE": "AGSTRA"
+    "Symbol": "AGRITECH"
   },
   {
-    "360ONE": "AHL"
+    "Symbol": "AGSTRA"
   },
   {
-    "360ONE": "AHLEAST"
+    "Symbol": "AHL"
   },
   {
-    "360ONE": "AHLUCONT"
+    "Symbol": "AHLEAST"
   },
   {
-    "360ONE": "AIAENG"
+    "Symbol": "AHLUCONT"
   },
   {
-    "360ONE": "AIIL"
+    "Symbol": "AIAENG"
   },
   {
-    "360ONE": "AIRAN"
+    "Symbol": "AIIL"
   },
   {
-    "360ONE": "AJANTPHARM"
+    "Symbol": "AIRAN"
   },
   {
-    "360ONE": "AJMERA"
+    "Symbol": "AJANTPHARM"
   },
   {
-    "360ONE": "AKI"
+    "Symbol": "AJMERA"
   },
   {
-    "360ONE": "AKSHARCHEM"
+    "Symbol": "AKI"
   },
   {
-    "360ONE": "AKSHOPTFBR"
+    "Symbol": "AKSHARCHEM"
   },
   {
-    "360ONE": "AKUMS"
+    "Symbol": "AKSHOPTFBR"
   },
   {
-    "360ONE": "AKZOINDIA"
+    "Symbol": "AKUMS"
   },
   {
-    "360ONE": "ALANKIT"
+    "Symbol": "AKZOINDIA"
   },
   {
-    "360ONE": "ALBERTDAVD"
+    "Symbol": "ALANKIT"
   },
   {
-    "360ONE": "ALEMBICLTD"
+    "Symbol": "ALBERTDAVD"
   },
   {
-    "360ONE": "ALICON"
+    "Symbol": "ALEMBICLTD"
   },
   {
-    "360ONE": "ALKALI"
+    "Symbol": "ALICON"
   },
   {
-    "360ONE": "ALKEM"
+    "Symbol": "ALKALI"
   },
   {
-    "360ONE": "ALKYLAMINE"
+    "Symbol": "ALKEM"
   },
   {
-    "360ONE": "ALLCARGO"
+    "Symbol": "ALKYLAMINE"
   },
   {
-    "360ONE": "ALLDIGI"
+    "Symbol": "ALLCARGO"
   },
   {
-    "360ONE": "ALOKINDS"
+    "Symbol": "ALLDIGI"
   },
   {
-    "360ONE": "ALPHAGEO"
+    "Symbol": "ALOKINDS"
   },
   {
-    "360ONE": "AMBER"
+    "Symbol": "ALPHAGEO"
   },
   {
-    "360ONE": "AMBICAAGAR"
+    "Symbol": "AMBER"
   },
   {
-    "360ONE": "AMBIKCO"
+    "Symbol": "AMBICAAGAR"
   },
   {
-    "360ONE": "AMBUJACEM"
+    "Symbol": "AMBIKCO"
   },
   {
-    "360ONE": "AMDIND"
+    "Symbol": "AMBUJACEM"
   },
   {
-    "360ONE": "AMIORG"
+    "Symbol": "AMDIND"
   },
   {
-    "360ONE": "AMJLAND"
+    "Symbol": "AMIORG"
   },
   {
-    "360ONE": "AMNPLST"
+    "Symbol": "AMJLAND"
   },
   {
-    "360ONE": "AMRUTANJAN"
+    "Symbol": "AMNPLST"
   },
   {
-    "360ONE": "ANANDRATHI"
+    "Symbol": "AMRUTANJAN"
   },
   {
-    "360ONE": "ANANTRAJ"
+    "Symbol": "ANANDRATHI"
   },
   {
-    "360ONE": "ANDHRAPAP"
+    "Symbol": "ANANTRAJ"
   },
   {
-    "360ONE": "ANDHRSUGAR"
+    "Symbol": "ANDHRAPAP"
   },
   {
-    "360ONE": "ANDREWYU"
+    "Symbol": "ANDHRSUGAR"
   },
   {
-    "360ONE": "ANG"
+    "Symbol": "ANDREWYU"
   },
   {
-    "360ONE": "ANGELONE"
+    "Symbol": "ANG"
   },
   {
-    "360ONE": "ANMOL"
+    "Symbol": "ANGELONE"
   },
   {
-    "360ONE": "ANUHPHR"
+    "Symbol": "ANMOL"
   },
   {
-    "360ONE": "ANUP"
+    "Symbol": "ANUHPHR"
   },
   {
-    "360ONE": "ANURAS"
+    "Symbol": "ANUP"
   },
   {
-    "360ONE": "ANUROOP"
+    "Symbol": "ANURAS"
   },
   {
-    "360ONE": "APARINDS"
+    "Symbol": "ANUROOP"
   },
   {
-    "360ONE": "APCL"
+    "Symbol": "APARINDS"
   },
   {
-    "360ONE": "APCOTEXIND"
+    "Symbol": "APCL"
   },
   {
-    "360ONE": "APEX"
+    "Symbol": "APCOTEXIND"
   },
   {
-    "360ONE": "APLAPOLLO"
+    "Symbol": "APEX"
   },
   {
-    "360ONE": "APLLTD"
+    "Symbol": "APLAPOLLO"
   },
   {
-    "360ONE": "APOLLO"
+    "Symbol": "APLLTD"
   },
   {
-    "360ONE": "APOLLOHOSP"
+    "Symbol": "APOLLO"
   },
   {
-    "360ONE": "APOLLOPIPE"
+    "Symbol": "APOLLOHOSP"
   },
   {
-    "360ONE": "APOLLOTYRE"
+    "Symbol": "APOLLOPIPE"
   },
   {
-    "360ONE": "APTECHT"
+    "Symbol": "APOLLOTYRE"
   },
   {
-    "360ONE": "APTUS"
+    "Symbol": "APTECHT"
   },
   {
-    "360ONE": "ARCHIDPLY"
+    "Symbol": "APTUS"
   },
   {
-    "360ONE": "ARE&M"
+    "Symbol": "ARCHIDPLY"
   },
   {
-    "360ONE": "ARIES"
+    "Symbol": "ARE&M"
   },
   {
-    "360ONE": "ARIHANTCAP"
+    "Symbol": "ARIES"
   },
   {
-    "360ONE": "ARIHANTSUP"
+    "Symbol": "ARIHANTCAP"
   },
   {
-    "360ONE": "ARKADE"
+    "Symbol": "ARIHANTSUP"
   },
   {
-    "360ONE": "ARMANFIN"
+    "Symbol": "ARKADE"
   },
   {
-    "360ONE": "AROGRANITE"
+    "Symbol": "ARMANFIN"
   },
   {
-    "360ONE": "ARROWGREEN"
+    "Symbol": "AROGRANITE"
   },
   {
-    "360ONE": "ARTEMISMED"
+    "Symbol": "ARROWGREEN"
   },
   {
-    "360ONE": "ARVIND"
+    "Symbol": "ARTEMISMED"
   },
   {
-    "360ONE": "ARVINDFASN"
+    "Symbol": "ARVIND"
   },
   {
-    "360ONE": "ARVSMART"
+    "Symbol": "ARVINDFASN"
   },
   {
-    "360ONE": "ASAHIINDIA"
+    "Symbol": "ARVSMART"
   },
   {
-    "360ONE": "ASAHISONG"
+    "Symbol": "ASAHIINDIA"
   },
   {
-    "360ONE": "ASAL"
+    "Symbol": "ASAHISONG"
   },
   {
-    "360ONE": "ASALCBR"
+    "Symbol": "ASAL"
   },
   {
-    "360ONE": "ASHAPURMIN"
+    "Symbol": "ASALCBR"
   },
   {
-    "360ONE": "ASHIANA"
+    "Symbol": "ASHAPURMIN"
   },
   {
-    "360ONE": "ASHOKA"
+    "Symbol": "ASHIANA"
   },
   {
-    "360ONE": "ASHOKLEY"
+    "Symbol": "ASHOKA"
   },
   {
-    "360ONE": "ASIANENE"
+    "Symbol": "ASHOKLEY"
   },
   {
-    "360ONE": "ASIANHOTNR"
+    "Symbol": "ASIANENE"
   },
   {
-    "360ONE": "ASIANPAINT"
+    "Symbol": "ASIANHOTNR"
   },
   {
-    "360ONE": "ASIANTILES"
+    "Symbol": "ASIANPAINT"
   },
   {
-    "360ONE": "ASKAUTOLTD"
+    "Symbol": "ASIANTILES"
   },
   {
-    "360ONE": "ASMS"
+    "Symbol": "ASKAUTOLTD"
   },
   {
-    "360ONE": "ASMTEC"
+    "Symbol": "ASMS"
   },
   {
-    "360ONE": "ASRL"
+    "Symbol": "ASMTEC"
   },
   {
-    "360ONE": "ASTAR"
+    "Symbol": "ASRL"
   },
   {
-    "360ONE": "ASTEC"
+    "Symbol": "ASTAR"
   },
   {
-    "360ONE": "ASTERDM"
+    "Symbol": "ASTEC"
   },
   {
-    "360ONE": "ASTRAL"
+    "Symbol": "ASTERDM"
   },
   {
-    "360ONE": "ASTRAMICRO"
+    "Symbol": "ASTRAL"
   },
   {
-    "360ONE": "ASTRAZEN"
+    "Symbol": "ASTRAMICRO"
   },
   {
-    "360ONE": "ASTRON"
+    "Symbol": "ASTRAZEN"
   },
   {
-    "360ONE": "ATAM"
+    "Symbol": "ASTRON"
   },
   {
-    "360ONE": "ATFL"
+    "Symbol": "ATAM"
   },
   {
-    "360ONE": "ATGL"
+    "Symbol": "ATFL"
   },
   {
-    "360ONE": "ATL"
+    "Symbol": "ATGL"
   },
   {
-    "360ONE": "ATUL"
+    "Symbol": "ATL"
   },
   {
-    "360ONE": "ATULAUTO"
+    "Symbol": "ATUL"
   },
   {
-    "360ONE": "AUBANK"
+    "Symbol": "ATULAUTO"
   },
   {
-    "360ONE": "AURIONPRO"
+    "Symbol": "AUBANK"
   },
   {
-    "360ONE": "AUROPHARMA"
+    "Symbol": "AURIONPRO"
   },
   {
-    "360ONE": "AUTOAXLES"
+    "Symbol": "AUROPHARMA"
   },
   {
-    "360ONE": "AUTOIND"
+    "Symbol": "AUTOAXLES"
   },
   {
-    "360ONE": "AVADHSUGAR"
+    "Symbol": "AUTOIND"
   },
   {
-    "360ONE": "AVALON"
+    "Symbol": "AVADHSUGAR"
   },
   {
-    "360ONE": "AVANTEL"
+    "Symbol": "AVALON"
   },
   {
-    "360ONE": "AVANTIFEED"
+    "Symbol": "AVANTEL"
   },
   {
-    "360ONE": "AVG"
+    "Symbol": "AVANTIFEED"
   },
   {
-    "360ONE": "AVL"
+    "Symbol": "AVG"
   },
   {
-    "360ONE": "AVONMORE"
+    "Symbol": "AVL"
   },
   {
-    "360ONE": "AVTNPL"
+    "Symbol": "AVONMORE"
   },
   {
-    "360ONE": "AWFIS"
+    "Symbol": "AVTNPL"
   },
   {
-    "360ONE": "AWHCL"
+    "Symbol": "AWFIS"
   },
   {
-    "360ONE": "AWL"
+    "Symbol": "AWHCL"
   },
   {
-    "360ONE": "AXISBANK"
+    "Symbol": "AWL"
   },
   {
-    "360ONE": "AXISCADES"
+    "Symbol": "AXISBANK"
   },
   {
-    "360ONE": "AXITA"
+    "Symbol": "AXISCADES"
   },
   {
-    "360ONE": "AZAD"
+    "Symbol": "AXITA"
   },
   {
-    "360ONE": "BAGFILMS"
+    "Symbol": "AZAD"
   },
   {
-    "360ONE": "BAIDFIN"
+    "Symbol": "BAGFILMS"
   },
   {
-    "360ONE": "BAJAJ-AUTO"
+    "Symbol": "BAIDFIN"
   },
   {
-    "360ONE": "BAJAJCON"
+    "Symbol": "BAJAJ-AUTO"
   },
   {
-    "360ONE": "BAJAJELEC"
+    "Symbol": "BAJAJCON"
   },
   {
-    "360ONE": "BAJAJFINSV"
+    "Symbol": "BAJAJELEC"
   },
   {
-    "360ONE": "BAJAJHCARE"
+    "Symbol": "BAJAJFINSV"
   },
   {
-    "360ONE": "BAJAJHFL"
+    "Symbol": "BAJAJHCARE"
   },
   {
-    "360ONE": "BAJAJHIND"
+    "Symbol": "BAJAJHFL"
   },
   {
-    "360ONE": "BAJAJHLDNG"
+    "Symbol": "BAJAJHIND"
   },
   {
-    "360ONE": "BAJEL"
+    "Symbol": "BAJAJHLDNG"
   },
   {
-    "360ONE": "BAJFINANCE"
+    "Symbol": "BAJEL"
   },
   {
-    "360ONE": "BALAJEE"
+    "Symbol": "BAJFINANCE"
   },
   {
-    "360ONE": "BALAJITELE"
+    "Symbol": "BALAJEE"
   },
   {
-    "360ONE": "BALAMINES"
+    "Symbol": "BALAJITELE"
   },
   {
-    "360ONE": "BALKRISHNA"
+    "Symbol": "BALAMINES"
   },
   {
-    "360ONE": "BALKRISIND"
+    "Symbol": "BALKRISHNA"
   },
   {
-    "360ONE": "BALMLAWRIE"
+    "Symbol": "BALKRISIND"
   },
   {
-    "360ONE": "BALRAMCHIN"
+    "Symbol": "BALMLAWRIE"
   },
   {
-    "360ONE": "BALUFORGE"
+    "Symbol": "BALRAMCHIN"
   },
   {
-    "360ONE": "BANARISUG"
+    "Symbol": "BALUFORGE"
   },
   {
-    "360ONE": "BANCOINDIA"
+    "Symbol": "BANARISUG"
   },
   {
-    "360ONE": "BANDHANBNK"
+    "Symbol": "BANCOINDIA"
   },
   {
-    "360ONE": "BANKBARODA"
+    "Symbol": "BANDHANBNK"
   },
   {
-    "360ONE": "BANKINDIA"
+    "Symbol": "BANKBARODA"
   },
   {
-    "360ONE": "BANKPSU"
+    "Symbol": "BANKINDIA"
   },
   {
-    "360ONE": "BANSALWIRE"
+    "Symbol": "BANKPSU"
   },
   {
-    "360ONE": "BANSWRAS"
+    "Symbol": "BANSALWIRE"
   },
   {
-    "360ONE": "BARBEQUE"
+    "Symbol": "BANSWRAS"
   },
   {
-    "360ONE": "BASF"
+    "Symbol": "BARBEQUE"
   },
   {
-    "360ONE": "BATAINDIA"
+    "Symbol": "BASF"
   },
   {
-    "360ONE": "BAYERCROP"
+    "Symbol": "BATAINDIA"
   },
   {
-    "360ONE": "BBL"
+    "Symbol": "BAYERCROP"
   },
   {
-    "360ONE": "BBOX"
+    "Symbol": "BBL"
   },
   {
-    "360ONE": "BBTC"
+    "Symbol": "BBOX"
   },
   {
-    "360ONE": "BBTCL"
+    "Symbol": "BBTC"
   },
   {
-    "360ONE": "BCLIND"
+    "Symbol": "BBTCL"
   },
   {
-    "360ONE": "BCONCEPTS"
+    "Symbol": "BCLIND"
   },
   {
-    "360ONE": "BCPL"
+    "Symbol": "BCONCEPTS"
   },
   {
-    "360ONE": "BDL"
+    "Symbol": "BCPL"
   },
   {
-    "360ONE": "BECTORFOOD"
+    "Symbol": "BDL"
   },
   {
-    "360ONE": "BEDMUTHA"
+    "Symbol": "BECTORFOOD"
   },
   {
-    "360ONE": "BEEKAY"
+    "Symbol": "BEDMUTHA"
   },
   {
-    "360ONE": "BEL"
+    "Symbol": "BEEKAY"
   },
   {
-    "360ONE": "BEML"
+    "Symbol": "BEL"
   },
   {
-    "360ONE": "BENARAS"
+    "Symbol": "BEML"
   },
   {
-    "360ONE": "BENGALASM"
+    "Symbol": "BENARAS"
   },
   {
-    "360ONE": "BEPL"
+    "Symbol": "BENGALASM"
   },
   {
-    "360ONE": "BERGEPAINT"
+    "Symbol": "BEPL"
   },
   {
-    "360ONE": "BESTAGRO"
+    "Symbol": "BERGEPAINT"
   },
   {
-    "360ONE": "BFINVEST"
+    "Symbol": "BESTAGRO"
   },
   {
-    "360ONE": "BFSI"
+    "Symbol": "BFINVEST"
   },
   {
-    "360ONE": "BGJL"
+    "Symbol": "BFSI"
   },
   {
-    "360ONE": "BHAGCHEM"
+    "Symbol": "BGJL"
   },
   {
-    "360ONE": "BHAGYANGR"
+    "Symbol": "BHAGCHEM"
   },
   {
-    "360ONE": "BHANDARI"
+    "Symbol": "BHAGYANGR"
   },
   {
-    "360ONE": "BHARATFORG"
+    "Symbol": "BHANDARI"
   },
   {
-    "360ONE": "BHARATGEAR"
+    "Symbol": "BHARATFORG"
   },
   {
-    "360ONE": "BHARATRAS"
+    "Symbol": "BHARATGEAR"
   },
   {
-    "360ONE": "BHARATWIRE"
+    "Symbol": "BHARATRAS"
   },
   {
-    "360ONE": "BHARTIARTL"
+    "Symbol": "BHARATWIRE"
   },
   {
-    "360ONE": "BHARTIHEXA"
+    "Symbol": "BHARTIARTL"
   },
   {
-    "360ONE": "BHEL"
+    "Symbol": "BHARTIHEXA"
   },
   {
-    "360ONE": "BIBCL"
+    "Symbol": "BHEL"
   },
   {
-    "360ONE": "BIGBLOC"
+    "Symbol": "BIBCL"
   },
   {
-    "360ONE": "BIKAJI"
+    "Symbol": "BIGBLOC"
   },
   {
-    "360ONE": "BIOCON"
+    "Symbol": "BIKAJI"
   },
   {
-    "360ONE": "BIOFILCHEM"
+    "Symbol": "BIOCON"
   },
   {
-    "360ONE": "BIRLACABLE"
+    "Symbol": "BIOFILCHEM"
   },
   {
-    "360ONE": "BIRLACORPN"
+    "Symbol": "BIRLACABLE"
   },
   {
-    "360ONE": "BIRLAMONEY"
+    "Symbol": "BIRLACORPN"
   },
   {
-    "360ONE": "BLACKBUCK"
+    "Symbol": "BIRLAMONEY"
   },
   {
-    "360ONE": "BLAL"
+    "Symbol": "BLACKBUCK"
   },
   {
-    "360ONE": "BLBLIMITED"
+    "Symbol": "BLAL"
   },
   {
-    "360ONE": "BLIL"
+    "Symbol": "BLBLIMITED"
   },
   {
-    "360ONE": "BLISSGVS"
+    "Symbol": "BLIL"
   },
   {
-    "360ONE": "BLKASHYAP"
+    "Symbol": "BLISSGVS"
   },
   {
-    "360ONE": "BLS"
+    "Symbol": "BLKASHYAP"
   },
   {
-    "360ONE": "BLSE"
+    "Symbol": "BLS"
   },
   {
-    "360ONE": "BLUECLOUDS"
+    "Symbol": "BLSE"
   },
   {
-    "360ONE": "BLUECOAST"
+    "Symbol": "BLUECLOUDS"
   },
   {
-    "360ONE": "BLUEDART"
+    "Symbol": "BLUECOAST"
   },
   {
-    "360ONE": "BLUEJET"
+    "Symbol": "BLUEDART"
   },
   {
-    "360ONE": "BLUESTARCO"
+    "Symbol": "BLUEJET"
   },
   {
-    "360ONE": "BMW"
+    "Symbol": "BLUESTARCO"
   },
   {
-    "360ONE": "BODALCHEM"
+    "Symbol": "BMW"
   },
   {
-    "360ONE": "BOMDYEING"
+    "Symbol": "BODALCHEM"
   },
   {
-    "360ONE": "BONLON"
+    "Symbol": "BOMDYEING"
   },
   {
-    "360ONE": "BOROLTD"
+    "Symbol": "BONLON"
   },
   {
-    "360ONE": "BORORENEW"
+    "Symbol": "BOROLTD"
   },
   {
-    "360ONE": "BOROSCI"
+    "Symbol": "BORORENEW"
   },
   {
-    "360ONE": "BOSCHLTD"
+    "Symbol": "BOROSCI"
   },
   {
-    "360ONE": "BPCL"
+    "Symbol": "BOSCHLTD"
   },
   {
-    "360ONE": "BPL"
+    "Symbol": "BPCL"
   },
   {
-    "360ONE": "BRIGADE"
+    "Symbol": "BPL"
   },
   {
-    "360ONE": "BRITANNIA"
+    "Symbol": "BRIGADE"
   },
   {
-    "360ONE": "BRNL"
+    "Symbol": "BRITANNIA"
   },
   {
-    "360ONE": "BSL"
+    "Symbol": "BRNL"
   },
   {
-    "360ONE": "BSOFT"
+    "Symbol": "BSL"
   },
   {
-    "360ONE": "BTML"
+    "Symbol": "BSOFT"
   },
   {
-    "360ONE": "BURNPUR"
+    "Symbol": "BTML"
   },
   {
-    "360ONE": "BUTTERFLY"
+    "Symbol": "BURNPUR"
   },
   {
-    "360ONE": "BVCL"
+    "Symbol": "BUTTERFLY"
   },
   {
-    "360ONE": "CAMLINFINE"
+    "Symbol": "BVCL"
   },
   {
-    "360ONE": "CAMPUS"
+    "Symbol": "CAMLINFINE"
   },
   {
-    "360ONE": "CAMS"
+    "Symbol": "CAMPUS"
   },
   {
-    "360ONE": "CANBK"
+    "Symbol": "CAMS"
   },
   {
-    "360ONE": "CANFINHOME"
+    "Symbol": "CANBK"
   },
   {
-    "360ONE": "CANTABIL"
+    "Symbol": "CANFINHOME"
   },
   {
-    "360ONE": "CAPACITE"
+    "Symbol": "CANTABIL"
   },
   {
-    "360ONE": "CAPITALSFB"
+    "Symbol": "CAPACITE"
   },
   {
-    "360ONE": "CAPLIPOINT"
+    "Symbol": "CAPITALSFB"
   },
   {
-    "360ONE": "CARBORUNIV"
+    "Symbol": "CAPLIPOINT"
   },
   {
-    "360ONE": "CAREERP"
+    "Symbol": "CARBORUNIV"
   },
   {
-    "360ONE": "CARERATING"
+    "Symbol": "CAREERP"
   },
   {
-    "360ONE": "CARTRADE"
+    "Symbol": "CARERATING"
   },
   {
-    "360ONE": "CARYSIL"
+    "Symbol": "CARTRADE"
   },
   {
-    "360ONE": "CASTROLIND"
+    "Symbol": "CARYSIL"
   },
   {
-    "360ONE": "CCL"
+    "Symbol": "CASTROLIND"
   },
   {
-    "360ONE": "CEATLTD"
+    "Symbol": "CCL"
   },
   {
-    "360ONE": "CEIGALL"
+    "Symbol": "CEATLTD"
   },
   {
-    "360ONE": "CELEBRITY"
+    "Symbol": "CEIGALL"
   },
   {
-    "360ONE": "CELLO"
+    "Symbol": "CELEBRITY"
   },
   {
-    "360ONE": "CENTENKA"
+    "Symbol": "CELLO"
   },
   {
-    "360ONE": "CENTEXT"
+    "Symbol": "CENTENKA"
   },
   {
-    "360ONE": "CENTRALBK"
+    "Symbol": "CENTEXT"
   },
   {
-    "360ONE": "CENTRUM"
+    "Symbol": "CENTRALBK"
   },
   {
-    "360ONE": "CENTUM"
+    "Symbol": "CENTRUM"
   },
   {
-    "360ONE": "CENTURYPLY"
+    "Symbol": "CENTUM"
   },
   {
-    "360ONE": "CERA"
+    "Symbol": "CENTURYPLY"
   },
   {
-    "360ONE": "CESC"
+    "Symbol": "CERA"
   },
   {
-    "360ONE": "CGCL"
+    "Symbol": "CESC"
   },
   {
-    "360ONE": "CGPOWER"
+    "Symbol": "CGCL"
   },
   {
-    "360ONE": "CHALET"
+    "Symbol": "CGPOWER"
   },
   {
-    "360ONE": "CHAMBLFERT"
+    "Symbol": "CHALET"
   },
   {
-    "360ONE": "CHEMBOND"
+    "Symbol": "CHAMBLFERT"
   },
   {
-    "360ONE": "CHEMCON"
+    "Symbol": "CHEMBOND"
   },
   {
-    "360ONE": "CHEMCRUX"
+    "Symbol": "CHEMCON"
   },
   {
-    "360ONE": "CHEMFAB"
+    "Symbol": "CHEMCRUX"
   },
   {
-    "360ONE": "CHEMPLASTS"
+    "Symbol": "CHEMFAB"
   },
   {
-    "360ONE": "CHENNPETRO"
+    "Symbol": "CHEMPLASTS"
   },
   {
-    "360ONE": "CHEVIOT"
+    "Symbol": "CHENNPETRO"
   },
   {
-    "360ONE": "CHOICEIN"
+    "Symbol": "CHEVIOT"
   },
   {
-    "360ONE": "CHOLAFIN"
+    "Symbol": "CHOICEIN"
   },
   {
-    "360ONE": "CHOLAHLDNG"
+    "Symbol": "CHOLAFIN"
   },
   {
-    "360ONE": "CIEINDIA"
+    "Symbol": "CHOLAHLDNG"
   },
   {
-    "360ONE": "CIGNITITEC"
+    "Symbol": "CIEINDIA"
   },
   {
-    "360ONE": "CINELINE"
+    "Symbol": "CIGNITITEC"
   },
   {
-    "360ONE": "CINEVISTA"
+    "Symbol": "CINELINE"
   },
   {
-    "360ONE": "CIPLA"
+    "Symbol": "CINEVISTA"
   },
   {
-    "360ONE": "CLEAN"
+    "Symbol": "CIPLA"
   },
   {
-    "360ONE": "CLSEL"
+    "Symbol": "CLEAN"
   },
   {
-    "360ONE": "CMSINFO"
+    "Symbol": "CLSEL"
   },
   {
-    "360ONE": "COALINDIA"
+    "Symbol": "CMSINFO"
   },
   {
-    "360ONE": "COASTCORP"
+    "Symbol": "COALINDIA"
   },
   {
-    "360ONE": "COCKERILL"
+    "Symbol": "COASTCORP"
   },
   {
-    "360ONE": "COFORGE"
+    "Symbol": "COCKERILL"
   },
   {
-    "360ONE": "COLPAL"
+    "Symbol": "COFORGE"
   },
   {
-    "360ONE": "COMPUSOFT"
+    "Symbol": "COLPAL"
   },
   {
-    "360ONE": "COMSYN"
+    "Symbol": "COMPUSOFT"
   },
   {
-    "360ONE": "CONCOR"
+    "Symbol": "COMSYN"
   },
   {
-    "360ONE": "CONCORDBIO"
+    "Symbol": "CONCOR"
   },
   {
-    "360ONE": "CONFIPET"
+    "Symbol": "CONCORDBIO"
   },
   {
-    "360ONE": "CONTROLPR"
+    "Symbol": "CONFIPET"
   },
   {
-    "360ONE": "CORDSCABLE"
+    "Symbol": "CONTROLPR"
   },
   {
-    "360ONE": "COROMANDEL"
+    "Symbol": "CORDSCABLE"
   },
   {
-    "360ONE": "COSMOFIRST"
+    "Symbol": "COROMANDEL"
   },
   {
-    "360ONE": "COUNCODOS"
+    "Symbol": "COSMOFIRST"
   },
   {
-    "360ONE": "CRAFTSMAN"
+    "Symbol": "COUNCODOS"
   },
   {
-    "360ONE": "CREDITACC"
+    "Symbol": "CRAFTSMAN"
   },
   {
-    "360ONE": "CREST"
+    "Symbol": "CREDITACC"
   },
   {
-    "360ONE": "CRISIL"
+    "Symbol": "CREST"
   },
   {
-    "360ONE": "CROMPTON"
+    "Symbol": "CRISIL"
   },
   {
-    "360ONE": "CSBBANK"
+    "Symbol": "CROMPTON"
   },
   {
-    "360ONE": "CSLFINANCE"
+    "Symbol": "CSBBANK"
   },
   {
-    "360ONE": "CTE"
+    "Symbol": "CSLFINANCE"
   },
   {
-    "360ONE": "CUB"
+    "Symbol": "CTE"
   },
   {
-    "360ONE": "CUBEXTUB"
+    "Symbol": "CUB"
   },
   {
-    "360ONE": "CUMMINSIND"
+    "Symbol": "CUBEXTUB"
   },
   {
-    "360ONE": "CUPID"
+    "Symbol": "CUMMINSIND"
   },
   {
-    "360ONE": "CYBERMEDIA"
+    "Symbol": "CUPID"
   },
   {
-    "360ONE": "CYIENT"
+    "Symbol": "CYBERMEDIA"
   },
   {
-    "360ONE": "CYIENTDLM"
+    "Symbol": "CYIENT"
   },
   {
-    "360ONE": "DABUR"
+    "Symbol": "CYIENTDLM"
   },
   {
-    "360ONE": "DALBHARAT"
+    "Symbol": "DABUR"
   },
   {
-    "360ONE": "DALMIASUG"
+    "Symbol": "DALBHARAT"
   },
   {
-    "360ONE": "DAMODARIND"
+    "Symbol": "DALMIASUG"
   },
   {
-    "360ONE": "DATAMATICS"
+    "Symbol": "DAMODARIND"
   },
   {
-    "360ONE": "DATAPATTNS"
+    "Symbol": "DATAMATICS"
   },
   {
-    "360ONE": "DAVANGERE"
+    "Symbol": "DATAPATTNS"
   },
   {
-    "360ONE": "DBCORP"
+    "Symbol": "DAVANGERE"
   },
   {
-    "360ONE": "DBEIL"
+    "Symbol": "DBCORP"
   },
   {
-    "360ONE": "DBL"
+    "Symbol": "DBEIL"
   },
   {
-    "360ONE": "DBOL"
+    "Symbol": "DBL"
   },
   {
-    "360ONE": "DBREALTY"
+    "Symbol": "DBOL"
   },
   {
-    "360ONE": "DBSTOCKBRO"
+    "Symbol": "DBREALTY"
   },
   {
-    "360ONE": "DCAL"
+    "Symbol": "DBSTOCKBRO"
   },
   {
-    "360ONE": "DCBBANK"
+    "Symbol": "DCAL"
   },
   {
-    "360ONE": "DCI"
+    "Symbol": "DCBBANK"
   },
   {
-    "360ONE": "DCM"
+    "Symbol": "DCI"
   },
   {
-    "360ONE": "DCMNVL"
+    "Symbol": "DCM"
   },
   {
-    "360ONE": "DCMSHRIRAM"
+    "Symbol": "DCMNVL"
   },
   {
-    "360ONE": "DCMSRIND"
+    "Symbol": "DCMSHRIRAM"
   },
   {
-    "360ONE": "DCW"
+    "Symbol": "DCMSRIND"
   },
   {
-    "360ONE": "DCXINDIA"
+    "Symbol": "DCW"
   },
   {
-    "360ONE": "DDEVPLASTIK"
+    "Symbol": "DCXINDIA"
   },
   {
-    "360ONE": "DECCAN"
+    "Symbol": "DDEVPLASTIK"
   },
   {
-    "360ONE": "DECCANCE"
+    "Symbol": "DECCAN"
   },
   {
-    "360ONE": "DECNGOLD"
+    "Symbol": "DECCANCE"
   },
   {
-    "360ONE": "DEEDEV"
+    "Symbol": "DECNGOLD"
   },
   {
-    "360ONE": "DEEP"
+    "Symbol": "DEEDEV"
   },
   {
-    "360ONE": "DEEPAKFERT"
+    "Symbol": "DEEP"
   },
   {
-    "360ONE": "DEEPAKNTR"
+    "Symbol": "DEEPAKFERT"
   },
   {
-    "360ONE": "DEEPINDS"
+    "Symbol": "DEEPAKNTR"
   },
   {
-    "360ONE": "DELHIVERY"
+    "Symbol": "DEEPINDS"
   },
   {
-    "360ONE": "DELTACORP"
+    "Symbol": "DELHIVERY"
   },
   {
-    "360ONE": "DELTAMAGNT"
+    "Symbol": "DELTACORP"
   },
   {
-    "360ONE": "DEN"
+    "Symbol": "DELTAMAGNT"
   },
   {
-    "360ONE": "DENORA"
+    "Symbol": "DEN"
   },
   {
-    "360ONE": "DEVIT"
+    "Symbol": "DENORA"
   },
   {
-    "360ONE": "DEVYANI"
+    "Symbol": "DEVIT"
   },
   {
-    "360ONE": "DHAMPURSUG"
+    "Symbol": "DEVYANI"
   },
   {
-    "360ONE": "DHANBANK"
+    "Symbol": "DHAMPURSUG"
   },
   {
-    "360ONE": "DHANI"
+    "Symbol": "DHANBANK"
   },
   {
-    "360ONE": "DHANUKA"
+    "Symbol": "DHANI"
   },
   {
-    "360ONE": "DHARMAJ"
+    "Symbol": "DHANUKA"
   },
   {
-    "360ONE": "DHRUV"
+    "Symbol": "DHARMAJ"
   },
   {
-    "360ONE": "DHUNINV"
+    "Symbol": "DHRUV"
   },
   {
-    "360ONE": "DIAMINESQ"
+    "Symbol": "DHUNINV"
   },
   {
-    "360ONE": "DIAMONDYD"
+    "Symbol": "DIAMINESQ"
   },
   {
-    "360ONE": "DICIND"
+    "Symbol": "DIAMONDYD"
   },
   {
-    "360ONE": "DIFFNKG"
+    "Symbol": "DICIND"
   },
   {
-    "360ONE": "DIGIDRIVE"
+    "Symbol": "DIFFNKG"
   },
   {
-    "360ONE": "DISAQ"
+    "Symbol": "DIGIDRIVE"
   },
   {
-    "360ONE": "DISHTV"
+    "Symbol": "DISAQ"
   },
   {
-    "360ONE": "DIVGIITTS"
+    "Symbol": "DISHTV"
   },
   {
-    "360ONE": "DIVISLAB"
+    "Symbol": "DIVGIITTS"
   },
   {
-    "360ONE": "DIXON"
+    "Symbol": "DIVISLAB"
   },
   {
-    "360ONE": "DJML"
+    "Symbol": "DIXON"
   },
   {
-    "360ONE": "DLF"
+    "Symbol": "DJML"
   },
   {
-    "360ONE": "DLINKINDIA"
+    "Symbol": "DLF"
   },
   {
-    "360ONE": "DMART"
+    "Symbol": "DLINKINDIA"
   },
   {
-    "360ONE": "DMCC"
+    "Symbol": "DMART"
   },
   {
-    "360ONE": "DNAMEDIA"
+    "Symbol": "DMCC"
   },
   {
-    "360ONE": "DODLA"
+    "Symbol": "DNAMEDIA"
   },
   {
-    "360ONE": "DOLATALGO"
+    "Symbol": "DODLA"
   },
   {
-    "360ONE": "DOLFIN"
+    "Symbol": "DOLATALGO"
   },
   {
-    "360ONE": "DOLLAR"
+    "Symbol": "DOLFIN"
   },
   {
-    "360ONE": "DOMS"
+    "Symbol": "DOLLAR"
   },
   {
-    "360ONE": "DONEAR"
+    "Symbol": "DOMS"
   },
   {
-    "360ONE": "DPABHUSHAN"
+    "Symbol": "DONEAR"
   },
   {
-    "360ONE": "DPWIRES"
+    "Symbol": "DPABHUSHAN"
   },
   {
-    "360ONE": "DRAGARWQ"
+    "Symbol": "DPWIRES"
   },
   {
-    "360ONE": "DRCSYSTEMS"
+    "Symbol": "DRAGARWQ"
   },
   {
-    "360ONE": "DREAMFOLKS"
+    "Symbol": "DRCSYSTEMS"
   },
   {
-    "360ONE": "DREDGECORP"
+    "Symbol": "DREAMFOLKS"
   },
   {
-    "360ONE": "DRREDDY"
+    "Symbol": "DREDGECORP"
   },
   {
-    "360ONE": "DSSL"
+    "Symbol": "DRREDDY"
   },
   {
-    "360ONE": "DTIL"
+    "Symbol": "DSSL"
   },
   {
-    "360ONE": "DUCON"
+    "Symbol": "DTIL"
   },
   {
-    "360ONE": "DVL"
+    "Symbol": "DUCON"
   },
   {
-    "360ONE": "DWARKESH"
+    "Symbol": "DVL"
   },
   {
-    "360ONE": "DYCL"
+    "Symbol": "DWARKESH"
   },
   {
-    "360ONE": "DYNAMATECH"
+    "Symbol": "DYCL"
   },
   {
-    "360ONE": "DYNPRO"
+    "Symbol": "DYNAMATECH"
   },
   {
-    "360ONE": "EASEMYTRIP"
+    "Symbol": "DYNPRO"
   },
   {
-    "360ONE": "ECLERX"
+    "Symbol": "EASEMYTRIP"
   },
   {
-    "360ONE": "ECOSMOBLTY"
+    "Symbol": "ECLERX"
   },
   {
-    "360ONE": "EDELWEISS"
+    "Symbol": "ECOSMOBLTY"
   },
   {
-    "360ONE": "EFCIL"
+    "Symbol": "EDELWEISS"
   },
   {
-    "360ONE": "EICHERMOT"
+    "Symbol": "EFCIL"
   },
   {
-    "360ONE": "EIDPARRY"
+    "Symbol": "EICHERMOT"
   },
   {
-    "360ONE": "EIEL"
+    "Symbol": "EIDPARRY"
   },
   {
-    "360ONE": "EIHAHOTELS"
+    "Symbol": "EIEL"
   },
   {
-    "360ONE": "EIHOTEL"
+    "Symbol": "EIHAHOTELS"
   },
   {
-    "360ONE": "EIMCOELECO"
+    "Symbol": "EIHOTEL"
   },
   {
-    "360ONE": "EKC"
+    "Symbol": "EIMCOELECO"
   },
   {
-    "360ONE": "EKI"
+    "Symbol": "EKC"
   },
   {
-    "360ONE": "ELANTAS"
+    "Symbol": "EKI"
   },
   {
-    "360ONE": "ELDEHSG"
+    "Symbol": "ELANTAS"
   },
   {
-    "360ONE": "ELECON"
+    "Symbol": "ELDEHSG"
   },
   {
-    "360ONE": "ELECTCAST"
+    "Symbol": "ELECON"
   },
   {
-    "360ONE": "ELGIEQUIP"
+    "Symbol": "ELECTCAST"
   },
   {
-    "360ONE": "ELIN"
+    "Symbol": "ELGIEQUIP"
   },
   {
-    "360ONE": "ELPROINTL"
+    "Symbol": "ELIN"
   },
   {
-    "360ONE": "EMAMILTD"
+    "Symbol": "ELPROINTL"
   },
   {
-    "360ONE": "EMAMIPAP"
+    "Symbol": "EMAMILTD"
   },
   {
-    "360ONE": "EMBDL"
+    "Symbol": "EMAMIPAP"
   },
   {
-    "360ONE": "EMCURE"
+    "Symbol": "EMBDL"
   },
   {
-    "360ONE": "EMIL"
+    "Symbol": "EMCURE"
   },
   {
-    "360ONE": "EMMBI"
+    "Symbol": "EMIL"
   },
   {
-    "360ONE": "EMSLIMITED"
+    "Symbol": "EMMBI"
   },
   {
-    "360ONE": "EMUDHRA"
+    "Symbol": "EMSLIMITED"
   },
   {
-    "360ONE": "ENDURANCE"
+    "Symbol": "EMUDHRA"
   },
   {
-    "360ONE": "ENERGYDEV"
+    "Symbol": "ENDURANCE"
   },
   {
-    "360ONE": "ENGINERSIN"
+    "Symbol": "ENERGYDEV"
   },
   {
-    "360ONE": "ENIL"
+    "Symbol": "ENGINERSIN"
   },
   {
-    "360ONE": "ENKEIWHEL"
+    "Symbol": "ENIL"
   },
   {
-    "360ONE": "ENTERO"
+    "Symbol": "ENKEIWHEL"
   },
   {
-    "360ONE": "EPIGRAL"
+    "Symbol": "ENTERO"
   },
   {
-    "360ONE": "EPL"
+    "Symbol": "EPIGRAL"
   },
   {
-    "360ONE": "EQUAL50ADD"
+    "Symbol": "EPL"
   },
   {
-    "360ONE": "EQUITASBNK"
+    "Symbol": "EQUAL50ADD"
   },
   {
-    "360ONE": "ERIS"
+    "Symbol": "EQUITASBNK"
   },
   {
-    "360ONE": "ESABINDIA"
+    "Symbol": "ERIS"
   },
   {
-    "360ONE": "ESAFSFB"
+    "Symbol": "ESABINDIA"
   },
   {
-    "360ONE": "ESCORTS"
+    "Symbol": "ESAFSFB"
   },
   {
-    "360ONE": "ESG"
+    "Symbol": "ESCORTS"
   },
   {
-    "360ONE": "ESTER"
+    "Symbol": "ESG"
   },
   {
-    "360ONE": "ETHOSLTD"
+    "Symbol": "ESTER"
   },
   {
-    "360ONE": "EUREKAFORB"
+    "Symbol": "ETHOSLTD"
   },
   {
-    "360ONE": "EVEREADY"
+    "Symbol": "EUREKAFORB"
   },
   {
-    "360ONE": "EVERESTIND"
+    "Symbol": "EVEREADY"
   },
   {
-    "360ONE": "EVINDIA"
+    "Symbol": "EVERESTIND"
   },
   {
-    "360ONE": "EXCELINDUS"
+    "Symbol": "EVINDIA"
   },
   {
-    "360ONE": "EXICOM"
+    "Symbol": "EXCELINDUS"
   },
   {
-    "360ONE": "EXIDEIND"
+    "Symbol": "EXICOM"
   },
   {
-    "360ONE": "EXPLEOSOL"
+    "Symbol": "EXIDEIND"
   },
   {
-    "360ONE": "EXXARO"
+    "Symbol": "EXPLEOSOL"
   },
   {
-    "360ONE": "FACT"
+    "Symbol": "EXXARO"
   },
   {
-    "360ONE": "FAIRCHEMOR"
+    "Symbol": "FACT"
   },
   {
-    "360ONE": "FAZE3Q"
+    "Symbol": "FAIRCHEMOR"
   },
   {
-    "360ONE": "FCL"
+    "Symbol": "FAZE3Q"
   },
   {
-    "360ONE": "FCSSOFT"
+    "Symbol": "FCL"
   },
   {
-    "360ONE": "FDC"
+    "Symbol": "FCSSOFT"
   },
   {
-    "360ONE": "FEDDERSHOL"
+    "Symbol": "FDC"
   },
   {
-    "360ONE": "FEDERALBNK"
+    "Symbol": "FEDDERSHOL"
   },
   {
-    "360ONE": "FEDFINA"
+    "Symbol": "FEDERALBNK"
   },
   {
-    "360ONE": "FIBERWEB"
+    "Symbol": "FEDFINA"
   },
   {
-    "360ONE": "FIEMIND"
+    "Symbol": "FIBERWEB"
   },
   {
-    "360ONE": "FILATEX"
+    "Symbol": "FIEMIND"
   },
   {
-    "360ONE": "FINCABLES"
+    "Symbol": "FILATEX"
   },
   {
-    "360ONE": "FINEORG"
+    "Symbol": "FINCABLES"
   },
   {
-    "360ONE": "FINOPB"
+    "Symbol": "FINEORG"
   },
   {
-    "360ONE": "FINPIPE"
+    "Symbol": "FINOPB"
   },
   {
-    "360ONE": "FIRSTCRY"
+    "Symbol": "FINPIPE"
   },
   {
-    "360ONE": "FIVESTAR"
+    "Symbol": "FIRSTCRY"
   },
   {
-    "360ONE": "FLAIR"
+    "Symbol": "FIVESTAR"
   },
   {
-    "360ONE": "FLUOROCHEM"
+    "Symbol": "FLAIR"
   },
   {
-    "360ONE": "FMGOETZE"
+    "Symbol": "FLUOROCHEM"
   },
   {
-    "360ONE": "FOODSIN"
+    "Symbol": "FMGOETZE"
   },
   {
-    "360ONE": "FORCEMOT"
+    "Symbol": "FOODSIN"
   },
   {
-    "360ONE": "FORTIS"
+    "Symbol": "FORCEMOT"
   },
   {
-    "360ONE": "FOSECOIND"
+    "Symbol": "FORTIS"
   },
   {
-    "360ONE": "FSL"
+    "Symbol": "FOSECOIND"
   },
   {
-    "360ONE": "FUSION"
+    "Symbol": "FSL"
   },
   {
-    "360ONE": "GABRIEL"
+    "Symbol": "FUSION"
   },
   {
-    "360ONE": "GAEL"
+    "Symbol": "GABRIEL"
   },
   {
-    "360ONE": "GAIL"
+    "Symbol": "GAEL"
   },
   {
-    "360ONE": "GALACTICO"
+    "Symbol": "GAIL"
   },
   {
-    "360ONE": "GALAPREC"
+    "Symbol": "GALACTICO"
   },
   {
-    "360ONE": "GALAXYSURF"
+    "Symbol": "GALAPREC"
   },
   {
-    "360ONE": "GANDHAR"
+    "Symbol": "GALAXYSURF"
   },
   {
-    "360ONE": "GANDHITUBE"
+    "Symbol": "GANDHAR"
   },
   {
-    "360ONE": "GANECOS"
+    "Symbol": "GANDHITUBE"
   },
   {
-    "360ONE": "GANESHBE"
+    "Symbol": "GANECOS"
   },
   {
-    "360ONE": "GANESHHOUC"
+    "Symbol": "GANESHBE"
   },
   {
-    "360ONE": "GANGESSECU"
+    "Symbol": "GANESHHOUC"
   },
   {
-    "360ONE": "GARFIBRES"
+    "Symbol": "GANGESSECU"
   },
   {
-    "360ONE": "GARMNTMNTR"
+    "Symbol": "GARFIBRES"
   },
   {
-    "360ONE": "GARUDA"
+    "Symbol": "GARMNTMNTR"
   },
   {
-    "360ONE": "GATEWAY"
+    "Symbol": "GARUDA"
   },
   {
-    "360ONE": "GCMSECU"
+    "Symbol": "GATEWAY"
   },
   {
-    "360ONE": "GEECEE"
+    "Symbol": "GCMSECU"
   },
   {
-    "360ONE": "GENCON"
+    "Symbol": "GEECEE"
   },
   {
-    "360ONE": "GENESYS"
+    "Symbol": "GENCON"
   },
   {
-    "360ONE": "GENSOL"
+    "Symbol": "GENESYS"
   },
   {
-    "360ONE": "GENUSPAPER"
+    "Symbol": "GENSOL"
   },
   {
-    "360ONE": "GENUSPOWER"
+    "Symbol": "GENUSPAPER"
   },
   {
-    "360ONE": "GEOJITFSL"
+    "Symbol": "GENUSPOWER"
   },
   {
-    "360ONE": "GEPIL"
+    "Symbol": "GEOJITFSL"
   },
   {
-    "360ONE": "GESHIP"
+    "Symbol": "GEPIL"
   },
   {
-    "360ONE": "GFLLIMITED"
+    "Symbol": "GESHIP"
   },
   {
-    "360ONE": "GGENG"
+    "Symbol": "GFLLIMITED"
   },
   {
-    "360ONE": "GHCL"
+    "Symbol": "GGENG"
   },
   {
-    "360ONE": "GHCLTEXTIL"
+    "Symbol": "GHCL"
   },
   {
-    "360ONE": "GIANLIFE"
+    "Symbol": "GHCLTEXTIL"
   },
   {
-    "360ONE": "GICHSGFIN"
+    "Symbol": "GIANLIFE"
   },
   {
-    "360ONE": "GICRE"
+    "Symbol": "GICHSGFIN"
   },
   {
-    "360ONE": "GILLANDERS"
+    "Symbol": "GICRE"
   },
   {
-    "360ONE": "GILLETTE"
+    "Symbol": "GILLANDERS"
   },
   {
-    "360ONE": "GINNIFILA"
+    "Symbol": "GILLETTE"
   },
   {
-    "360ONE": "GIPCL"
+    "Symbol": "GINNIFILA"
   },
   {
-    "360ONE": "GKP"
+    "Symbol": "GIPCL"
   },
   {
-    "360ONE": "GLAND"
+    "Symbol": "GKP"
   },
   {
-    "360ONE": "GLAXO"
+    "Symbol": "GLAND"
   },
   {
-    "360ONE": "GLENMARK"
+    "Symbol": "GLAXO"
   },
   {
-    "360ONE": "GLOBUSSPR"
+    "Symbol": "GLENMARK"
   },
   {
-    "360ONE": "GLOSTERLTD"
+    "Symbol": "GLOBUSSPR"
   },
   {
-    "360ONE": "GLS"
+    "Symbol": "GLOSTERLTD"
   },
   {
-    "360ONE": "GMBREW"
+    "Symbol": "GLS"
   },
   {
-    "360ONE": "GMDCLTD"
+    "Symbol": "GMBREW"
   },
   {
-    "360ONE": "GMMPFAUDLR"
+    "Symbol": "GMDCLTD"
   },
   {
-    "360ONE": "GMRAIRPORT"
+    "Symbol": "GMMPFAUDLR"
   },
   {
-    "360ONE": "GMRP&UI"
+    "Symbol": "GMRAIRPORT"
   },
   {
-    "360ONE": "GNA"
+    "Symbol": "GMRP&UI"
   },
   {
-    "360ONE": "GNFC"
+    "Symbol": "GNA"
   },
   {
-    "360ONE": "GOACARBON"
+    "Symbol": "GNFC"
   },
   {
-    "360ONE": "GOCLCORP"
+    "Symbol": "GOACARBON"
   },
   {
-    "360ONE": "GOCOLORS"
+    "Symbol": "GOCLCORP"
   },
   {
-    "360ONE": "GODAVARIB"
+    "Symbol": "GOCOLORS"
   },
   {
-    "360ONE": "GODFRYPHLP"
+    "Symbol": "GODAVARIB"
   },
   {
-    "360ONE": "GODIGIT"
+    "Symbol": "GODFRYPHLP"
   },
   {
-    "360ONE": "GODREJAGRO"
+    "Symbol": "GODIGIT"
   },
   {
-    "360ONE": "GODREJCP"
+    "Symbol": "GODREJAGRO"
   },
   {
-    "360ONE": "GODREJIND"
+    "Symbol": "GODREJCP"
   },
   {
-    "360ONE": "GODREJPROP"
+    "Symbol": "GODREJIND"
   },
   {
-    "360ONE": "GOKEX"
+    "Symbol": "GODREJPROP"
   },
   {
-    "360ONE": "GOKULAGRO"
+    "Symbol": "GOKEX"
   },
   {
-    "360ONE": "GOLDIAM"
+    "Symbol": "GOKULAGRO"
   },
   {
-    "360ONE": "GOODLUCK"
+    "Symbol": "GOLDIAM"
   },
   {
-    "360ONE": "GOODYEAR"
+    "Symbol": "GOODLUCK"
   },
   {
-    "360ONE": "GOPAL"
+    "Symbol": "GOODYEAR"
   },
   {
-    "360ONE": "GOYALALUM"
+    "Symbol": "GOPAL"
   },
   {
-    "360ONE": "GPIL"
+    "Symbol": "GOYALALUM"
   },
   {
-    "360ONE": "GPTHEALTH"
+    "Symbol": "GPIL"
   },
   {
-    "360ONE": "GPTINFRA"
+    "Symbol": "GPTHEALTH"
   },
   {
-    "360ONE": "GRANULES"
+    "Symbol": "GPTINFRA"
   },
   {
-    "360ONE": "GRAPHITE"
+    "Symbol": "GRANULES"
   },
   {
-    "360ONE": "GRASIM"
+    "Symbol": "GRAPHITE"
   },
   {
-    "360ONE": "GRAUWEIL"
+    "Symbol": "GRASIM"
   },
   {
-    "360ONE": "GRAVITA"
+    "Symbol": "GRAUWEIL"
   },
   {
-    "360ONE": "GREAVESCOT"
+    "Symbol": "GRAVITA"
   },
   {
-    "360ONE": "GREENLAM"
+    "Symbol": "GREAVESCOT"
   },
   {
-    "360ONE": "GREENPANEL"
+    "Symbol": "GREENLAM"
   },
   {
-    "360ONE": "GREENPLY"
+    "Symbol": "GREENPANEL"
   },
   {
-    "360ONE": "GREENPOWER"
+    "Symbol": "GREENPLY"
   },
   {
-    "360ONE": "GRINDWELL"
+    "Symbol": "GREENPOWER"
   },
   {
-    "360ONE": "GRINFRA"
+    "Symbol": "GRINDWELL"
   },
   {
-    "360ONE": "GRMOVER"
+    "Symbol": "GRINFRA"
   },
   {
-    "360ONE": "GRPLTD"
+    "Symbol": "GRMOVER"
   },
   {
-    "360ONE": "GRSE"
+    "Symbol": "GRPLTD"
   },
   {
-    "360ONE": "GRWRHITECH"
+    "Symbol": "GRSE"
   },
   {
-    "360ONE": "GSFC"
+    "Symbol": "GRWRHITECH"
   },
   {
-    "360ONE": "GSLSU"
+    "Symbol": "GSFC"
   },
   {
-    "360ONE": "GSPL"
+    "Symbol": "GSLSU"
   },
   {
-    "360ONE": "GSS"
+    "Symbol": "GSPL"
   },
   {
-    "360ONE": "GSTL"
+    "Symbol": "GSS"
   },
   {
-    "360ONE": "GTL"
+    "Symbol": "GSTL"
   },
   {
-    "360ONE": "GTLINFRA"
+    "Symbol": "GTL"
   },
   {
-    "360ONE": "GTPL"
+    "Symbol": "GTLINFRA"
   },
   {
-    "360ONE": "GUFICBIO"
+    "Symbol": "GTPL"
   },
   {
-    "360ONE": "GUJALKALI"
+    "Symbol": "GUFICBIO"
   },
   {
-    "360ONE": "GUJAPOLLO"
+    "Symbol": "GUJALKALI"
   },
   {
-    "360ONE": "GUJGASLTD"
+    "Symbol": "GUJAPOLLO"
   },
   {
-    "360ONE": "GUJRAFFIA"
+    "Symbol": "GUJGASLTD"
   },
   {
-    "360ONE": "GUJSTATFIN"
+    "Symbol": "GUJRAFFIA"
   },
   {
-    "360ONE": "GUJTHEM"
+    "Symbol": "GUJSTATFIN"
   },
   {
-    "360ONE": "GULFOILLUB"
+    "Symbol": "GUJTHEM"
   },
   {
-    "360ONE": "GULFPETRO"
+    "Symbol": "GULFOILLUB"
   },
   {
-    "360ONE": "GULPOLY"
+    "Symbol": "GULFPETRO"
   },
   {
-    "360ONE": "HAL"
+    "Symbol": "GULPOLY"
   },
   {
-    "360ONE": "HARDWYN"
+    "Symbol": "HAL"
   },
   {
-    "360ONE": "HARIOMPIPE"
+    "Symbol": "HARDWYN"
   },
   {
-    "360ONE": "HARSHA"
+    "Symbol": "HARIOMPIPE"
   },
   {
-    "360ONE": "HATHWAY"
+    "Symbol": "HARSHA"
   },
   {
-    "360ONE": "HATSUN"
+    "Symbol": "HATHWAY"
   },
   {
-    "360ONE": "HAVELLS"
+    "Symbol": "HATSUN"
   },
   {
-    "360ONE": "HAWKINCOOK"
+    "Symbol": "HAVELLS"
   },
   {
-    "360ONE": "HBLPOWER"
+    "Symbol": "HAWKINCOOK"
   },
   {
-    "360ONE": "HBSL"
+    "Symbol": "HBLPOWER"
   },
   {
-    "360ONE": "HCC"
+    "Symbol": "HBSL"
   },
   {
-    "360ONE": "HCG"
+    "Symbol": "HCC"
   },
   {
-    "360ONE": "HCLTECH"
+    "Symbol": "HCG"
   },
   {
-    "360ONE": "HDFCAMC"
+    "Symbol": "HCLTECH"
   },
   {
-    "360ONE": "HDFCBANK"
+    "Symbol": "HDFCAMC"
   },
   {
-    "360ONE": "HDFCLIFE"
+    "Symbol": "HDFCBANK"
   },
   {
-    "360ONE": "HEADSUP"
+    "Symbol": "HDFCLIFE"
   },
   {
-    "360ONE": "HEALTHADD"
+    "Symbol": "HEADSUP"
   },
   {
-    "360ONE": "HEALTHY"
+    "Symbol": "HEALTHADD"
   },
   {
-    "360ONE": "HEG"
+    "Symbol": "HEALTHY"
   },
   {
-    "360ONE": "HEIDELBERG"
+    "Symbol": "HEG"
   },
   {
-    "360ONE": "HEMIPROP"
+    "Symbol": "HEIDELBERG"
   },
   {
-    "360ONE": "HERANBA"
+    "Symbol": "HEMIPROP"
   },
   {
-    "360ONE": "HERITGFOOD"
+    "Symbol": "HERANBA"
   },
   {
-    "360ONE": "HEROMOTOCO"
+    "Symbol": "HERITGFOOD"
   },
   {
-    "360ONE": "HESTERBIO"
+    "Symbol": "HEROMOTOCO"
   },
   {
-    "360ONE": "HEUBACHIND"
+    "Symbol": "HESTERBIO"
   },
   {
-    "360ONE": "HEXATRADEX"
+    "Symbol": "HEUBACHIND"
   },
   {
-    "360ONE": "HFCL"
+    "Symbol": "HEXATRADEX"
   },
   {
-    "360ONE": "HGINFRA"
+    "Symbol": "HFCL"
   },
   {
-    "360ONE": "HGS"
+    "Symbol": "HGINFRA"
   },
   {
-    "360ONE": "HIKAL"
+    "Symbol": "HGS"
   },
   {
-    "360ONE": "HIL"
+    "Symbol": "HIKAL"
   },
   {
-    "360ONE": "HILTON"
+    "Symbol": "HIL"
   },
   {
-    "360ONE": "HIMATSEIDE"
+    "Symbol": "HILTON"
   },
   {
-    "360ONE": "HINDALCO"
+    "Symbol": "HIMATSEIDE"
   },
   {
-    "360ONE": "HINDCOMPOS"
+    "Symbol": "HINDALCO"
   },
   {
-    "360ONE": "HINDOILEXP"
+    "Symbol": "HINDCOMPOS"
   },
   {
-    "360ONE": "HINDPETRO"
+    "Symbol": "HINDOILEXP"
   },
   {
-    "360ONE": "HINDUNILVR"
+    "Symbol": "HINDPETRO"
   },
   {
-    "360ONE": "HINDWAREAP"
+    "Symbol": "HINDUNILVR"
   },
   {
-    "360ONE": "HINDZINC"
+    "Symbol": "HINDWAREAP"
   },
   {
-    "360ONE": "HINFLUR"
+    "Symbol": "HINDZINC"
   },
   {
-    "360ONE": "HIRECT"
+    "Symbol": "HINFLUR"
   },
   {
-    "360ONE": "HISARMETAL"
+    "Symbol": "HIRECT"
   },
   {
-    "360ONE": "HITECH"
+    "Symbol": "HISARMETAL"
   },
   {
-    "360ONE": "HITECHCORP"
+    "Symbol": "HITECH"
   },
   {
-    "360ONE": "HLEGLAS"
+    "Symbol": "HITECHCORP"
   },
   {
-    "360ONE": "HLVLTD"
+    "Symbol": "HLEGLAS"
   },
   {
-    "360ONE": "HMAAGRO"
+    "Symbol": "HLVLTD"
   },
   {
-    "360ONE": "HMVL"
+    "Symbol": "HMAAGRO"
   },
   {
-    "360ONE": "HNDFDS"
+    "Symbol": "HMVL"
   },
   {
-    "360ONE": "HOCL"
+    "Symbol": "HNDFDS"
   },
   {
-    "360ONE": "HOMEFIRST"
+    "Symbol": "HOCL"
   },
   {
-    "360ONE": "HONASA"
+    "Symbol": "HOMEFIRST"
   },
   {
-    "360ONE": "HONAUT"
+    "Symbol": "HONASA"
   },
   {
-    "360ONE": "HONDAPOWER"
+    "Symbol": "HONAUT"
   },
   {
-    "360ONE": "HOVS"
+    "Symbol": "HONDAPOWER"
   },
   {
-    "360ONE": "HPAL"
+    "Symbol": "HOVS"
   },
   {
-    "360ONE": "HPIL"
+    "Symbol": "HPAL"
   },
   {
-    "360ONE": "HPL"
+    "Symbol": "HPIL"
   },
   {
-    "360ONE": "HSCL"
+    "Symbol": "HPL"
   },
   {
-    "360ONE": "HTMEDIA"
+    "Symbol": "HSCL"
   },
   {
-    "360ONE": "HUDCO"
+    "Symbol": "HTMEDIA"
   },
   {
-    "360ONE": "HUHTAMAKI"
+    "Symbol": "HUDCO"
   },
   {
-    "360ONE": "HYUNDAI"
+    "Symbol": "HUHTAMAKI"
   },
   {
-    "360ONE": "ICDSLTD"
+    "Symbol": "HYUNDAI"
   },
   {
-    "360ONE": "ICICIB22"
+    "Symbol": "ICDSLTD"
   },
   {
-    "360ONE": "ICICIBANK"
+    "Symbol": "ICICIB22"
   },
   {
-    "360ONE": "ICICIGI"
+    "Symbol": "ICICIBANK"
   },
   {
-    "360ONE": "ICICIPRULI"
+    "Symbol": "ICICIGI"
   },
   {
-    "360ONE": "ICIL"
+    "Symbol": "ICICIPRULI"
   },
   {
-    "360ONE": "ICRA"
+    "Symbol": "ICIL"
   },
   {
-    "360ONE": "IDBI"
+    "Symbol": "ICRA"
   },
   {
-    "360ONE": "IDEA"
+    "Symbol": "IDBI"
   },
   {
-    "360ONE": "IDEAFORGE"
+    "Symbol": "IDEA"
   },
   {
-    "360ONE": "IDFCFIRSTB"
+    "Symbol": "IDEAFORGE"
   },
   {
-    "360ONE": "IEX"
+    "Symbol": "IDFCFIRSTB"
   },
   {
-    "360ONE": "IFBAGRO"
+    "Symbol": "IEX"
   },
   {
-    "360ONE": "IFBIND"
+    "Symbol": "IFBAGRO"
   },
   {
-    "360ONE": "IFCI"
+    "Symbol": "IFBIND"
   },
   {
-    "360ONE": "IFGLEXPOR"
+    "Symbol": "IFCI"
   },
   {
-    "360ONE": "IFL"
+    "Symbol": "IFGLEXPOR"
   },
   {
-    "360ONE": "IGARASHI"
+    "Symbol": "IFL"
   },
   {
-    "360ONE": "IGL"
+    "Symbol": "IGARASHI"
   },
   {
-    "360ONE": "IGPL"
+    "Symbol": "IGL"
   },
   {
-    "360ONE": "IIFL"
+    "Symbol": "IGPL"
   },
   {
-    "360ONE": "IIFLCAPS"
+    "Symbol": "IIFL"
   },
   {
-    "360ONE": "IKIO"
+    "Symbol": "IIFLCAPS"
   },
   {
-    "360ONE": "IMAGICAA"
+    "Symbol": "IKIO"
   },
   {
-    "360ONE": "IMFA"
+    "Symbol": "IMAGICAA"
   },
   {
-    "360ONE": "IMPAL"
+    "Symbol": "IMFA"
   },
   {
-    "360ONE": "INCREDIBLE"
+    "Symbol": "IMPAL"
   },
   {
-    "360ONE": "INDBANK"
+    "Symbol": "INCREDIBLE"
   },
   {
-    "360ONE": "INDBNK"
+    "Symbol": "INDBANK"
   },
   {
-    "360ONE": "INDGN"
+    "Symbol": "INDBNK"
   },
   {
-    "360ONE": "INDHOTEL"
+    "Symbol": "INDGN"
   },
   {
-    "360ONE": "INDIACEM"
+    "Symbol": "INDHOTEL"
   },
   {
-    "360ONE": "INDIAGLYCO"
+    "Symbol": "INDIACEM"
   },
   {
-    "360ONE": "INDIAMART"
+    "Symbol": "INDIAGLYCO"
   },
   {
-    "360ONE": "INDIANB"
+    "Symbol": "INDIAMART"
   },
   {
-    "360ONE": "INDIANCARD"
+    "Symbol": "INDIANB"
   },
   {
-    "360ONE": "INDIANHUME"
+    "Symbol": "INDIANCARD"
   },
   {
-    "360ONE": "INDIASHLTR"
+    "Symbol": "INDIANHUME"
   },
   {
-    "360ONE": "INDIGO"
+    "Symbol": "INDIASHLTR"
   },
   {
-    "360ONE": "INDIGOPNTS"
+    "Symbol": "INDIGO"
   },
   {
-    "360ONE": "INDOAMIN"
+    "Symbol": "INDIGOPNTS"
   },
   {
-    "360ONE": "INDOBORAX"
+    "Symbol": "INDOAMIN"
   },
   {
-    "360ONE": "INDOCO"
+    "Symbol": "INDOBORAX"
   },
   {
-    "360ONE": "INDORAMA"
+    "Symbol": "INDOCO"
   },
   {
-    "360ONE": "INDOSTAR"
+    "Symbol": "INDORAMA"
   },
   {
-    "360ONE": "INDOUS"
+    "Symbol": "INDOSTAR"
   },
   {
-    "360ONE": "INDOWIND"
+    "Symbol": "INDOUS"
   },
   {
-    "360ONE": "INDRAMEDCO"
+    "Symbol": "INDOWIND"
   },
   {
-    "360ONE": "INDSWFTLTD"
+    "Symbol": "INDRAMEDCO"
   },
   {
-    "360ONE": "INDTERRAIN"
+    "Symbol": "INDSWFTLTD"
   },
   {
-    "360ONE": "INDUSINDBK"
+    "Symbol": "INDTERRAIN"
   },
   {
-    "360ONE": "INDUSTOWER"
+    "Symbol": "INDUSINDBK"
   },
   {
-    "360ONE": "INFIBEAM"
+    "Symbol": "INDUSTOWER"
   },
   {
-    "360ONE": "INFOBEAN"
+    "Symbol": "INFIBEAM"
   },
   {
-    "360ONE": "INFOMEDIA"
+    "Symbol": "INFOBEAN"
   },
   {
-    "360ONE": "INFY"
+    "Symbol": "INFOMEDIA"
   },
   {
-    "360ONE": "INGERRAND"
+    "Symbol": "INFY"
   },
   {
-    "360ONE": "INNOVACAP"
+    "Symbol": "INGERRAND"
   },
   {
-    "360ONE": "INOXGREEN"
+    "Symbol": "INNOVACAP"
   },
   {
-    "360ONE": "INOXINDIA"
+    "Symbol": "INOXGREEN"
   },
   {
-    "360ONE": "INOXWIND"
+    "Symbol": "INOXINDIA"
   },
   {
-    "360ONE": "INSECTICID"
+    "Symbol": "INOXWIND"
   },
   {
-    "360ONE": "INSPIRISYS"
+    "Symbol": "INSECTICID"
   },
   {
-    "360ONE": "INTELLECT"
+    "Symbol": "INSPIRISYS"
   },
   {
-    "360ONE": "INTENTECH"
+    "Symbol": "INTELLECT"
   },
   {
-    "360ONE": "INTERARCH"
+    "Symbol": "INTENTECH"
   },
   {
-    "360ONE": "INTLCONV"
+    "Symbol": "INTERARCH"
   },
   {
-    "360ONE": "INVENTURE"
+    "Symbol": "INTLCONV"
   },
   {
-    "360ONE": "IOB"
+    "Symbol": "INVENTURE"
   },
   {
-    "360ONE": "IOC"
+    "Symbol": "IOB"
   },
   {
-    "360ONE": "IOLCP"
+    "Symbol": "IOC"
   },
   {
-    "360ONE": "IONEXCHANG"
+    "Symbol": "IOLCP"
   },
   {
-    "360ONE": "IPCALAB"
+    "Symbol": "IONEXCHANG"
   },
   {
-    "360ONE": "IPL"
+    "Symbol": "IPCALAB"
   },
   {
-    "360ONE": "IRB"
+    "Symbol": "IPL"
   },
   {
-    "360ONE": "IRCON"
+    "Symbol": "IRB"
   },
   {
-    "360ONE": "IRCTC"
+    "Symbol": "IRCON"
   },
   {
-    "360ONE": "IREDA"
+    "Symbol": "IRCTC"
   },
   {
-    "360ONE": "IRFC"
+    "Symbol": "IREDA"
   },
   {
-    "360ONE": "IRMENERGY"
+    "Symbol": "IRFC"
   },
   {
-    "360ONE": "ISEC"
+    "Symbol": "IRMENERGY"
   },
   {
-    "360ONE": "ISGEC"
+    "Symbol": "ISEC"
   },
   {
-    "360ONE": "ISTLTD"
+    "Symbol": "ISGEC"
   },
   {
-    "360ONE": "ITC"
+    "Symbol": "ISTLTD"
   },
   {
-    "360ONE": "ITDC"
+    "Symbol": "ITC"
   },
   {
-    "360ONE": "ITDCEM"
+    "Symbol": "ITDC"
   },
   {
-    "360ONE": "ITI"
+    "Symbol": "ITDCEM"
   },
   {
-    "360ONE": "IVC"
+    "Symbol": "ITI"
   },
   {
-    "360ONE": "IVP"
+    "Symbol": "IVC"
   },
   {
-    "360ONE": "IWEL"
+    "Symbol": "IVP"
   },
   {
-    "360ONE": "IXIGO"
+    "Symbol": "IWEL"
   },
   {
-    "360ONE": "IZMO"
+    "Symbol": "IXIGO"
   },
   {
-    "360ONE": "J&KBANK"
+    "Symbol": "IZMO"
   },
   {
-    "360ONE": "JAGRAN"
+    "Symbol": "J&KBANK"
   },
   {
-    "360ONE": "JAGSNPHARM"
+    "Symbol": "JAGRAN"
   },
   {
-    "360ONE": "JAIBALAJI"
+    "Symbol": "JAGSNPHARM"
   },
   {
-    "360ONE": "JAICORPLTD"
+    "Symbol": "JAIBALAJI"
   },
   {
-    "360ONE": "JAMNAAUTO"
+    "Symbol": "JAICORPLTD"
   },
   {
-    "360ONE": "JAYAGROGN"
+    "Symbol": "JAMNAAUTO"
   },
   {
-    "360ONE": "JAYBARMARU"
+    "Symbol": "JAYAGROGN"
   },
   {
-    "360ONE": "JAYNECOIND"
+    "Symbol": "JAYBARMARU"
   },
   {
-    "360ONE": "JAYSREETEA"
+    "Symbol": "JAYNECOIND"
   },
   {
-    "360ONE": "JBCHEPHARM"
+    "Symbol": "JAYSREETEA"
   },
   {
-    "360ONE": "JBMA"
+    "Symbol": "JBCHEPHARM"
   },
   {
-    "360ONE": "JCHAC"
+    "Symbol": "JBMA"
   },
   {
-    "360ONE": "JGCHEM"
+    "Symbol": "JCHAC"
   },
   {
-    "360ONE": "JHS"
+    "Symbol": "JGCHEM"
   },
   {
-    "360ONE": "JINDALPHOT"
+    "Symbol": "JHS"
   },
   {
-    "360ONE": "JINDALPOLY"
+    "Symbol": "JINDALPHOT"
   },
   {
-    "360ONE": "JINDALSAW"
+    "Symbol": "JINDALPOLY"
   },
   {
-    "360ONE": "JINDALSTEL"
+    "Symbol": "JINDALSAW"
   },
   {
-    "360ONE": "JINDRILL"
+    "Symbol": "JINDALSTEL"
   },
   {
-    "360ONE": "JINDWORLD"
+    "Symbol": "JINDRILL"
   },
   {
-    "360ONE": "JIOFIN"
+    "Symbol": "JINDWORLD"
   },
   {
-    "360ONE": "JISLDVREQS"
+    "Symbol": "JIOFIN"
   },
   {
-    "360ONE": "JISLJALEQS"
+    "Symbol": "JISLDVREQS"
   },
   {
-    "360ONE": "JITFINFRA"
+    "Symbol": "JISLJALEQS"
   },
   {
-    "360ONE": "JKCEMENT"
+    "Symbol": "JITFINFRA"
   },
   {
-    "360ONE": "JKIL"
+    "Symbol": "JKCEMENT"
   },
   {
-    "360ONE": "JKLAKSHMI"
+    "Symbol": "JKIL"
   },
   {
-    "360ONE": "JKPAPER"
+    "Symbol": "JKLAKSHMI"
   },
   {
-    "360ONE": "JKTYRE"
+    "Symbol": "JKPAPER"
   },
   {
-    "360ONE": "JLHL"
+    "Symbol": "JKTYRE"
   },
   {
-    "360ONE": "JMFINANCIL"
+    "Symbol": "JLHL"
   },
   {
-    "360ONE": "JNKINDIA"
+    "Symbol": "JMFINANCIL"
   },
   {
-    "360ONE": "JPOLYINVST"
+    "Symbol": "JNKINDIA"
   },
   {
-    "360ONE": "JSFB"
+    "Symbol": "JPOLYINVST"
   },
   {
-    "360ONE": "JSL"
+    "Symbol": "JSFB"
   },
   {
-    "360ONE": "JSWENERGY"
+    "Symbol": "JSL"
   },
   {
-    "360ONE": "JSWINFRA"
+    "Symbol": "JSWENERGY"
   },
   {
-    "360ONE": "JSWSTEEL"
+    "Symbol": "JSWINFRA"
   },
   {
-    "360ONE": "JTEKTINDIA"
+    "Symbol": "JSWSTEEL"
   },
   {
-    "360ONE": "JTLIND"
+    "Symbol": "JTEKTINDIA"
   },
   {
-    "360ONE": "JUBLFOOD"
+    "Symbol": "JTLIND"
   },
   {
-    "360ONE": "JUBLINGREA"
+    "Symbol": "JUBLFOOD"
   },
   {
-    "360ONE": "JUBLPHARMA"
+    "Symbol": "JUBLINGREA"
   },
   {
-    "360ONE": "JUNIPER"
+    "Symbol": "JUBLPHARMA"
   },
   {
-    "360ONE": "JUSTDIAL"
+    "Symbol": "JUNIPER"
   },
   {
-    "360ONE": "JWL"
+    "Symbol": "JUSTDIAL"
   },
   {
-    "360ONE": "JYOTHYLAB"
+    "Symbol": "JWL"
   },
   {
-    "360ONE": "JYOTICNC"
+    "Symbol": "JYOTHYLAB"
   },
   {
-    "360ONE": "JYOTIRES"
+    "Symbol": "JYOTICNC"
   },
   {
-    "360ONE": "JYOTISTRUC"
+    "Symbol": "JYOTIRES"
   },
   {
-    "360ONE": "KABRAEXTRU"
+    "Symbol": "JYOTISTRUC"
   },
   {
-    "360ONE": "KAJARIACER"
+    "Symbol": "KABRAEXTRU"
   },
   {
-    "360ONE": "KAKATCEM"
+    "Symbol": "KAJARIACER"
   },
   {
-    "360ONE": "KALAMANDIR"
+    "Symbol": "KAKATCEM"
   },
   {
-    "360ONE": "KALYANKJIL"
+    "Symbol": "KALAMANDIR"
   },
   {
-    "360ONE": "KAMAHOLD"
+    "Symbol": "KALYANKJIL"
   },
   {
-    "360ONE": "KAMATHOTEL"
+    "Symbol": "KAMAHOLD"
   },
   {
-    "360ONE": "KAMDHENU"
+    "Symbol": "KAMATHOTEL"
   },
   {
-    "360ONE": "KANANIIND"
+    "Symbol": "KAMDHENU"
   },
   {
-    "360ONE": "KANORICHEM"
+    "Symbol": "KANANIIND"
   },
   {
-    "360ONE": "KANPRPLA"
+    "Symbol": "KANORICHEM"
   },
   {
-    "360ONE": "KANSAINER"
+    "Symbol": "KANPRPLA"
   },
   {
-    "360ONE": "KARMAENG"
+    "Symbol": "KANSAINER"
   },
   {
-    "360ONE": "KARURVYSYA"
+    "Symbol": "KARMAENG"
   },
   {
-    "360ONE": "KAUSHALYA"
+    "Symbol": "KARURVYSYA"
   },
   {
-    "360ONE": "KAYNES"
+    "Symbol": "KAUSHALYA"
   },
   {
-    "360ONE": "KBCGLOBAL"
+    "Symbol": "KAYNES"
   },
   {
-    "360ONE": "KCP"
+    "Symbol": "KBCGLOBAL"
   },
   {
-    "360ONE": "KCPSUGIND"
+    "Symbol": "KCP"
   },
   {
-    "360ONE": "KDDL"
+    "Symbol": "KCPSUGIND"
   },
   {
-    "360ONE": "KEC"
+    "Symbol": "KDDL"
   },
   {
-    "360ONE": "KECL"
+    "Symbol": "KEC"
   },
   {
-    "360ONE": "KEI"
+    "Symbol": "KECL"
   },
   {
-    "360ONE": "KELLTONTEC"
+    "Symbol": "KEI"
   },
   {
-    "360ONE": "KENNAMET"
+    "Symbol": "KELLTONTEC"
   },
   {
-    "360ONE": "KENVI"
+    "Symbol": "KENNAMET"
   },
   {
-    "360ONE": "KERNEX"
+    "Symbol": "KENVI"
   },
   {
-    "360ONE": "KESORAMIND"
+    "Symbol": "KERNEX"
   },
   {
-    "360ONE": "KFINTECH"
+    "Symbol": "KESORAMIND"
   },
   {
-    "360ONE": "KHADIM"
+    "Symbol": "KFINTECH"
   },
   {
-    "360ONE": "KHAICHEM"
+    "Symbol": "KHADIM"
   },
   {
-    "360ONE": "KHAITANLTD"
+    "Symbol": "KHAICHEM"
   },
   {
-    "360ONE": "KHANDSE"
+    "Symbol": "KHAITANLTD"
   },
   {
-    "360ONE": "KICL"
+    "Symbol": "KHANDSE"
   },
   {
-    "360ONE": "KILITCH"
+    "Symbol": "KICL"
   },
   {
-    "360ONE": "KIMS"
+    "Symbol": "KILITCH"
   },
   {
-    "360ONE": "KINGFA"
+    "Symbol": "KIMS"
   },
   {
-    "360ONE": "KIOCL"
+    "Symbol": "KINGFA"
   },
   {
-    "360ONE": "KIRIINDUS"
+    "Symbol": "KIOCL"
   },
   {
-    "360ONE": "KIRLFER"
+    "Symbol": "KIRIINDUS"
   },
   {
-    "360ONE": "KIRLOSBROS"
+    "Symbol": "KIRLFER"
   },
   {
-    "360ONE": "KIRLOSENG"
+    "Symbol": "KIRLOSBROS"
   },
   {
-    "360ONE": "KIRLOSIND"
+    "Symbol": "KIRLOSENG"
   },
   {
-    "360ONE": "KIRLPNU"
+    "Symbol": "KIRLOSIND"
   },
   {
-    "360ONE": "KKCL"
+    "Symbol": "KIRLPNU"
   },
   {
-    "360ONE": "KLBRENG-B"
+    "Symbol": "KKCL"
   },
   {
-    "360ONE": "KMCSHIL"
+    "Symbol": "KLBRENG-B"
   },
   {
-    "360ONE": "KMEW"
+    "Symbol": "KMCSHIL"
   },
   {
-    "360ONE": "KMSUGAR"
+    "Symbol": "KMEW"
   },
   {
-    "360ONE": "KNRCON"
+    "Symbol": "KMSUGAR"
   },
   {
-    "360ONE": "KOHINOOR"
+    "Symbol": "KNRCON"
   },
   {
-    "360ONE": "KOKUYOCMLN"
+    "Symbol": "KOHINOOR"
   },
   {
-    "360ONE": "KOLTEPATIL"
+    "Symbol": "KOKUYOCMLN"
   },
   {
-    "360ONE": "KOTAKBANK"
+    "Symbol": "KOLTEPATIL"
   },
   {
-    "360ONE": "KOTHARIPRO"
+    "Symbol": "KOTAKBANK"
   },
   {
-    "360ONE": "KOVAI"
+    "Symbol": "KOTHARIPRO"
   },
   {
-    "360ONE": "KPEL"
+    "Symbol": "KOVAI"
   },
   {
-    "360ONE": "KPIGREEN"
+    "Symbol": "KPEL"
   },
   {
-    "360ONE": "KPIL"
+    "Symbol": "KPIGREEN"
   },
   {
-    "360ONE": "KPITTECH"
+    "Symbol": "KPIL"
   },
   {
-    "360ONE": "KPRMILL"
+    "Symbol": "KPITTECH"
   },
   {
-    "360ONE": "KRANTI"
+    "Symbol": "KPRMILL"
   },
   {
-    "360ONE": "KRBL"
+    "Symbol": "KRANTI"
   },
   {
-    "360ONE": "KRITINUT"
+    "Symbol": "KRBL"
   },
   {
-    "360ONE": "KRN"
+    "Symbol": "KRITINUT"
   },
   {
-    "360ONE": "KRONOX"
+    "Symbol": "KRN"
   },
   {
-    "360ONE": "KROSS"
+    "Symbol": "KRONOX"
   },
   {
-    "360ONE": "KRRAIL"
+    "Symbol": "KROSS"
   },
   {
-    "360ONE": "KRSNAA"
+    "Symbol": "KRRAIL"
   },
   {
-    "360ONE": "KRYSTAL"
+    "Symbol": "KRSNAA"
   },
   {
-    "360ONE": "KSB"
+    "Symbol": "KRYSTAL"
   },
   {
-    "360ONE": "KSCL"
+    "Symbol": "KSB"
   },
   {
-    "360ONE": "KSL"
+    "Symbol": "KSCL"
   },
   {
-    "360ONE": "KSOLVES"
+    "Symbol": "KSL"
   },
   {
-    "360ONE": "KTKBANK"
+    "Symbol": "KSOLVES"
   },
   {
-    "360ONE": "KUANTUM"
+    "Symbol": "KTKBANK"
   },
   {
-    "360ONE": "LALPATHLAB"
+    "Symbol": "KUANTUM"
   },
   {
-    "360ONE": "LAMBODHARA"
+    "Symbol": "LALPATHLAB"
   },
   {
-    "360ONE": "LANCER"
+    "Symbol": "LAMBODHARA"
   },
   {
-    "360ONE": "LANCORHOL"
+    "Symbol": "LANCER"
   },
   {
-    "360ONE": "LANDMARK"
+    "Symbol": "LANCORHOL"
   },
   {
-    "360ONE": "LAOPALA"
+    "Symbol": "LANDMARK"
   },
   {
-    "360ONE": "LATENTVIEW"
+    "Symbol": "LAOPALA"
   },
   {
-    "360ONE": "LAURUSLABS"
+    "Symbol": "LATENTVIEW"
   },
   {
-    "360ONE": "LEMONTREE"
+    "Symbol": "LAURUSLABS"
   },
   {
-    "360ONE": "LGBBROSLTD"
+    "Symbol": "LEMONTREE"
   },
   {
-    "360ONE": "LIBERTSHOE"
+    "Symbol": "LGBBROSLTD"
   },
   {
-    "360ONE": "LICHSGFIN"
+    "Symbol": "LIBERTSHOE"
   },
   {
-    "360ONE": "LICI"
+    "Symbol": "LICHSGFIN"
   },
   {
-    "360ONE": "LICNFNHGP"
+    "Symbol": "LICI"
   },
   {
-    "360ONE": "LICNMID100"
+    "Symbol": "LICNFNHGP"
   },
   {
-    "360ONE": "LIKHITHA"
+    "Symbol": "LICNMID100"
   },
   {
-    "360ONE": "LINC"
+    "Symbol": "LIKHITHA"
   },
   {
-    "360ONE": "LINCOLN"
+    "Symbol": "LINC"
   },
   {
-    "360ONE": "LINDEINDIA"
+    "Symbol": "LINCOLN"
   },
   {
-    "360ONE": "LLOYDSENGG"
+    "Symbol": "LINDEINDIA"
   },
   {
-    "360ONE": "LLOYDSENT"
+    "Symbol": "LLOYDSENGG"
   },
   {
-    "360ONE": "LLOYDSME"
+    "Symbol": "LLOYDSENT"
   },
   {
-    "360ONE": "LMW"
+    "Symbol": "LLOYDSME"
   },
   {
-    "360ONE": "LODHA"
+    "Symbol": "LMW"
   },
   {
-    "360ONE": "LOKESHMACH"
+    "Symbol": "LODHA"
   },
   {
-    "360ONE": "LORDSCHLO"
+    "Symbol": "LOKESHMACH"
   },
   {
-    "360ONE": "LOVABLE"
+    "Symbol": "LORDSCHLO"
   },
   {
-    "360ONE": "LOWVOL"
+    "Symbol": "LOVABLE"
   },
   {
-    "360ONE": "LT"
+    "Symbol": "LOWVOL"
   },
   {
-    "360ONE": "LTF"
+    "Symbol": "LT"
   },
   {
-    "360ONE": "LTFOODS"
+    "Symbol": "LTF"
   },
   {
-    "360ONE": "LTIM"
+    "Symbol": "LTFOODS"
   },
   {
-    "360ONE": "LTTS"
+    "Symbol": "LTIM"
   },
   {
-    "360ONE": "LUMAXIND"
+    "Symbol": "LTTS"
   },
   {
-    "360ONE": "LUMAXTECH"
+    "Symbol": "LUMAXIND"
   },
   {
-    "360ONE": "LUPIN"
+    "Symbol": "LUMAXTECH"
   },
   {
-    "360ONE": "LUXIND"
+    "Symbol": "LUPIN"
   },
   {
-    "360ONE": "LXCHEM"
+    "Symbol": "LUXIND"
   },
   {
-    "360ONE": "LYKALABS"
+    "Symbol": "LXCHEM"
   },
   {
-    "360ONE": "M&M"
+    "Symbol": "LYKALABS"
   },
   {
-    "360ONE": "M&MFIN"
+    "Symbol": "M&M"
   },
   {
-    "360ONE": "MADHAV"
+    "Symbol": "M&MFIN"
   },
   {
-    "360ONE": "MADRASFERT"
+    "Symbol": "MADHAV"
   },
   {
-    "360ONE": "MAFANG"
+    "Symbol": "MADRASFERT"
   },
   {
-    "360ONE": "MAFATIND"
+    "Symbol": "MAFANG"
   },
   {
-    "360ONE": "MAGADSUGAR"
+    "Symbol": "MAFATIND"
   },
   {
-    "360ONE": "MAGNUM"
+    "Symbol": "MAGADSUGAR"
   },
   {
-    "360ONE": "MAHABANK"
+    "Symbol": "MAGNUM"
   },
   {
-    "360ONE": "MAHAPEXLTD"
+    "Symbol": "MAHABANK"
   },
   {
-    "360ONE": "MAHEPC"
+    "Symbol": "MAHAPEXLTD"
   },
   {
-    "360ONE": "MAHKTECH"
+    "Symbol": "MAHEPC"
   },
   {
-    "360ONE": "MAHLIFE"
+    "Symbol": "MAHKTECH"
   },
   {
-    "360ONE": "MAHLOG"
+    "Symbol": "MAHLIFE"
   },
   {
-    "360ONE": "MAHSCOOTER"
+    "Symbol": "MAHLOG"
   },
   {
-    "360ONE": "MAHSEAMLES"
+    "Symbol": "MAHSCOOTER"
   },
   {
-    "360ONE": "MAITHANALL"
+    "Symbol": "MAHSEAMLES"
   },
   {
-    "360ONE": "MAKEINDIA"
+    "Symbol": "MAITHANALL"
   },
   {
-    "360ONE": "MALUPAPER"
+    "Symbol": "MAKEINDIA"
   },
   {
-    "360ONE": "MANAKALUCO"
+    "Symbol": "MALUPAPER"
   },
   {
-    "360ONE": "MANAKSIA"
+    "Symbol": "MANAKALUCO"
   },
   {
-    "360ONE": "MANAKSTEEL"
+    "Symbol": "MANAKSIA"
   },
   {
-    "360ONE": "MANALIPETC"
+    "Symbol": "MANAKSTEEL"
   },
   {
-    "360ONE": "MANBA"
+    "Symbol": "MANALIPETC"
   },
   {
-    "360ONE": "MANCREDIT"
+    "Symbol": "MANBA"
   },
   {
-    "360ONE": "MANGALAM"
+    "Symbol": "MANCREDIT"
   },
   {
-    "360ONE": "MANGCHEFER"
+    "Symbol": "MANGALAM"
   },
   {
-    "360ONE": "MANGLMCEM"
+    "Symbol": "MANGCHEFER"
   },
   {
-    "360ONE": "MANINDS"
+    "Symbol": "MANGLMCEM"
   },
   {
-    "360ONE": "MANINFRA"
+    "Symbol": "MANINDS"
   },
   {
-    "360ONE": "MANKIND"
+    "Symbol": "MANINFRA"
   },
   {
-    "360ONE": "MANOMAY"
+    "Symbol": "MANKIND"
   },
   {
-    "360ONE": "MANORAMA"
+    "Symbol": "MANOMAY"
   },
   {
-    "360ONE": "MANUGRAPH"
+    "Symbol": "MANORAMA"
   },
   {
-    "360ONE": "MANYAVAR"
+    "Symbol": "MANUGRAPH"
   },
   {
-    "360ONE": "MAPMYINDIA"
+    "Symbol": "MANYAVAR"
   },
   {
-    "360ONE": "MARALOVER"
+    "Symbol": "MAPMYINDIA"
   },
   {
-    "360ONE": "MARATHON"
+    "Symbol": "MARALOVER"
   },
   {
-    "360ONE": "MARICO"
+    "Symbol": "MARATHON"
   },
   {
-    "360ONE": "MARKSANS"
+    "Symbol": "MARICO"
   },
   {
-    "360ONE": "MARUTI"
+    "Symbol": "MARKSANS"
   },
   {
-    "360ONE": "MASFIN"
+    "Symbol": "MARUTI"
   },
   {
-    "360ONE": "MASPTOP50"
+    "Symbol": "MASFIN"
   },
   {
-    "360ONE": "MASTEK"
+    "Symbol": "MASPTOP50"
   },
   {
-    "360ONE": "MASTERTR"
+    "Symbol": "MASTEK"
   },
   {
-    "360ONE": "MATRIMONY"
+    "Symbol": "MASTERTR"
   },
   {
-    "360ONE": "MAWANASUG"
+    "Symbol": "MATRIMONY"
   },
   {
-    "360ONE": "MAXESTATES"
+    "Symbol": "MAWANASUG"
   },
   {
-    "360ONE": "MAXHEALTH"
+    "Symbol": "MAXESTATES"
   },
   {
-    "360ONE": "MAXIND"
+    "Symbol": "MAXHEALTH"
   },
   {
-    "360ONE": "MAYURUNIQ"
+    "Symbol": "MAXIND"
   },
   {
-    "360ONE": "MAZDA"
+    "Symbol": "MAYURUNIQ"
   },
   {
-    "360ONE": "MAZDOCK"
+    "Symbol": "MAZDA"
   },
   {
-    "360ONE": "MBLINFRA"
+    "Symbol": "MAZDOCK"
   },
   {
-    "360ONE": "MCLOUD"
+    "Symbol": "MBLINFRA"
   },
   {
-    "360ONE": "MCX"
+    "Symbol": "MCLOUD"
   },
   {
-    "360ONE": "MEDANTA"
+    "Symbol": "MCX"
   },
   {
-    "360ONE": "MEDIASSIST"
+    "Symbol": "MEDANTA"
   },
   {
-    "360ONE": "MEDICAMEQ"
+    "Symbol": "MEDIASSIST"
   },
   {
-    "360ONE": "MEDICO"
+    "Symbol": "MEDICAMEQ"
   },
   {
-    "360ONE": "MEDPLUS"
+    "Symbol": "MEDICO"
   },
   {
-    "360ONE": "MEGASTAR"
+    "Symbol": "MEDPLUS"
   },
   {
-    "360ONE": "MENONBE"
+    "Symbol": "MEGASTAR"
   },
   {
-    "360ONE": "METAL"
+    "Symbol": "MENONBE"
   },
   {
-    "360ONE": "METROBRAND"
+    "Symbol": "METAL"
   },
   {
-    "360ONE": "METROPOLIS"
+    "Symbol": "METROBRAND"
   },
   {
-    "360ONE": "MFSL"
+    "Symbol": "METROPOLIS"
   },
   {
-    "360ONE": "MGEL"
+    "Symbol": "MFSL"
   },
   {
-    "360ONE": "MGL"
+    "Symbol": "MGEL"
   },
   {
-    "360ONE": "MHLXMIRU"
+    "Symbol": "MGL"
   },
   {
-    "360ONE": "MHRIL"
+    "Symbol": "MHLXMIRU"
   },
   {
-    "360ONE": "MICEL"
+    "Symbol": "MHRIL"
   },
   {
-    "360ONE": "MID150CASE"
+    "Symbol": "MICEL"
   },
   {
-    "360ONE": "MIDHANI"
+    "Symbol": "MID150CASE"
   },
   {
-    "360ONE": "MIDQ50ADD"
+    "Symbol": "MIDHANI"
   },
   {
-    "360ONE": "MIDSMALL"
+    "Symbol": "MIDQ50ADD"
   },
   {
-    "360ONE": "MIIL"
+    "Symbol": "MIDSMALL"
   },
   {
-    "360ONE": "MINDACORP"
+    "Symbol": "MIIL"
   },
   {
-    "360ONE": "MINDTECK"
+    "Symbol": "MINDACORP"
   },
   {
-    "360ONE": "MIRCELECTR"
+    "Symbol": "MINDTECK"
   },
   {
-    "360ONE": "MIRZAINT"
+    "Symbol": "MIRCELECTR"
   },
   {
-    "360ONE": "MISHTANN"
+    "Symbol": "MIRZAINT"
   },
   {
-    "360ONE": "MITSU"
+    "Symbol": "MISHTANN"
   },
   {
-    "360ONE": "MMFL"
+    "Symbol": "MITSU"
   },
   {
-    "360ONE": "MMTC"
+    "Symbol": "MMFL"
   },
   {
-    "360ONE": "MOHEALTH"
+    "Symbol": "MMTC"
   },
   {
-    "360ONE": "MOHITIND"
+    "Symbol": "MOHEALTH"
   },
   {
-    "360ONE": "MOIL"
+    "Symbol": "MOHITIND"
   },
   {
-    "360ONE": "MOL"
+    "Symbol": "MOIL"
   },
   {
-    "360ONE": "MOLDTECH"
+    "Symbol": "MOL"
   },
   {
-    "360ONE": "MOLDTKPAC"
+    "Symbol": "MOLDTECH"
   },
   {
-    "360ONE": "MOLOWVOL"
+    "Symbol": "MOLDTKPAC"
   },
   {
-    "360ONE": "MOM100"
+    "Symbol": "MOLOWVOL"
   },
   {
-    "360ONE": "MOMENTUM"
+    "Symbol": "MOM100"
   },
   {
-    "360ONE": "MOMOMENTUM"
+    "Symbol": "MOMENTUM"
   },
   {
-    "360ONE": "MONARCH"
+    "Symbol": "MOMOMENTUM"
   },
   {
-    "360ONE": "MONQ50"
+    "Symbol": "MONARCH"
   },
   {
-    "360ONE": "MONTECARLO"
+    "Symbol": "MONQ50"
   },
   {
-    "360ONE": "MOQUALITY"
+    "Symbol": "MONTECARLO"
   },
   {
-    "360ONE": "MOREPENLAB"
+    "Symbol": "MOQUALITY"
   },
   {
-    "360ONE": "MOSCHIP"
+    "Symbol": "MOREPENLAB"
   },
   {
-    "360ONE": "MOTHERSON"
+    "Symbol": "MOSCHIP"
   },
   {
-    "360ONE": "MOTILALOFS"
+    "Symbol": "MOTHERSON"
   },
   {
-    "360ONE": "MOTOGENFIN"
+    "Symbol": "MOTILALOFS"
   },
   {
-    "360ONE": "MOVALUE"
+    "Symbol": "MOTOGENFIN"
   },
   {
-    "360ONE": "MPHASIS"
+    "Symbol": "MOVALUE"
   },
   {
-    "360ONE": "MPSLTD"
+    "Symbol": "MPHASIS"
   },
   {
-    "360ONE": "MRF"
+    "Symbol": "MPSLTD"
   },
   {
-    "360ONE": "MRO-TEK"
+    "Symbol": "MRF"
   },
   {
-    "360ONE": "MRPL"
+    "Symbol": "MRO-TEK"
   },
   {
-    "360ONE": "MSTCLTD"
+    "Symbol": "MRPL"
   },
   {
-    "360ONE": "MSUMI"
+    "Symbol": "MSTCLTD"
   },
   {
-    "360ONE": "MTARTECH"
+    "Symbol": "MSUMI"
   },
   {
-    "360ONE": "MTNL"
+    "Symbol": "MTARTECH"
   },
   {
-    "360ONE": "MUFIN"
+    "Symbol": "MTNL"
   },
   {
-    "360ONE": "MUFTI"
+    "Symbol": "MUFIN"
   },
   {
-    "360ONE": "MUKANDLTD"
+    "Symbol": "MUFTI"
   },
   {
-    "360ONE": "MUKKA"
+    "Symbol": "MUKANDLTD"
   },
   {
-    "360ONE": "MULTICAP"
+    "Symbol": "MUKKA"
   },
   {
-    "360ONE": "MUNJALAU"
+    "Symbol": "MULTICAP"
   },
   {
-    "360ONE": "MUNJALSHOW"
+    "Symbol": "MUNJALAU"
   },
   {
-    "360ONE": "MURUDCERA"
+    "Symbol": "MUNJALSHOW"
   },
   {
-    "360ONE": "MUTHOOTCAP"
+    "Symbol": "MURUDCERA"
   },
   {
-    "360ONE": "MUTHOOTFIN"
+    "Symbol": "MUTHOOTCAP"
   },
   {
-    "360ONE": "MUTHOOTMF"
+    "Symbol": "MUTHOOTFIN"
   },
   {
-    "360ONE": "MVGJL"
+    "Symbol": "MUTHOOTMF"
   },
   {
-    "360ONE": "NACLIND"
+    "Symbol": "MVGJL"
   },
   {
-    "360ONE": "NAGAFERT"
+    "Symbol": "NACLIND"
   },
   {
-    "360ONE": "NAHARCAP"
+    "Symbol": "NAGAFERT"
   },
   {
-    "360ONE": "NAHARINDUS"
+    "Symbol": "NAHARCAP"
   },
   {
-    "360ONE": "NAHARPOLY"
+    "Symbol": "NAHARINDUS"
   },
   {
-    "360ONE": "NAHARSPING"
+    "Symbol": "NAHARPOLY"
   },
   {
-    "360ONE": "NAKSH"
+    "Symbol": "NAHARSPING"
   },
   {
-    "360ONE": "NAM-INDIA"
+    "Symbol": "NAKSH"
   },
   {
-    "360ONE": "NARMADA"
+    "Symbol": "NAM-INDIA"
   },
   {
-    "360ONE": "NATCOPHARM"
+    "Symbol": "NARMADA"
   },
   {
-    "360ONE": "NATHBIOGEN"
+    "Symbol": "NATCOPHARM"
   },
   {
-    "360ONE": "NATIONALUM"
+    "Symbol": "NATHBIOGEN"
   },
   {
-    "360ONE": "NATIONSTD"
+    "Symbol": "NATIONALUM"
   },
   {
-    "360ONE": "NAUKRI"
+    "Symbol": "NATIONSTD"
   },
   {
-    "360ONE": "NAVA"
+    "Symbol": "NAUKRI"
   },
   {
-    "360ONE": "NAVINFLUOR"
+    "Symbol": "NAVA"
   },
   {
-    "360ONE": "NAVKARCORP"
+    "Symbol": "NAVINFLUOR"
   },
   {
-    "360ONE": "NAVNETEDUL"
+    "Symbol": "NAVKARCORP"
   },
   {
-    "360ONE": "NAZARA"
+    "Symbol": "NAVNETEDUL"
   },
   {
-    "360ONE": "NBCC"
+    "Symbol": "NAZARA"
   },
   {
-    "360ONE": "NCC"
+    "Symbol": "NBCC"
   },
   {
-    "360ONE": "NCLIND"
+    "Symbol": "NCC"
   },
   {
-    "360ONE": "NDLVENTURE"
+    "Symbol": "NCLIND"
   },
   {
-    "360ONE": "NDRAUTO"
+    "Symbol": "NDLVENTURE"
   },
   {
-    "360ONE": "NDTV"
+    "Symbol": "NDRAUTO"
   },
   {
-    "360ONE": "NECCLTD"
+    "Symbol": "NDTV"
   },
   {
-    "360ONE": "NELCAST"
+    "Symbol": "NECCLTD"
   },
   {
-    "360ONE": "NELCO"
+    "Symbol": "NELCAST"
   },
   {
-    "360ONE": "NEOGEN"
+    "Symbol": "NELCO"
   },
   {
-    "360ONE": "NESCO"
+    "Symbol": "NEOGEN"
   },
   {
-    "360ONE": "NESTLEIND"
+    "Symbol": "NESCO"
   },
   {
-    "360ONE": "NETWEB"
+    "Symbol": "NESTLEIND"
   },
   {
-    "360ONE": "NETWORK18"
+    "Symbol": "NETWEB"
   },
   {
-    "360ONE": "NEULANDLAB"
+    "Symbol": "NETWORK18"
   },
   {
-    "360ONE": "NEWGEN"
+    "Symbol": "NEULANDLAB"
   },
   {
-    "360ONE": "NFL"
+    "Symbol": "NEWGEN"
   },
   {
-    "360ONE": "NGIL"
+    "Symbol": "NFL"
   },
   {
-    "360ONE": "NGLFINE"
+    "Symbol": "NGIL"
   },
   {
-    "360ONE": "NH"
+    "Symbol": "NGLFINE"
   },
   {
-    "360ONE": "NHPC"
+    "Symbol": "NH"
   },
   {
-    "360ONE": "NIACL"
+    "Symbol": "NHPC"
   },
   {
-    "360ONE": "NIBE"
+    "Symbol": "NIACL"
   },
   {
-    "360ONE": "NIFMID150"
+    "Symbol": "NIBE"
   },
   {
-    "360ONE": "NIITLTD"
+    "Symbol": "NIFMID150"
   },
   {
-    "360ONE": "NIITMTS"
+    "Symbol": "NIITLTD"
   },
   {
-    "360ONE": "NILAINFRA"
+    "Symbol": "NIITMTS"
   },
   {
-    "360ONE": "NILKAMAL"
+    "Symbol": "NILAINFRA"
   },
   {
-    "360ONE": "NINSYS"
+    "Symbol": "NILKAMAL"
   },
   {
-    "360ONE": "NIRLON"
+    "Symbol": "NINSYS"
   },
   {
-    "360ONE": "NITINSPIN"
+    "Symbol": "NIRLON"
   },
   {
-    "360ONE": "NIVABUPA"
+    "Symbol": "NITINSPIN"
   },
   {
-    "360ONE": "NKIND"
+    "Symbol": "NIVABUPA"
   },
   {
-    "360ONE": "NLCINDIA"
+    "Symbol": "NKIND"
   },
   {
-    "360ONE": "NMDC"
+    "Symbol": "NLCINDIA"
   },
   {
-    "360ONE": "NOCIL"
+    "Symbol": "NMDC"
   },
   {
-    "360ONE": "NORTHARC"
+    "Symbol": "NOCIL"
   },
   {
-    "360ONE": "NOVAAGRI"
+    "Symbol": "NORTHARC"
   },
   {
-    "360ONE": "NOVARTIND"
+    "Symbol": "NOVAAGRI"
   },
   {
-    "360ONE": "NPL"
+    "Symbol": "NOVARTIND"
   },
   {
-    "360ONE": "NRAIL"
+    "Symbol": "NPL"
   },
   {
-    "360ONE": "NRBBEARING"
+    "Symbol": "NRAIL"
   },
   {
-    "360ONE": "NSIL"
+    "Symbol": "NRBBEARING"
   },
   {
-    "360ONE": "NSL"
+    "Symbol": "NSIL"
   },
   {
-    "360ONE": "NSLNISP"
+    "Symbol": "NSL"
   },
   {
-    "360ONE": "NTPC"
+    "Symbol": "NSLNISP"
   },
   {
-    "360ONE": "NTPCGREEN"
+    "Symbol": "NTPC"
   },
   {
-    "360ONE": "NUCLEUS"
+    "Symbol": "NTPCGREEN"
   },
   {
-    "360ONE": "NURECA"
+    "Symbol": "NUCLEUS"
   },
   {
-    "360ONE": "NUVAMA"
+    "Symbol": "NURECA"
   },
   {
-    "360ONE": "NUVOCO"
+    "Symbol": "NUVAMA"
   },
   {
-    "360ONE": "NYKAA"
+    "Symbol": "NUVOCO"
   },
   {
-    "360ONE": "OAL"
+    "Symbol": "NYKAA"
   },
   {
-    "360ONE": "OBCL"
+    "Symbol": "OAL"
   },
   {
-    "360ONE": "OBEROIRLTY"
+    "Symbol": "OBCL"
   },
   {
-    "360ONE": "OCCL"
+    "Symbol": "OBEROIRLTY"
   },
   {
-    "360ONE": "OCCLLTD"
+    "Symbol": "OCCL"
   },
   {
-    "360ONE": "OFSS"
+    "Symbol": "OCCLLTD"
   },
   {
-    "360ONE": "OIL"
+    "Symbol": "OFSS"
   },
   {
-    "360ONE": "OLAELEC"
+    "Symbol": "OIL"
   },
   {
-    "360ONE": "OLECTRA"
+    "Symbol": "OLAELEC"
   },
   {
-    "360ONE": "OMAXAUTO"
+    "Symbol": "OLECTRA"
   },
   {
-    "360ONE": "OMAXE"
+    "Symbol": "OMAXAUTO"
   },
   {
-    "360ONE": "OMINFRAL"
+    "Symbol": "OMAXE"
   },
   {
-    "360ONE": "ONELIFECAP"
+    "Symbol": "OMINFRAL"
   },
   {
-    "360ONE": "ONGC"
+    "Symbol": "ONELIFECAP"
   },
   {
-    "360ONE": "ONMOBILE"
+    "Symbol": "ONGC"
   },
   {
-    "360ONE": "ONWARDTEC"
+    "Symbol": "ONMOBILE"
   },
   {
-    "360ONE": "ORBTEXP"
+    "Symbol": "ONWARDTEC"
   },
   {
-    "360ONE": "ORCHPHARMA"
+    "Symbol": "ORBTEXP"
   },
   {
-    "360ONE": "ORICONENT"
+    "Symbol": "ORCHPHARMA"
   },
   {
-    "360ONE": "ORIENTBELL"
+    "Symbol": "ORICONENT"
   },
   {
-    "360ONE": "ORIENTCEM"
+    "Symbol": "ORIENTBELL"
   },
   {
-    "360ONE": "ORIENTCER"
+    "Symbol": "ORIENTCEM"
   },
   {
-    "360ONE": "ORIENTELEC"
+    "Symbol": "ORIENTCER"
   },
   {
-    "360ONE": "ORIENTHOT"
+    "Symbol": "ORIENTELEC"
   },
   {
-    "360ONE": "ORIENTLTD"
+    "Symbol": "ORIENTHOT"
   },
   {
-    "360ONE": "ORIENTTECH"
+    "Symbol": "ORIENTLTD"
   },
   {
-    "360ONE": "ORIRAIL"
+    "Symbol": "ORIENTTECH"
   },
   {
-    "360ONE": "ORISSAMINE"
+    "Symbol": "ORIRAIL"
   },
   {
-    "360ONE": "ORTINGLOBE"
+    "Symbol": "ORISSAMINE"
   },
   {
-    "360ONE": "OSWALGREEN"
+    "Symbol": "ORTINGLOBE"
   },
   {
-    "360ONE": "PAGEIND"
+    "Symbol": "OSWALGREEN"
   },
   {
-    "360ONE": "PAISALO"
+    "Symbol": "PAGEIND"
   },
   {
-    "360ONE": "PAKKA"
+    "Symbol": "PAISALO"
   },
   {
-    "360ONE": "PALASHSECU"
+    "Symbol": "PAKKA"
   },
   {
-    "360ONE": "PALMJEWELS"
+    "Symbol": "PALASHSECU"
   },
   {
-    "360ONE": "PANAMAPET"
+    "Symbol": "PALMJEWELS"
   },
   {
-    "360ONE": "PARACABLES"
+    "Symbol": "PANAMAPET"
   },
   {
-    "360ONE": "PARADEEP"
+    "Symbol": "PARACABLES"
   },
   {
-    "360ONE": "PARAGMILK"
+    "Symbol": "PARADEEP"
   },
   {
-    "360ONE": "PARAS"
+    "Symbol": "PARAGMILK"
   },
   {
-    "360ONE": "PARKHOTELS"
+    "Symbol": "PARAS"
   },
   {
-    "360ONE": "PARSHVA"
+    "Symbol": "PARKHOTELS"
   },
   {
-    "360ONE": "PATANJALI"
+    "Symbol": "PARSHVA"
   },
   {
-    "360ONE": "PATELENG"
+    "Symbol": "PATANJALI"
   },
   {
-    "360ONE": "PATINTLOG"
+    "Symbol": "PATELENG"
   },
   {
-    "360ONE": "PAUSHAKLTD"
+    "Symbol": "PATINTLOG"
   },
   {
-    "360ONE": "PAYTM"
+    "Symbol": "PAUSHAKLTD"
   },
   {
-    "360ONE": "PCBL"
+    "Symbol": "PAYTM"
   },
   {
-    "360ONE": "PDMJEPAPER"
+    "Symbol": "PCBL"
   },
   {
-    "360ONE": "PDSL"
+    "Symbol": "PDMJEPAPER"
   },
   {
-    "360ONE": "PEARLPOLY"
+    "Symbol": "PDSL"
   },
   {
-    "360ONE": "PEL"
+    "Symbol": "PEARLPOLY"
   },
   {
-    "360ONE": "PENIND"
+    "Symbol": "PEL"
   },
   {
-    "360ONE": "PENINLAND"
+    "Symbol": "PENIND"
   },
   {
-    "360ONE": "PERSISTENT"
+    "Symbol": "PENINLAND"
   },
   {
-    "360ONE": "PETRONET"
+    "Symbol": "PERSISTENT"
   },
   {
-    "360ONE": "PFC"
+    "Symbol": "PETRONET"
   },
   {
-    "360ONE": "PFIZER"
+    "Symbol": "PFC"
   },
   {
-    "360ONE": "PFOCUS"
+    "Symbol": "PFIZER"
   },
   {
-    "360ONE": "PFS"
+    "Symbol": "PFOCUS"
   },
   {
-    "360ONE": "PGEL"
+    "Symbol": "PFS"
   },
   {
-    "360ONE": "PGHH"
+    "Symbol": "PGEL"
   },
   {
-    "360ONE": "PGHL"
+    "Symbol": "PGHH"
   },
   {
-    "360ONE": "PGIL"
+    "Symbol": "PGHL"
   },
   {
-    "360ONE": "PHOENIXLTD"
+    "Symbol": "PGIL"
   },
   {
-    "360ONE": "PICCADIL"
+    "Symbol": "PHOENIXLTD"
   },
   {
-    "360ONE": "PIDILITIND"
+    "Symbol": "PICCADIL"
   },
   {
-    "360ONE": "PIIND"
+    "Symbol": "PIDILITIND"
   },
   {
-    "360ONE": "PILANIINVS"
+    "Symbol": "PIIND"
   },
   {
-    "360ONE": "PILITA"
+    "Symbol": "PILANIINVS"
   },
   {
-    "360ONE": "PIONEEREMB"
+    "Symbol": "PILITA"
   },
   {
-    "360ONE": "PITTIENG"
+    "Symbol": "PIONEEREMB"
   },
   {
-    "360ONE": "PIXTRANS"
+    "Symbol": "PITTIENG"
   },
   {
-    "360ONE": "PLASTIBLEN"
+    "Symbol": "PIXTRANS"
   },
   {
-    "360ONE": "PLATIND"
+    "Symbol": "PLASTIBLEN"
   },
   {
-    "360ONE": "PLAZACABLE"
+    "Symbol": "PLATIND"
   },
   {
-    "360ONE": "PNB"
+    "Symbol": "PLAZACABLE"
   },
   {
-    "360ONE": "PNBGILTS"
+    "Symbol": "PNB"
   },
   {
-    "360ONE": "PNBHOUSING"
+    "Symbol": "PNBGILTS"
   },
   {
-    "360ONE": "PNC"
+    "Symbol": "PNBHOUSING"
   },
   {
-    "360ONE": "PNCINFRA"
+    "Symbol": "PNC"
   },
   {
-    "360ONE": "PNGJL"
+    "Symbol": "PNCINFRA"
   },
   {
-    "360ONE": "POCL"
+    "Symbol": "PNGJL"
   },
   {
-    "360ONE": "PODDARMENT"
+    "Symbol": "POCL"
   },
   {
-    "360ONE": "POKARNA"
+    "Symbol": "PODDARMENT"
   },
   {
-    "360ONE": "POLICYBZR"
+    "Symbol": "POKARNA"
   },
   {
-    "360ONE": "POLYCAB"
+    "Symbol": "POLICYBZR"
   },
   {
-    "360ONE": "POLYMED"
+    "Symbol": "POLYCAB"
   },
   {
-    "360ONE": "POLYPLEX"
+    "Symbol": "POLYMED"
   },
   {
-    "360ONE": "PONNIERODE"
+    "Symbol": "POLYPLEX"
   },
   {
-    "360ONE": "POOJA"
+    "Symbol": "PONNIERODE"
   },
   {
-    "360ONE": "POONAWALLA"
+    "Symbol": "POOJA"
   },
   {
-    "360ONE": "POWERGRID"
+    "Symbol": "POONAWALLA"
   },
   {
-    "360ONE": "POWERINDIA"
+    "Symbol": "POWERGRID"
   },
   {
-    "360ONE": "POWERMECH"
+    "Symbol": "POWERINDIA"
   },
   {
-    "360ONE": "PQIF"
+    "Symbol": "POWERMECH"
   },
   {
-    "360ONE": "PRAENG"
+    "Symbol": "PQIF"
   },
   {
-    "360ONE": "PRAJIND"
+    "Symbol": "PRAENG"
   },
   {
-    "360ONE": "PRAKASH"
+    "Symbol": "PRAJIND"
   },
   {
-    "360ONE": "PRAKASHSTL"
+    "Symbol": "PRAKASH"
   },
   {
-    "360ONE": "PRAVEG"
+    "Symbol": "PRAKASHSTL"
   },
   {
-    "360ONE": "PRECAM"
+    "Symbol": "PRAVEG"
   },
   {
-    "360ONE": "PRECWIRE"
+    "Symbol": "PRECAM"
   },
   {
-    "360ONE": "PREMEXPLN"
+    "Symbol": "PRECWIRE"
   },
   {
-    "360ONE": "PREMIERENE"
+    "Symbol": "PREMEXPLN"
   },
   {
-    "360ONE": "PRESTIGE"
+    "Symbol": "PREMIERENE"
   },
   {
-    "360ONE": "PRICOLLTD"
+    "Symbol": "PRESTIGE"
   },
   {
-    "360ONE": "PRIMESECU"
+    "Symbol": "PRICOLLTD"
   },
   {
-    "360ONE": "PRINCEPIPE"
+    "Symbol": "PRIMESECU"
   },
   {
-    "360ONE": "PRITIKAUTO"
+    "Symbol": "PRINCEPIPE"
   },
   {
-    "360ONE": "PRIVISCL"
+    "Symbol": "PRITIKAUTO"
   },
   {
-    "360ONE": "PROTEAN"
+    "Symbol": "PRIVISCL"
   },
   {
-    "360ONE": "PROZONER"
+    "Symbol": "PROTEAN"
   },
   {
-    "360ONE": "PRSMJOHNSN"
+    "Symbol": "PROZONER"
   },
   {
-    "360ONE": "PRUDENT"
+    "Symbol": "PRSMJOHNSN"
   },
   {
-    "360ONE": "PSB"
+    "Symbol": "PRUDENT"
   },
   {
-    "360ONE": "PSUBANK"
+    "Symbol": "PSB"
   },
   {
-    "360ONE": "PSUBANKADD"
+    "Symbol": "PSUBANK"
   },
   {
-    "360ONE": "PTC"
+    "Symbol": "PSUBANKADD"
   },
   {
-    "360ONE": "PTCIL"
+    "Symbol": "PTC"
   },
   {
-    "360ONE": "PTL"
+    "Symbol": "PTCIL"
   },
   {
-    "360ONE": "PUNJABCHEM"
+    "Symbol": "PTL"
   },
   {
-    "360ONE": "PUNJCOMMU"
+    "Symbol": "PUNJABCHEM"
   },
   {
-    "360ONE": "PURVA"
+    "Symbol": "PUNJCOMMU"
   },
   {
-    "360ONE": "PVRINOX"
+    "Symbol": "PURVA"
   },
   {
-    "360ONE": "PVSL"
+    "Symbol": "PVRINOX"
   },
   {
-    "360ONE": "PVTBANKADD"
+    "Symbol": "PVSL"
   },
   {
-    "360ONE": "PYRAMID"
+    "Symbol": "PVTBANKADD"
   },
   {
-    "360ONE": "QUESS"
+    "Symbol": "PYRAMID"
   },
   {
-    "360ONE": "QUICKHEAL"
+    "Symbol": "QUESS"
   },
   {
-    "360ONE": "RACE"
+    "Symbol": "QUICKHEAL"
   },
   {
-    "360ONE": "RACLGEAR"
+    "Symbol": "RACE"
   },
   {
-    "360ONE": "RADIANTCMS"
+    "Symbol": "RACLGEAR"
   },
   {
-    "360ONE": "RADICO"
+    "Symbol": "RADIANTCMS"
   },
   {
-    "360ONE": "RADIOCITY"
+    "Symbol": "RADICO"
   },
   {
-    "360ONE": "RAILTEL"
+    "Symbol": "RADIOCITY"
   },
   {
-    "360ONE": "RAIN"
+    "Symbol": "RAILTEL"
   },
   {
-    "360ONE": "RAINBOW"
+    "Symbol": "RAIN"
   },
   {
-    "360ONE": "RAJESHEXPO"
+    "Symbol": "RAINBOW"
   },
   {
-    "360ONE": "RAJOOENG"
+    "Symbol": "RAJESHEXPO"
   },
   {
-    "360ONE": "RAJRATAN"
+    "Symbol": "RAJOOENG"
   },
   {
-    "360ONE": "RAJSREESUG"
+    "Symbol": "RAJRATAN"
   },
   {
-    "360ONE": "RALLIS"
+    "Symbol": "RAJSREESUG"
   },
   {
-    "360ONE": "RAMANEWS"
+    "Symbol": "RALLIS"
   },
   {
-    "360ONE": "RAMAPHO"
+    "Symbol": "RAMANEWS"
   },
   {
-    "360ONE": "RAMASTEEL"
+    "Symbol": "RAMAPHO"
   },
   {
-    "360ONE": "RAMCOCEM"
+    "Symbol": "RAMASTEEL"
   },
   {
-    "360ONE": "RAMCOIND"
+    "Symbol": "RAMCOCEM"
   },
   {
-    "360ONE": "RAMCOSYS"
+    "Symbol": "RAMCOIND"
   },
   {
-    "360ONE": "RAMKY"
+    "Symbol": "RAMCOSYS"
   },
   {
-    "360ONE": "RAMRAT"
+    "Symbol": "RAMKY"
   },
   {
-    "360ONE": "RANASUG"
+    "Symbol": "RAMRAT"
   },
   {
-    "360ONE": "RANEENGINE"
+    "Symbol": "RANASUG"
   },
   {
-    "360ONE": "RANEHOLDIN"
+    "Symbol": "RANEENGINE"
   },
   {
-    "360ONE": "RATEGAIN"
+    "Symbol": "RANEHOLDIN"
   },
   {
-    "360ONE": "RATNAMANI"
+    "Symbol": "RATEGAIN"
   },
   {
-    "360ONE": "RATNAVEER"
+    "Symbol": "RATNAMANI"
   },
   {
-    "360ONE": "RAWEDGE"
+    "Symbol": "RATNAVEER"
   },
   {
-    "360ONE": "RAYMOND"
+    "Symbol": "RAWEDGE"
   },
   {
-    "360ONE": "RAYMONDLSL"
+    "Symbol": "RAYMOND"
   },
   {
-    "360ONE": "RBA"
+    "Symbol": "RAYMONDLSL"
   },
   {
-    "360ONE": "RBL"
+    "Symbol": "RBA"
   },
   {
-    "360ONE": "RBLBANK"
+    "Symbol": "RBL"
   },
   {
-    "360ONE": "RCF"
+    "Symbol": "RBLBANK"
   },
   {
-    "360ONE": "RECLTD"
+    "Symbol": "RCF"
   },
   {
-    "360ONE": "REDINGTON"
+    "Symbol": "RECLTD"
   },
   {
-    "360ONE": "REDTAPE"
+    "Symbol": "REDINGTON"
   },
   {
-    "360ONE": "RELAXO"
+    "Symbol": "REDTAPE"
   },
   {
-    "360ONE": "RELCHEMQ"
+    "Symbol": "RELAXO"
   },
   {
-    "360ONE": "RELIABLE"
+    "Symbol": "RELCHEMQ"
   },
   {
-    "360ONE": "RELIANCE"
+    "Symbol": "RELIABLE"
   },
   {
-    "360ONE": "RELICAB"
+    "Symbol": "RELIANCE"
   },
   {
-    "360ONE": "RELIGARE"
+    "Symbol": "RELICAB"
   },
   {
-    "360ONE": "REMSONSIND"
+    "Symbol": "RELIGARE"
   },
   {
-    "360ONE": "RENUKA"
+    "Symbol": "REMSONSIND"
   },
   {
-    "360ONE": "REPCOHOME"
+    "Symbol": "RENUKA"
   },
   {
-    "360ONE": "REPRO"
+    "Symbol": "REPCOHOME"
   },
   {
-    "360ONE": "RESPONIND"
+    "Symbol": "REPRO"
   },
   {
-    "360ONE": "RETAIL"
+    "Symbol": "RESPONIND"
   },
   {
-    "360ONE": "RGL"
+    "Symbol": "RETAIL"
   },
   {
-    "360ONE": "RHETAN"
+    "Symbol": "RGL"
   },
   {
-    "360ONE": "RHIM"
+    "Symbol": "RHETAN"
   },
   {
-    "360ONE": "RHL"
+    "Symbol": "RHIM"
   },
   {
-    "360ONE": "RICOAUTO"
+    "Symbol": "RHL"
   },
   {
-    "360ONE": "RIIL"
+    "Symbol": "RICOAUTO"
   },
   {
-    "360ONE": "RISHABH"
+    "Symbol": "RIIL"
   },
   {
-    "360ONE": "RITCO"
+    "Symbol": "RISHABH"
   },
   {
-    "360ONE": "RITES"
+    "Symbol": "RITCO"
   },
   {
-    "360ONE": "RKFORGE"
+    "Symbol": "RITES"
   },
   {
-    "360ONE": "RKSWAMY"
+    "Symbol": "RKFORGE"
   },
   {
-    "360ONE": "RML"
+    "Symbol": "RKSWAMY"
   },
   {
-    "360ONE": "ROHLTD"
+    "Symbol": "RML"
   },
   {
-    "360ONE": "ROLEXRINGS"
+    "Symbol": "ROHLTD"
   },
   {
-    "360ONE": "ROML"
+    "Symbol": "ROLEXRINGS"
   },
   {
-    "360ONE": "ROSSARI"
+    "Symbol": "ROML"
   },
   {
-    "360ONE": "ROTO"
+    "Symbol": "ROSSARI"
   },
   {
-    "360ONE": "ROUTE"
+    "Symbol": "ROTO"
   },
   {
-    "360ONE": "RPEL"
+    "Symbol": "ROUTE"
   },
   {
-    "360ONE": "RPGLIFE"
+    "Symbol": "RPEL"
   },
   {
-    "360ONE": "RPSGVENT"
+    "Symbol": "RPGLIFE"
   },
   {
-    "360ONE": "RPTECH"
+    "Symbol": "RPSGVENT"
   },
   {
-    "360ONE": "RRKABEL"
+    "Symbol": "RPTECH"
   },
   {
-    "360ONE": "RSWM"
+    "Symbol": "RRKABEL"
   },
   {
-    "360ONE": "RSYSTEMS"
+    "Symbol": "RSWM"
   },
   {
-    "360ONE": "RTNINDIA"
+    "Symbol": "RSYSTEMS"
   },
   {
-    "360ONE": "RTNPOWER"
+    "Symbol": "RTNINDIA"
   },
   {
-    "360ONE": "RUBFILA"
+    "Symbol": "RTNPOWER"
   },
   {
-    "360ONE": "RUBYMILLS"
+    "Symbol": "RUBFILA"
   },
   {
-    "360ONE": "RUCHINFRA"
+    "Symbol": "RUBYMILLS"
   },
   {
-    "360ONE": "RUCHIRA"
+    "Symbol": "RUCHINFRA"
   },
   {
-    "360ONE": "RUPA"
+    "Symbol": "RUCHIRA"
   },
   {
-    "360ONE": "RUSHIL"
+    "Symbol": "RUPA"
   },
   {
-    "360ONE": "RUSTOMJEE"
+    "Symbol": "RUSHIL"
   },
   {
-    "360ONE": "RVHL"
+    "Symbol": "RUSTOMJEE"
   },
   {
-    "360ONE": "RVNL"
+    "Symbol": "RVHL"
   },
   {
-    "360ONE": "SADBHAV"
+    "Symbol": "RVNL"
   },
   {
-    "360ONE": "SADBHIN"
+    "Symbol": "SADBHAV"
   },
   {
-    "360ONE": "SADHNANIQ"
+    "Symbol": "SADBHIN"
   },
   {
-    "360ONE": "SAFARI"
+    "Symbol": "SADHNANIQ"
   },
   {
-    "360ONE": "SAGCEM"
+    "Symbol": "SAFARI"
   },
   {
-    "360ONE": "SAGILITY"
+    "Symbol": "SAGCEM"
   },
   {
-    "360ONE": "SAHYADRI"
+    "Symbol": "SAGILITY"
   },
   {
-    "360ONE": "SAIL"
+    "Symbol": "SAHYADRI"
   },
   {
-    "360ONE": "SAINTGOBAIN"
+    "Symbol": "SAIL"
   },
   {
-    "360ONE": "SAKHTISUG"
+    "Symbol": "SAINTGOBAIN"
   },
   {
-    "360ONE": "SAKSOFT"
+    "Symbol": "SAKHTISUG"
   },
   {
-    "360ONE": "SALASAR"
+    "Symbol": "SAKSOFT"
   },
   {
-    "360ONE": "SALONA"
+    "Symbol": "SALASAR"
   },
   {
-    "360ONE": "SALSTEEL"
+    "Symbol": "SALONA"
   },
   {
-    "360ONE": "SALZERELEC"
+    "Symbol": "SALSTEEL"
   },
   {
-    "360ONE": "SAMBHAAV"
+    "Symbol": "SALZERELEC"
   },
   {
-    "360ONE": "SAMHI"
+    "Symbol": "SAMBHAAV"
   },
   {
-    "360ONE": "SAMMAANCAP"
+    "Symbol": "SAMHI"
   },
   {
-    "360ONE": "SAMPANN"
+    "Symbol": "SAMMAANCAP"
   },
   {
-    "360ONE": "SANDESH"
+    "Symbol": "SAMPANN"
   },
   {
-    "360ONE": "SANDHAR"
+    "Symbol": "SANDESH"
   },
   {
-    "360ONE": "SANDUMA"
+    "Symbol": "SANDHAR"
   },
   {
-    "360ONE": "SANGAMIND"
+    "Symbol": "SANDUMA"
   },
   {
-    "360ONE": "SANGHIIND"
+    "Symbol": "SANGAMIND"
   },
   {
-    "360ONE": "SANGHVIMOV"
+    "Symbol": "SANGHIIND"
   },
   {
-    "360ONE": "SANOFI"
+    "Symbol": "SANGHVIMOV"
   },
   {
-    "360ONE": "SANOFICONR"
+    "Symbol": "SANOFI"
   },
   {
-    "360ONE": "SANSERA"
+    "Symbol": "SANOFICONR"
   },
   {
-    "360ONE": "SANSTAR"
+    "Symbol": "SANSERA"
   },
   {
-    "360ONE": "SARDAEN"
+    "Symbol": "SANSTAR"
   },
   {
-    "360ONE": "SAREGAMA"
+    "Symbol": "SARDAEN"
   },
   {
-    "360ONE": "SARLAPOLY"
+    "Symbol": "SAREGAMA"
   },
   {
-    "360ONE": "SARVESHWAR"
+    "Symbol": "SARLAPOLY"
   },
   {
-    "360ONE": "SASKEN"
+    "Symbol": "SARVESHWAR"
   },
   {
-    "360ONE": "SASTASUNDR"
+    "Symbol": "SASKEN"
   },
   {
-    "360ONE": "SATIA"
+    "Symbol": "SASTASUNDR"
   },
   {
-    "360ONE": "SATIN"
+    "Symbol": "SATIA"
   },
   {
-    "360ONE": "SATINDLTD"
+    "Symbol": "SATIN"
   },
   {
-    "360ONE": "SAURASHCEM"
+    "Symbol": "SATINDLTD"
   },
   {
-    "360ONE": "SBC"
+    "Symbol": "SAURASHCEM"
   },
   {
-    "360ONE": "SBCL"
+    "Symbol": "SBC"
   },
   {
-    "360ONE": "SBFC"
+    "Symbol": "SBCL"
   },
   {
-    "360ONE": "SBGLP"
+    "Symbol": "SBFC"
   },
   {
-    "360ONE": "SBICARD"
+    "Symbol": "SBGLP"
   },
   {
-    "360ONE": "SBILIFE"
+    "Symbol": "SBICARD"
   },
   {
-    "360ONE": "SBIN"
+    "Symbol": "SBILIFE"
   },
   {
-    "360ONE": "SCHAEFFLER"
+    "Symbol": "SBIN"
   },
   {
-    "360ONE": "SCHAND"
+    "Symbol": "SCHAEFFLER"
   },
   {
-    "360ONE": "SCHNEIDER"
+    "Symbol": "SCHAND"
   },
   {
-    "360ONE": "SCI"
+    "Symbol": "SCHNEIDER"
   },
   {
-    "360ONE": "SCILAL"
+    "Symbol": "SCI"
   },
   {
-    "360ONE": "SDBL"
+    "Symbol": "SCILAL"
   },
   {
-    "360ONE": "SEAMECLTD"
+    "Symbol": "SDBL"
   },
   {
-    "360ONE": "SECMARK"
+    "Symbol": "SEAMECLTD"
   },
   {
-    "360ONE": "SECURKLOUD"
+    "Symbol": "SECMARK"
   },
   {
-    "360ONE": "SELAN"
+    "Symbol": "SECURKLOUD"
   },
   {
-    "360ONE": "SELMC"
+    "Symbol": "SELAN"
   },
   {
-    "360ONE": "SENCO"
+    "Symbol": "SELMC"
   },
   {
-    "360ONE": "SEPC"
+    "Symbol": "SENCO"
   },
   {
-    "360ONE": "SESHAPAPER"
+    "Symbol": "SEPC"
   },
   {
-    "360ONE": "SFL"
+    "Symbol": "SESHAPAPER"
   },
   {
-    "360ONE": "SGFIN"
+    "Symbol": "SFL"
   },
   {
-    "360ONE": "SGIL"
+    "Symbol": "SGFIN"
   },
   {
-    "360ONE": "SGL"
+    "Symbol": "SGIL"
   },
   {
-    "360ONE": "SGMART"
+    "Symbol": "SGL"
   },
   {
-    "360ONE": "SGRL"
+    "Symbol": "SGMART"
   },
   {
-    "360ONE": "SHAILY"
+    "Symbol": "SGRL"
   },
   {
-    "360ONE": "SHALBY"
+    "Symbol": "SHAILY"
   },
   {
-    "360ONE": "SHALPAINTS"
+    "Symbol": "SHALBY"
   },
   {
-    "360ONE": "SHANKARA"
+    "Symbol": "SHALPAINTS"
   },
   {
-    "360ONE": "SHANTIGEAR"
+    "Symbol": "SHANKARA"
   },
   {
-    "360ONE": "SHARDACROP"
+    "Symbol": "SHANTIGEAR"
   },
   {
-    "360ONE": "SHARDAMOTR"
+    "Symbol": "SHARDACROP"
   },
   {
-    "360ONE": "SHAREINDIA"
+    "Symbol": "SHARDAMOTR"
   },
   {
-    "360ONE": "SHEMAROO"
+    "Symbol": "SHAREINDIA"
   },
   {
-    "360ONE": "SHILCTECH"
+    "Symbol": "SHEMAROO"
   },
   {
-    "360ONE": "SHILPAMED"
+    "Symbol": "SHILCTECH"
   },
   {
-    "360ONE": "SHISHIND"
+    "Symbol": "SHILPAMED"
   },
   {
-    "360ONE": "SHIVACEM"
+    "Symbol": "SHISHIND"
   },
   {
-    "360ONE": "SHIVALIK"
+    "Symbol": "SHIVACEM"
   },
   {
-    "360ONE": "SHIVAMAUTO"
+    "Symbol": "SHIVALIK"
   },
   {
-    "360ONE": "SHIVAMILLS"
+    "Symbol": "SHIVAMAUTO"
   },
   {
-    "360ONE": "SHIVATEX"
+    "Symbol": "SHIVAMILLS"
   },
   {
-    "360ONE": "SHK"
+    "Symbol": "SHIVATEX"
   },
   {
-    "360ONE": "SHOPERSTOP"
+    "Symbol": "SHK"
   },
   {
-    "360ONE": "SHREDIGCEM"
+    "Symbol": "SHOPERSTOP"
   },
   {
-    "360ONE": "SHREECEM"
+    "Symbol": "SHREDIGCEM"
   },
   {
-    "360ONE": "SHREEPUSHK"
+    "Symbol": "SHREECEM"
   },
   {
-    "360ONE": "SHREYANIND"
+    "Symbol": "SHREEPUSHK"
   },
   {
-    "360ONE": "SHRIRAMFIN"
+    "Symbol": "SHREYANIND"
   },
   {
-    "360ONE": "SHUBHAM"
+    "Symbol": "SHRIRAMFIN"
   },
   {
-    "360ONE": "SHYAMCENT"
+    "Symbol": "SHUBHAM"
   },
   {
-    "360ONE": "SHYAMMETL"
+    "Symbol": "SHYAMCENT"
   },
   {
-    "360ONE": "SIEMENS"
+    "Symbol": "SHYAMMETL"
   },
   {
-    "360ONE": "SIGACHI"
+    "Symbol": "SIEMENS"
   },
   {
-    "360ONE": "SIGIND"
+    "Symbol": "SIGACHI"
   },
   {
-    "360ONE": "SIGMA"
+    "Symbol": "SIGIND"
   },
   {
-    "360ONE": "SIGNATURE"
+    "Symbol": "SIGMA"
   },
   {
-    "360ONE": "SIGNPOST"
+    "Symbol": "SIGNATURE"
   },
   {
-    "360ONE": "SIKA"
+    "Symbol": "SIGNPOST"
   },
   {
-    "360ONE": "SIL"
+    "Symbol": "SIKA"
   },
   {
-    "360ONE": "SILVERTUC"
+    "Symbol": "SIL"
   },
   {
-    "360ONE": "SINCLAIR"
+    "Symbol": "SILVERTUC"
   },
   {
-    "360ONE": "SINDHUTRAD"
+    "Symbol": "SINCLAIR"
   },
   {
-    "360ONE": "SIRCA"
+    "Symbol": "SINDHUTRAD"
   },
   {
-    "360ONE": "SIS"
+    "Symbol": "SIRCA"
   },
   {
-    "360ONE": "SIYSIL"
+    "Symbol": "SIS"
   },
   {
-    "360ONE": "SJS"
+    "Symbol": "SIYSIL"
   },
   {
-    "360ONE": "SJVN"
+    "Symbol": "SJS"
   },
   {
-    "360ONE": "SKFINDIA"
+    "Symbol": "SJVN"
   },
   {
-    "360ONE": "SKMEGGPROD"
+    "Symbol": "SKFINDIA"
   },
   {
-    "360ONE": "SMALLCAP"
+    "Symbol": "SKMEGGPROD"
   },
   {
-    "360ONE": "SMCGLOBAL"
+    "Symbol": "SMALLCAP"
   },
   {
-    "360ONE": "SMLISUZU"
+    "Symbol": "SMCGLOBAL"
   },
   {
-    "360ONE": "SMLT"
+    "Symbol": "SMLISUZU"
   },
   {
-    "360ONE": "SMSPHARMA"
+    "Symbol": "SMLT"
   },
   {
-    "360ONE": "SNOWMAN"
+    "Symbol": "SMSPHARMA"
   },
   {
-    "360ONE": "SOBHA"
+    "Symbol": "SNOWMAN"
   },
   {
-    "360ONE": "SOFTTECH"
+    "Symbol": "SOBHA"
   },
   {
-    "360ONE": "SOLARA"
+    "Symbol": "SOFTTECH"
   },
   {
-    "360ONE": "SOLARINDS"
+    "Symbol": "SOLARA"
   },
   {
-    "360ONE": "SOMANYCERA"
+    "Symbol": "SOLARINDS"
   },
   {
-    "360ONE": "SOMICONVEY"
+    "Symbol": "SOMANYCERA"
   },
   {
-    "360ONE": "SONACOMS"
+    "Symbol": "SOMICONVEY"
   },
   {
-    "360ONE": "SONATSOFTW"
+    "Symbol": "SONACOMS"
   },
   {
-    "360ONE": "SOTL"
+    "Symbol": "SONATSOFTW"
   },
   {
-    "360ONE": "SOUTHBANK"
+    "Symbol": "SOTL"
   },
   {
-    "360ONE": "SOUTHWEST"
+    "Symbol": "SOUTHBANK"
   },
   {
-    "360ONE": "SPAL"
+    "Symbol": "SOUTHWEST"
   },
   {
-    "360ONE": "SPANDANA"
+    "Symbol": "SPAL"
   },
   {
-    "360ONE": "SPARC"
+    "Symbol": "SPANDANA"
   },
   {
-    "360ONE": "SPECIALITY"
+    "Symbol": "SPARC"
   },
   {
-    "360ONE": "SPENCERS"
+    "Symbol": "SPECIALITY"
   },
   {
-    "360ONE": "SPIC"
+    "Symbol": "SPENCERS"
   },
   {
-    "360ONE": "SPICEJET"
+    "Symbol": "SPIC"
   },
   {
-    "360ONE": "SPLIL"
+    "Symbol": "SPICEJET"
   },
   {
-    "360ONE": "SPLPETRO"
+    "Symbol": "SPLIL"
   },
   {
-    "360ONE": "SPORTKING"
+    "Symbol": "SPLPETRO"
   },
   {
-    "360ONE": "SREEL"
+    "Symbol": "SPORTKING"
   },
   {
-    "360ONE": "SRF"
+    "Symbol": "SREEL"
   },
   {
-    "360ONE": "SRGHFL"
+    "Symbol": "SRF"
   },
   {
-    "360ONE": "SRHHYPOLTD"
+    "Symbol": "SRGHFL"
   },
   {
-    "360ONE": "SRM"
+    "Symbol": "SRHHYPOLTD"
   },
   {
-    "360ONE": "SSDL"
+    "Symbol": "SRM"
   },
   {
-    "360ONE": "SSWL"
+    "Symbol": "SSDL"
   },
   {
-    "360ONE": "STANLEY"
+    "Symbol": "SSWL"
   },
   {
-    "360ONE": "STARCEMENT"
+    "Symbol": "STANLEY"
   },
   {
-    "360ONE": "STARHEALTH"
+    "Symbol": "STARCEMENT"
   },
   {
-    "360ONE": "STARPAPER"
+    "Symbol": "STARHEALTH"
   },
   {
-    "360ONE": "STARTECK"
+    "Symbol": "STARPAPER"
   },
   {
-    "360ONE": "STCINDIA"
+    "Symbol": "STARTECK"
   },
   {
-    "360ONE": "STEELCAS"
+    "Symbol": "STCINDIA"
   },
   {
-    "360ONE": "STEELXIND"
+    "Symbol": "STEELCAS"
   },
   {
-    "360ONE": "STEL"
+    "Symbol": "STEELXIND"
   },
   {
-    "360ONE": "STERTOOLS"
+    "Symbol": "STEL"
   },
   {
-    "360ONE": "STL"
+    "Symbol": "STERTOOLS"
   },
   {
-    "360ONE": "STLTECH"
+    "Symbol": "STL"
   },
   {
-    "360ONE": "STOVEKRAFT"
+    "Symbol": "STLTECH"
   },
   {
-    "360ONE": "STYLAMIND"
+    "Symbol": "STOVEKRAFT"
   },
   {
-    "360ONE": "STYLEBAAZA"
+    "Symbol": "STYLAMIND"
   },
   {
-    "360ONE": "STYRENIX"
+    "Symbol": "STYLEBAAZA"
   },
   {
-    "360ONE": "SUBEXLTD"
+    "Symbol": "STYRENIX"
   },
   {
-    "360ONE": "SUBROS"
+    "Symbol": "SUBEXLTD"
   },
   {
-    "360ONE": "SUDARSCHEM"
+    "Symbol": "SUBROS"
   },
   {
-    "360ONE": "SUKHJITS"
+    "Symbol": "SUDARSCHEM"
   },
   {
-    "360ONE": "SULA"
+    "Symbol": "SUKHJITS"
   },
   {
-    "360ONE": "SUMICHEM"
+    "Symbol": "SULA"
   },
   {
-    "360ONE": "SUMMITSEC"
+    "Symbol": "SUMICHEM"
   },
   {
-    "360ONE": "SUNCLAY"
+    "Symbol": "SUMMITSEC"
   },
   {
-    "360ONE": "SUNDARAM"
+    "Symbol": "SUNCLAY"
   },
   {
-    "360ONE": "SUNDARMFIN"
+    "Symbol": "SUNDARAM"
   },
   {
-    "360ONE": "SUNDRMBRAK"
+    "Symbol": "SUNDARMFIN"
   },
   {
-    "360ONE": "SUNDRMFAST"
+    "Symbol": "SUNDRMBRAK"
   },
   {
-    "360ONE": "SUNFLAG"
+    "Symbol": "SUNDRMFAST"
   },
   {
-    "360ONE": "SUNPHARMA"
+    "Symbol": "SUNFLAG"
   },
   {
-    "360ONE": "SUNTECK"
+    "Symbol": "SUNPHARMA"
   },
   {
-    "360ONE": "SUNTV"
+    "Symbol": "SUNTECK"
   },
   {
-    "360ONE": "SUPERHOUSE"
+    "Symbol": "SUNTV"
   },
   {
-    "360ONE": "SUPRAJIT"
+    "Symbol": "SUPERHOUSE"
   },
   {
-    "360ONE": "SUPREMEIND"
+    "Symbol": "SUPRAJIT"
   },
   {
-    "360ONE": "SUPRIYA"
+    "Symbol": "SUPREMEIND"
   },
   {
-    "360ONE": "SURAJEST"
+    "Symbol": "SUPRIYA"
   },
   {
-    "360ONE": "SURAKSHA"
+    "Symbol": "SURAJEST"
   },
   {
-    "360ONE": "SURANAT&P"
+    "Symbol": "SURAKSHA"
   },
   {
-    "360ONE": "SURYALAXMI"
+    "Symbol": "SURANAT&P"
   },
   {
-    "360ONE": "SURYAROSNI"
+    "Symbol": "SURYALAXMI"
   },
   {
-    "360ONE": "SURYODAY"
+    "Symbol": "SURYAROSNI"
   },
   {
-    "360ONE": "SUTLEJTEX"
+    "Symbol": "SURYODAY"
   },
   {
-    "360ONE": "SUVEN"
+    "Symbol": "SUTLEJTEX"
   },
   {
-    "360ONE": "SUVENPHAR"
+    "Symbol": "SUVEN"
   },
   {
-    "360ONE": "SUVIDHAA"
+    "Symbol": "SUVENPHAR"
   },
   {
-    "360ONE": "SUYOG"
+    "Symbol": "SUVIDHAA"
   },
   {
-    "360ONE": "SUZLON"
+    "Symbol": "SUYOG"
   },
   {
-    "360ONE": "SWANENERGY"
+    "Symbol": "SUZLON"
   },
   {
-    "360ONE": "SWARAJENG"
+    "Symbol": "SWANENERGY"
   },
   {
-    "360ONE": "SWELECTES"
+    "Symbol": "SWARAJENG"
   },
   {
-    "360ONE": "SWIGGY"
+    "Symbol": "SWELECTES"
   },
   {
-    "360ONE": "SWSOLAR"
+    "Symbol": "SWIGGY"
   },
   {
-    "360ONE": "SYMPHONY"
+    "Symbol": "SWSOLAR"
   },
   {
-    "360ONE": "SYNCOMF"
+    "Symbol": "SYMPHONY"
   },
   {
-    "360ONE": "SYNGENE"
+    "Symbol": "SYNCOMF"
   },
   {
-    "360ONE": "SYRMA"
+    "Symbol": "SYNGENE"
   },
   {
-    "360ONE": "TAINWALCHM"
+    "Symbol": "SYRMA"
   },
   {
-    "360ONE": "TAJGVK"
+    "Symbol": "TAINWALCHM"
   },
   {
-    "360ONE": "TAKE"
+    "Symbol": "TAJGVK"
   },
   {
-    "360ONE": "TALBROAUTO"
+    "Symbol": "TAKE"
   },
   {
-    "360ONE": "TANAA"
+    "Symbol": "TALBROAUTO"
   },
   {
-    "360ONE": "TANFACIND"
+    "Symbol": "TANAA"
   },
   {
-    "360ONE": "TANLA"
+    "Symbol": "TANFACIND"
   },
   {
-    "360ONE": "TARC"
+    "Symbol": "TANLA"
   },
   {
-    "360ONE": "TARMAT"
+    "Symbol": "TARC"
   },
   {
-    "360ONE": "TARSONS"
+    "Symbol": "TARMAT"
   },
   {
-    "360ONE": "TASTYBITE"
+    "Symbol": "TARSONS"
   },
   {
-    "360ONE": "TATACHEM"
+    "Symbol": "TASTYBITE"
   },
   {
-    "360ONE": "TATACOMM"
+    "Symbol": "TATACHEM"
   },
   {
-    "360ONE": "TATACONSUM"
+    "Symbol": "TATACOMM"
   },
   {
-    "360ONE": "TATAELXSI"
+    "Symbol": "TATACONSUM"
   },
   {
-    "360ONE": "TATAINVEST"
+    "Symbol": "TATAELXSI"
   },
   {
-    "360ONE": "TATAMOTORS"
+    "Symbol": "TATAINVEST"
   },
   {
-    "360ONE": "TATAPOWER"
+    "Symbol": "TATAMOTORS"
   },
   {
-    "360ONE": "TATASTEEL"
+    "Symbol": "TATAPOWER"
   },
   {
-    "360ONE": "TATATECH"
+    "Symbol": "TATASTEEL"
   },
   {
-    "360ONE": "TATVA"
+    "Symbol": "TATATECH"
   },
   {
-    "360ONE": "TBOTEK"
+    "Symbol": "TATVA"
   },
   {
-    "360ONE": "TBZ"
+    "Symbol": "TBOTEK"
   },
   {
-    "360ONE": "TCI"
+    "Symbol": "TBZ"
   },
   {
-    "360ONE": "TCIEXP"
+    "Symbol": "TCI"
   },
   {
-    "360ONE": "TCLCONS"
+    "Symbol": "TCIEXP"
   },
   {
-    "360ONE": "TCPLPACK"
+    "Symbol": "TCLCONS"
   },
   {
-    "360ONE": "TCS"
+    "Symbol": "TCPLPACK"
   },
   {
-    "360ONE": "TDPOWERSYS"
+    "Symbol": "TCS"
   },
   {
-    "360ONE": "TDSL"
+    "Symbol": "TDPOWERSYS"
   },
   {
-    "360ONE": "TEAMLEASE"
+    "Symbol": "TDSL"
   },
   {
-    "360ONE": "TECH"
+    "Symbol": "TEAMLEASE"
   },
   {
-    "360ONE": "TECHM"
+    "Symbol": "TECH"
   },
   {
-    "360ONE": "TECHNOE"
+    "Symbol": "TECHM"
   },
   {
-    "360ONE": "TEGA"
+    "Symbol": "TECHNOE"
   },
   {
-    "360ONE": "TEJASNET"
+    "Symbol": "TEGA"
   },
   {
-    "360ONE": "TEXINFRA"
+    "Symbol": "TEJASNET"
   },
   {
-    "360ONE": "TEXMOPIPES"
+    "Symbol": "TEXINFRA"
   },
   {
-    "360ONE": "TEXRAIL"
+    "Symbol": "TEXMOPIPES"
   },
   {
-    "360ONE": "TFCILTD"
+    "Symbol": "TEXRAIL"
   },
   {
-    "360ONE": "TGBHOTELS"
+    "Symbol": "TFCILTD"
   },
   {
-    "360ONE": "TGVSL"
+    "Symbol": "TGBHOTELS"
   },
   {
-    "360ONE": "THANGAMAYL"
+    "Symbol": "TGVSL"
   },
   {
-    "360ONE": "THEINVEST"
+    "Symbol": "THANGAMAYL"
   },
   {
-    "360ONE": "THEMISMED"
+    "Symbol": "THEINVEST"
   },
   {
-    "360ONE": "THERMAX"
+    "Symbol": "THEMISMED"
   },
   {
-    "360ONE": "THOMASCOOK"
+    "Symbol": "THERMAX"
   },
   {
-    "360ONE": "THOMASCOTT"
+    "Symbol": "THOMASCOOK"
   },
   {
-    "360ONE": "THYROCARE"
+    "Symbol": "THOMASCOTT"
   },
   {
-    "360ONE": "TI"
+    "Symbol": "THYROCARE"
   },
   {
-    "360ONE": "TIIL"
+    "Symbol": "TI"
   },
   {
-    "360ONE": "TIINDIA"
+    "Symbol": "TIIL"
   },
   {
-    "360ONE": "TIMESGTY"
+    "Symbol": "TIINDIA"
   },
   {
-    "360ONE": "TIMETECHNO"
+    "Symbol": "TIMESGTY"
   },
   {
-    "360ONE": "TIMEX"
+    "Symbol": "TIMETECHNO"
   },
   {
-    "360ONE": "TIMKEN"
+    "Symbol": "TIMEX"
   },
   {
-    "360ONE": "TINNARUBR"
+    "Symbol": "TIMKEN"
   },
   {
-    "360ONE": "TIPSFILMS"
+    "Symbol": "TINNARUBR"
   },
   {
-    "360ONE": "TIPSMUSIC"
+    "Symbol": "TIPSFILMS"
   },
   {
-    "360ONE": "TIRUMALCHM"
+    "Symbol": "TIPSMUSIC"
   },
   {
-    "360ONE": "TITAGARH"
+    "Symbol": "TIRUMALCHM"
   },
   {
-    "360ONE": "TITAN"
+    "Symbol": "TITAGARH"
   },
   {
-    "360ONE": "TMB"
+    "Symbol": "TITAN"
   },
   {
-    "360ONE": "TNPETRO"
+    "Symbol": "TMB"
   },
   {
-    "360ONE": "TNPL"
+    "Symbol": "TNPETRO"
   },
   {
-    "360ONE": "TNTELE"
+    "Symbol": "TNPL"
   },
   {
-    "360ONE": "TOKYOPLAST"
+    "Symbol": "TNTELE"
   },
   {
-    "360ONE": "TOLINS"
+    "Symbol": "TOKYOPLAST"
   },
   {
-    "360ONE": "TOP100CASE"
+    "Symbol": "TOLINS"
   },
   {
-    "360ONE": "TOP10ADD"
+    "Symbol": "TOP100CASE"
   },
   {
-    "360ONE": "TORNTPHARM"
+    "Symbol": "TOP10ADD"
   },
   {
-    "360ONE": "TORNTPOWER"
+    "Symbol": "TORNTPHARM"
   },
   {
-    "360ONE": "TOTEM"
+    "Symbol": "TORNTPOWER"
   },
   {
-    "360ONE": "TPHQ"
+    "Symbol": "TOTEM"
   },
   {
-    "360ONE": "TPLPLASTEH"
+    "Symbol": "TPHQ"
   },
   {
-    "360ONE": "TRACXN"
+    "Symbol": "TPLPLASTEH"
   },
   {
-    "360ONE": "TRANSWORLD"
+    "Symbol": "TRACXN"
   },
   {
-    "360ONE": "TREL"
+    "Symbol": "TRANSWORLD"
   },
   {
-    "360ONE": "TRENT"
+    "Symbol": "TREL"
   },
   {
-    "360ONE": "TRF"
+    "Symbol": "TRENT"
   },
   {
-    "360ONE": "TRIDENT"
+    "Symbol": "TRF"
   },
   {
-    "360ONE": "TRIGYN"
+    "Symbol": "TRIDENT"
   },
   {
-    "360ONE": "TRITURBINE"
+    "Symbol": "TRIGYN"
   },
   {
-    "360ONE": "TRIVENI"
+    "Symbol": "TRITURBINE"
   },
   {
-    "360ONE": "TTKHLTCARE"
+    "Symbol": "TRIVENI"
   },
   {
-    "360ONE": "TTKPRESTIG"
+    "Symbol": "TTKHLTCARE"
   },
   {
-    "360ONE": "TTML"
+    "Symbol": "TTKPRESTIG"
   },
   {
-    "360ONE": "TUTIALKA"
+    "Symbol": "TTML"
   },
   {
-    "360ONE": "TVSHLTD"
+    "Symbol": "TUTIALKA"
   },
   {
-    "360ONE": "TVSMOTOR"
+    "Symbol": "TVSHLTD"
   },
   {
-    "360ONE": "TVSSCS"
+    "Symbol": "TVSMOTOR"
   },
   {
-    "360ONE": "TVSSRICHAK"
+    "Symbol": "TVSSCS"
   },
   {
-    "360ONE": "TVTODAY"
+    "Symbol": "TVSSRICHAK"
   },
   {
-    "360ONE": "UBL"
+    "Symbol": "TVTODAY"
   },
   {
-    "360ONE": "UCAL"
+    "Symbol": "UBL"
   },
   {
-    "360ONE": "UCOBANK"
+    "Symbol": "UCAL"
   },
   {
-    "360ONE": "UDAICEMENT"
+    "Symbol": "UCOBANK"
   },
   {
-    "360ONE": "UDS"
+    "Symbol": "UDAICEMENT"
   },
   {
-    "360ONE": "UFLEX"
+    "Symbol": "UDS"
   },
   {
-    "360ONE": "UFO"
+    "Symbol": "UFLEX"
   },
   {
-    "360ONE": "UGARSUGAR"
+    "Symbol": "UFO"
   },
   {
-    "360ONE": "UGROCAP"
+    "Symbol": "UGARSUGAR"
   },
   {
-    "360ONE": "UHZAVERI"
+    "Symbol": "UGROCAP"
   },
   {
-    "360ONE": "UJJIVANSFB"
+    "Symbol": "UHZAVERI"
   },
   {
-    "360ONE": "ULTRACEMCO"
+    "Symbol": "UJJIVANSFB"
   },
   {
-    "360ONE": "ULTRAMAR"
+    "Symbol": "ULTRACEMCO"
   },
   {
-    "360ONE": "UMANGDAIRY"
+    "Symbol": "ULTRAMAR"
   },
   {
-    "360ONE": "UMESLTD"
+    "Symbol": "UMANGDAIRY"
   },
   {
-    "360ONE": "UNIAUTO"
+    "Symbol": "UMESLTD"
   },
   {
-    "360ONE": "UNICHEMLAB"
+    "Symbol": "UNIAUTO"
   },
   {
-    "360ONE": "UNIDT"
+    "Symbol": "UNICHEMLAB"
   },
   {
-    "360ONE": "UNIECOM"
+    "Symbol": "UNIDT"
   },
   {
-    "360ONE": "UNIENTER"
+    "Symbol": "UNIECOM"
   },
   {
-    "360ONE": "UNIONBANK"
+    "Symbol": "UNIENTER"
   },
   {
-    "360ONE": "UNIPARTS"
+    "Symbol": "UNIONBANK"
   },
   {
-    "360ONE": "UNITDSPR"
+    "Symbol": "UNIPARTS"
   },
   {
-    "360ONE": "UNIVCABLES"
+    "Symbol": "UNITDSPR"
   },
   {
-    "360ONE": "UNIVPHOTO"
+    "Symbol": "UNIVCABLES"
   },
   {
-    "360ONE": "UNOMINDA"
+    "Symbol": "UNIVPHOTO"
   },
   {
-    "360ONE": "UPL"
+    "Symbol": "UNOMINDA"
   },
   {
-    "360ONE": "URSUGAR"
+    "Symbol": "UPL"
   },
   {
-    "360ONE": "USHAMART"
+    "Symbol": "URSUGAR"
   },
   {
-    "360ONE": "USK"
+    "Symbol": "USHAMART"
   },
   {
-    "360ONE": "UTIAMC"
+    "Symbol": "USK"
   },
   {
-    "360ONE": "UTINEXT50"
+    "Symbol": "UTIAMC"
   },
   {
-    "360ONE": "UTISXN50"
+    "Symbol": "UTINEXT50"
   },
   {
-    "360ONE": "UTKARSHBNK"
+    "Symbol": "UTISXN50"
   },
   {
-    "360ONE": "UTTAMSUGAR"
+    "Symbol": "UTKARSHBNK"
   },
   {
-    "360ONE": "UYFINCORP"
+    "Symbol": "UTTAMSUGAR"
   },
   {
-    "360ONE": "VADILALIND"
+    "Symbol": "UYFINCORP"
   },
   {
-    "360ONE": "VAIBHAVGBL"
+    "Symbol": "VADILALIND"
   },
   {
-    "360ONE": "VAKRANGEE"
+    "Symbol": "VAIBHAVGBL"
   },
   {
-    "360ONE": "VALIANTLAB"
+    "Symbol": "VAKRANGEE"
   },
   {
-    "360ONE": "VALIANTORG"
+    "Symbol": "VALIANTLAB"
   },
   {
-    "360ONE": "VARDMNPOLY"
+    "Symbol": "VALIANTORG"
   },
   {
-    "360ONE": "VARROC"
+    "Symbol": "VARDMNPOLY"
   },
   {
-    "360ONE": "VASCONEQ"
+    "Symbol": "VARROC"
   },
   {
-    "360ONE": "VBL"
+    "Symbol": "VASCONEQ"
   },
   {
-    "360ONE": "VEDL"
+    "Symbol": "VBL"
   },
   {
-    "360ONE": "VEEDOL"
+    "Symbol": "VEDL"
   },
   {
-    "360ONE": "VENKEYS"
+    "Symbol": "VEEDOL"
   },
   {
-    "360ONE": "VENUSPIPES"
+    "Symbol": "VENKEYS"
   },
   {
-    "360ONE": "VENUSREM"
+    "Symbol": "VENUSPIPES"
   },
   {
-    "360ONE": "VERANDA"
+    "Symbol": "VENUSREM"
   },
   {
-    "360ONE": "VESUVIUS"
+    "Symbol": "VERANDA"
   },
   {
-    "360ONE": "VGUARD"
+    "Symbol": "VESUVIUS"
   },
   {
-    "360ONE": "VHL"
+    "Symbol": "VGUARD"
   },
   {
-    "360ONE": "VIDHIING"
+    "Symbol": "VHL"
   },
   {
-    "360ONE": "VIJAYA"
+    "Symbol": "VIDHIING"
   },
   {
-    "360ONE": "VIKASECO"
+    "Symbol": "VIJAYA"
   },
   {
-    "360ONE": "VIKASLIFE"
+    "Symbol": "VIKASECO"
   },
   {
-    "360ONE": "VIMTALABS"
+    "Symbol": "VIKASLIFE"
   },
   {
-    "360ONE": "VINATIORGA"
+    "Symbol": "VIMTALABS"
   },
   {
-    "360ONE": "VINCOFE"
+    "Symbol": "VINATIORGA"
   },
   {
-    "360ONE": "VINDHYATEL"
+    "Symbol": "VINCOFE"
   },
   {
-    "360ONE": "VINEETLAB"
+    "Symbol": "VINDHYATEL"
   },
   {
-    "360ONE": "VINYLINDIA"
+    "Symbol": "VINEETLAB"
   },
   {
-    "360ONE": "VIPCLOTHNG"
+    "Symbol": "VINYLINDIA"
   },
   {
-    "360ONE": "VIPIND"
+    "Symbol": "VIPCLOTHNG"
   },
   {
-    "360ONE": "VIRINCHI"
+    "Symbol": "VIPIND"
   },
   {
-    "360ONE": "VISAKAIND"
+    "Symbol": "VIRINCHI"
   },
   {
-    "360ONE": "VISHALBL"
+    "Symbol": "VISAKAIND"
   },
   {
-    "360ONE": "VISHNU"
+    "Symbol": "VISHALBL"
   },
   {
-    "360ONE": "VISHWARAJ"
+    "Symbol": "VISHNU"
   },
   {
-    "360ONE": "VIVIDHA"
+    "Symbol": "VISHWARAJ"
   },
   {
-    "360ONE": "VLSFINANCE"
+    "Symbol": "VIVIDHA"
   },
   {
-    "360ONE": "VMART"
+    "Symbol": "VLSFINANCE"
   },
   {
-    "360ONE": "VOLTAMP"
+    "Symbol": "VMART"
   },
   {
-    "360ONE": "VOLTAS"
+    "Symbol": "VOLTAMP"
   },
   {
-    "360ONE": "VPRPL"
+    "Symbol": "VOLTAS"
   },
   {
-    "360ONE": "VRAJ"
+    "Symbol": "VPRPL"
   },
   {
-    "360ONE": "VRLLOG"
+    "Symbol": "VRAJ"
   },
   {
-    "360ONE": "VSL"
+    "Symbol": "VRLLOG"
   },
   {
-    "360ONE": "VSSL"
+    "Symbol": "VSL"
   },
   {
-    "360ONE": "VSTIND"
+    "Symbol": "VSSL"
   },
   {
-    "360ONE": "VSTL"
+    "Symbol": "VSTIND"
   },
   {
-    "360ONE": "VSTTILLERS"
+    "Symbol": "VSTL"
   },
   {
-    "360ONE": "VTL"
+    "Symbol": "VSTTILLERS"
   },
   {
-    "360ONE": "WAAREEENER"
+    "Symbol": "VTL"
   },
   {
-    "360ONE": "WABAG"
+    "Symbol": "WAAREEENER"
   },
   {
-    "360ONE": "WALCHANNAG"
+    "Symbol": "WABAG"
   },
   {
-    "360ONE": "WANBURY"
+    "Symbol": "WALCHANNAG"
   },
   {
-    "360ONE": "WARDINMOBI"
+    "Symbol": "WANBURY"
   },
   {
-    "360ONE": "WCIL"
+    "Symbol": "WARDINMOBI"
   },
   {
-    "360ONE": "WEBELSOLAR"
+    "Symbol": "WCIL"
   },
   {
-    "360ONE": "WEIZMANIND"
+    "Symbol": "WEBELSOLAR"
   },
   {
-    "360ONE": "WEL"
+    "Symbol": "WEIZMANIND"
   },
   {
-    "360ONE": "WELCORP"
+    "Symbol": "WEL"
   },
   {
-    "360ONE": "WELENT"
+    "Symbol": "WELCORP"
   },
   {
-    "360ONE": "WELINV"
+    "Symbol": "WELENT"
   },
   {
-    "360ONE": "WELSPLSOL"
+    "Symbol": "WELINV"
   },
   {
-    "360ONE": "WELSPUNLIV"
+    "Symbol": "WELSPLSOL"
   },
   {
-    "360ONE": "WENDT"
+    "Symbol": "WELSPUNLIV"
   },
   {
-    "360ONE": "WESTLIFE"
+    "Symbol": "WENDT"
   },
   {
-    "360ONE": "WEWIN"
+    "Symbol": "WESTLIFE"
   },
   {
-    "360ONE": "WHEELS"
+    "Symbol": "WEWIN"
   },
   {
-    "360ONE": "WHIRLPOOL"
+    "Symbol": "WHEELS"
   },
   {
-    "360ONE": "WILLAMAGOR"
+    "Symbol": "WHIRLPOOL"
   },
   {
-    "360ONE": "WINDLAS"
+    "Symbol": "WILLAMAGOR"
   },
   {
-    "360ONE": "WINDMACHIN"
+    "Symbol": "WINDLAS"
   },
   {
-    "360ONE": "WIPRO"
+    "Symbol": "WINDMACHIN"
   },
   {
-    "360ONE": "WOCKPHARMA"
+    "Symbol": "WIPRO"
   },
   {
-    "360ONE": "WONDERLA"
+    "Symbol": "WOCKPHARMA"
   },
   {
-    "360ONE": "WORL"
+    "Symbol": "WONDERLA"
   },
   {
-    "360ONE": "WPIL"
+    "Symbol": "WORL"
   },
   {
-    "360ONE": "WSI"
+    "Symbol": "WPIL"
   },
   {
-    "360ONE": "WSTCSTPAPR"
+    "Symbol": "WSI"
   },
   {
-    "360ONE": "XCHANGING"
+    "Symbol": "WSTCSTPAPR"
   },
   {
-    "360ONE": "XPROINDIA"
+    "Symbol": "XCHANGING"
   },
   {
-    "360ONE": "XTGLOBAL"
+    "Symbol": "XPROINDIA"
   },
   {
-    "360ONE": "YASHO"
+    "Symbol": "XTGLOBAL"
   },
   {
-    "360ONE": "YATHARTH"
+    "Symbol": "YASHO"
   },
   {
-    "360ONE": "YATRA"
+    "Symbol": "YATHARTH"
   },
   {
-    "360ONE": "YESBANK"
+    "Symbol": "YATRA"
   },
   {
-    "360ONE": "YUKEN"
+    "Symbol": "YESBANK"
   },
   {
-    "360ONE": "ZEEL"
+    "Symbol": "YUKEN"
   },
   {
-    "360ONE": "ZEELEARN"
+    "Symbol": "ZEEL"
   },
   {
-    "360ONE": "ZENSARTECH"
+    "Symbol": "ZEELEARN"
   },
   {
-    "360ONE": "ZENTEC"
+    "Symbol": "ZENSARTECH"
   },
   {
-    "360ONE": "ZFCVINDIA"
+    "Symbol": "ZENTEC"
   },
   {
-    "360ONE": "ZFSTEERING"
+    "Symbol": "ZFCVINDIA"
   },
   {
-    "360ONE": "ZIMLAB"
+    "Symbol": "ZFSTEERING"
   },
   {
-    "360ONE": "ZODIAC"
+    "Symbol": "ZIMLAB"
   },
   {
-    "360ONE": "ZODIACLOTH"
+    "Symbol": "ZODIAC"
   },
   {
-    "360ONE": "ZOMATO"
+    "Symbol": "ZODIACLOTH"
   },
   {
-    "360ONE": "ZUARI"
+    "Symbol": "ZOMATO"
   },
   {
-    "360ONE": "ZUARIIND"
+    "Symbol": "ZUARI"
   },
   {
-    "360ONE": "ZYDUSLIFE"
+    "Symbol": "ZUARIIND"
   },
   {
-    "360ONE": "ZYDUSWELL"
+    "Symbol": "ZYDUSLIFE"
+  },
+  {
+    "Symbol": "ZYDUSWELL"
   }
 ]
