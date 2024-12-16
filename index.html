@@ -5,22 +5,81 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BseCharts</title>
     <script src="https://s3.tradingview.com/tv.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #1a202c;
+            margin: 0;
+            padding: 0;
+        }
+        #app {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+        #tradingview_widget {
+            flex-grow: 1;
+        }
+        footer {
+            height: 48px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 16px;
+            background-color: #1a202c;
+        }
+        button {
+            cursor: pointer;
+        }
+        #fullscreenBtn {
+            padding: 8px;
+            background-color: #f9fafb;
+            border: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        #fullscreenBtn:hover {
+            background-color: #f3f4f6;
+        }
+        .pagination {
+            display: flex;
+            align-items: center;
+        }
+        .pagination button {
+            background-color: #f3f4f6;
+            color: black;
+            font-size: 14px;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 9999px;
+            margin: 0 8px;
+            transition: background-color 0.3s;
+        }
+        .pagination button:hover {
+            background-color: #dbeafe;
+        }
+        #paginationText {
+            font-size: 14px;
+            color: white;
+            font-weight: 500;
+        }
+    </style>
 </head>
-<body class="font-sans bg-gray-850">
-    <div id="app" class="flex flex-col h-svh">
-        <div id="tradingview_widget" class="flex-grow"></div>
-        <footer class="h-12 flex items-center justify-between px-4 bg-gray-850">
-            <button id="fullscreenBtn" class="p-2 bg-gray-50 rounded hover:bg-gray-100 transition-colors">
+<body>
+    <div id="app">
+        <div id="tradingview_widget"></div>
+        <footer>
+            <button id="fullscreenBtn">
                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6m0 0v6m0-6-7 7"/><path d="M9 21H3m0 0v-6m0 6 7-7"/></svg>
             </button>
-            <div class="flex items-center space-x-4">
-               <button id="prevBtn" class="bg-gray-100 hover:bg-blue-100 text-sm text-black py-2 px-4 rounded-full">Previous</button>
-                <span id="paginationText" class="text-sm text-white font-medium">- / -</span>
-                <button id="nextBtn" class="bg-gray-100 hover:bg-blue-100 text-sm text-black py-2 px-4 rounded-full"> Next </button>
+            <div class="pagination">
+               <button id="prevBtn">Previous</button>
+                <span id="paginationText">- / -</span>
+                <button id="nextBtn">Next</button>
             </div>
         </footer>
     </div>
     <script src="script.js"></script>
 </body>
 </html>
+
