@@ -12,6 +12,7 @@ async function fetchStocks() {
         if (stocks.length > 0) {
             loadTradingViewWidget();
             updatePaginationText();
+            setupCustomSearch();
         } else {
             throw new Error('No stocks found in the data');
         }
@@ -26,22 +27,23 @@ function loadTradingViewWidget() {
     const container = document.getElementById('tradingview_widget');
     container.innerHTML = '';
     const footerHeight = 48;
-    const containerHeight = window.innerHeight - footerHeight;
+    const searchHeight = 76; // Adjust based on your layout
+    const containerHeight = window.innerHeight - footerHeight - searchHeight;
     container.style.height = `${containerHeight}px`;
     
     widget = new TradingView.widget({
         autosize: true,
         symbol: `BSE:${stocks[currentIndex].Symbol}`,
-        interval: 'W',
+        interval: 'D',
         timezone: 'Asia/Kolkata',
         theme: 'light',
         style: '1',
         locale: 'in',
         toolbar_bg: '#f1f3f6',
         enable_publishing: false,
-        allow_symbol_change: true,
+        allow_symbol_change: false,
         container_id: 'tradingview_widget',
-        height: containerHeight,
+        hide_side_toolbar: false,
     });
 }
 
@@ -72,6 +74,74 @@ function toggleFullscreen() {
     }
 }
 
+function setupCustomSearch() {
+    const searchInput = document.getElementById('searchInput');
+    const searchResults = document.getElementById('searchResults');
+    
+    searchInput.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+        const filteredStocks = stocks.filter(stock => 
+            stock.Symbol.toLowerCase().includes(query) ||
+            (stock.CompanyName && stock.CompanyName.toLowerCase().includes(query))
+        );
+        
+        searchResults.innerHTML = '';
+        filteredStocks.slice(0, 5).forEach(stock => {
+            const li = document.createElement('li');
+            li.textContent = `${stock.Symbol} - ${stock.CompanyName || ''}`;
+            li.className = 'p-2 hover:bg-gray-100 cursor-pointer';
+            li.addEventListener('click', () => {
+                currentIndex = stocks.findIndex(s => s.Symbol === stock.Symbol);
+                loadTradingViewWidget();
+                updatePaginationText();
+                searchInput.value = '';
+                searchResults.innerHTML = '';
+            });
+            searchResults.appendChild(li);
+        });
+    });
+
+    // Close search results when clicking outside
+    document.addEventListener('click', (e) => {
+        if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.innerHTML = '';
+        }
+    });
+
+    // Navigate search results with arrow keys
+    searchInput.addEventListener('keydown', (e) => {
+        const items = searchResults.getElementsByTagName('li');
+        if (items.length > 0) {
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                items[0].focus();
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                items[items.length - 1].focus();
+            }
+        }
+    });
+
+    searchResults.addEventListener('keydown', (e) => {
+        const items = searchResults.getElementsByTagName('li');
+        const currentIndex = Array.from(items).indexOf(document.activeElement);
+        if (currentIndex > -1) {
+            if (e.key === 'ArrowDown') {
+                e.preventDefault();
+                const nextIndex = (currentIndex + 1) % items.length;
+                items[nextIndex].focus();
+            } else if (e.key === 'ArrowUp') {
+                e.preventDefault();
+                const prevIndex = (currentIndex - 1 + items.length) % items.length;
+                items[prevIndex].focus();
+            } else if (e.key === 'Enter') {
+                e.preventDefault();
+                items[currentIndex].click();
+            }
+        }
+    });
+}
+
 document.getElementById('prevBtn').addEventListener('click', handlePrevious);
 document.getElementById('nextBtn').addEventListener('click', handleNext);
 document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
@@ -88,3 +158,4 @@ document.addEventListener('fullscreenchange', () => {
 });
 
 fetchStocks();
+
