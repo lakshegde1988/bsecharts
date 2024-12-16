@@ -40,7 +40,7 @@ function loadTradingViewWidget() {
         locale: 'in',
         toolbar_bg: '#f1f3f6',
         enable_publishing: false,
-        allow_symbol_change: false,
+        allow_symbol_change: true,
         container_id: 'tradingview_widget',
         height: containerHeight,
     });
