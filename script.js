@@ -4,7 +4,7 @@ let widget;
 
 async function fetchStocks() {
     try {
-        const response = await fetch('bse.json');
+        const response = await fetch('stocks.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
