@@ -4,13 +4,13 @@ let widget;
 
 async function fetchStocks() {
     try {
-        const response = await fetch('bse.json');
+        const response = await fetch('stocks.json');
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         stocks = await response.json();
         if (stocks.length > 0) {
-            setTimeout(loadTradingViewWidget, 0);
+            loadTradingViewWidget();
             updatePaginationText();
         } else {
             throw new Error('No stocks found in the data');
@@ -29,35 +29,20 @@ function loadTradingViewWidget() {
     const containerHeight = window.innerHeight - footerHeight;
     container.style.height = `${containerHeight}px`;
     
-    // Delay widget initialization
-    setTimeout(() => {
-        widget = new TradingView.widget({
-            autosize: true,
-            symbol: `BSE:${stocks[currentIndex].Symbol}`,
-            interval: 'W',
-            timezone: 'Asia/Kolkata',
-            theme: 'light',
-            style: '1',
-            locale: 'in',
-            toolbar_bg: '#f1f3f6',
-            enable_publishing: false,
-            allow_symbol_change: true,
-            container_id: 'tradingview_widget',
-            height: containerHeight,
-            width: '100%',
-            hide_side_toolbar: false,
-            allow_symbol_change: true,
-            watchlist: [],
-            details: true,
-            hotlist: true,
-            calendar: true,
-            studies: ['MASimple@tv-basicstudies'],
-            show_popup_button: true,
-            popup_width: '1000',
-            popup_height: '650',
-            hide_volume: true,
-        });
-    }, 100);
+    widget = new TradingView.widget({
+        autosize: true,
+        symbol: `BSE:${stocks[currentIndex].Symbol}`,
+        interval: 'W',
+        timezone: 'Asia/Kolkata',
+        theme: 'dark',
+        style: '0',
+        locale: 'in',
+        toolbar_bg: '#f1f3f6',
+        enable_publishing: false,
+        allow_symbol_change: true,
+        container_id: 'tradingview_widget',
+        height: containerHeight,
+    });
 }
 
 function updatePaginationText() {
@@ -87,18 +72,11 @@ function toggleFullscreen() {
     }
 }
 
-function handleOrientationChange() {
-    if (widget && widget.resize) {
-        widget.resize();
-    }
-}
-
 document.getElementById('prevBtn').addEventListener('click', handlePrevious);
 document.getElementById('nextBtn').addEventListener('click', handleNext);
 document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
 
 window.addEventListener('resize', loadTradingViewWidget);
-window.addEventListener('orientationchange', handleOrientationChange);
 
 document.addEventListener('fullscreenchange', () => {
     const fullscreenBtn = document.getElementById('fullscreenBtn');
@@ -110,4 +88,3 @@ document.addEventListener('fullscreenchange', () => {
 });
 
 fetchStocks();
-
