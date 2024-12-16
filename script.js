@@ -26,7 +26,7 @@ async function fetchStocks() {
 function loadTradingViewWidget() {
     const container = document.getElementById('tradingview_widget');
     container.innerHTML = '';
-    const footerHeight = 88; // Increased to accommodate the search box
+    const footerHeight = 56; // Adjusted for the more compact footer
     const containerHeight = window.innerHeight - footerHeight;
     container.style.height = `${containerHeight}px`;
     
@@ -48,7 +48,7 @@ function loadTradingViewWidget() {
 
 function updatePaginationText() {
     document.getElementById('paginationText').textContent = 
-        stocks.length > 0 ? `${currentIndex + 1} / ${stocks.length}` : '- / -';
+        stocks.length > 0 ? `${currentIndex + 1}/${stocks.length}` : '-/-';
 }
 
 function handlePrevious() {
@@ -88,7 +88,7 @@ function setupCustomSearch() {
         filteredStocks.slice(0, 5).forEach(stock => {
             const li = document.createElement('li');
             li.textContent = `${stock.Symbol} - ${stock.CompanyName || ''}`;
-            li.className = 'p-2 hover:bg-gray-100 cursor-pointer';
+            li.className = 'p-2 hover:bg-gray-100 cursor-pointer text-xs sm:text-sm';
             li.addEventListener('click', () => {
                 currentIndex = stocks.findIndex(s => s.Symbol === stock.Symbol);
                 loadTradingViewWidget();
@@ -150,9 +150,9 @@ window.addEventListener('resize', loadTradingViewWidget);
 document.addEventListener('fullscreenchange', () => {
     const fullscreenBtn = document.getElementById('fullscreenBtn');
     if (document.fullscreenElement) {
-        fullscreenBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14h6m0 0v6m0-6-7 7"/><path d="M20 10h-6m0 0V4m0 6 7-7"/></svg>';
+        fullscreenBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 14h6m0 0v6m0-6-7 7"/><path d="M20 10h-6m0 0V4m0 6 7-7"/></svg>';
     } else {
-        fullscreenBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6m0 0v6m0-6-7 7"/><path d="M9 21H3m0 0v-6m0 6 7-7"/></svg>';
+        fullscreenBtn.innerHTML = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6m0 0v6m0-6-7 7"/><path d="M9 21H3m0 0v-6m0 6 7-7"/></svg>';
     }
 });
 
