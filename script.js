@@ -1,6 +1,11 @@
 let stocks = [];
 let currentIndex = 0;
 let widget;
+let isMobile = false;
+
+function checkMobile() {
+    return /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+}
 
 async function fetchStocks() {
     try {
@@ -10,6 +15,10 @@ async function fetchStocks() {
         }
         stocks = await response.json();
         if (stocks.length > 0) {
+            isMobile = checkMobile();
+            if (isMobile) {
+                document.getElementById('mobileSearch').classList.remove('hidden');
+            }
             loadTradingViewWidget();
             updatePaginationText();
         } else {
@@ -36,13 +45,45 @@ function loadTradingViewWidget() {
         timezone: 'Asia/Kolkata',
         theme: 'light',
         style: '1',
-        mode:'1',
         locale: 'in',
         toolbar_bg: '#f1f3f6',
         enable_publishing: false,
         allow_symbol_change: true,
         container_id: 'tradingview_widget',
         height: containerHeight,
+        // Add these options:
+        hide_side_toolbar: false,
+        studies: [],
+        show_popup_button: true,
+        popup_width: '1000',
+        popup_height: '650',
+        // Disable auto-selection of first result
+        no_referral_id: true,
+        // Custom search handler
+        custom_search: function(symbol, onResultReadyCallback) {
+            // Implement custom search logic here if needed
+            // For now, we'll just pass the symbol through
+            onResultReadyCallback([{
+                symbol: symbol,
+                full_name: symbol,
+                description: symbol,
+                exchange: 'BSE',
+                type: 'stock'
+            }]);
+        }
+    });
+
+    // Add an event listener for the widget's ready event
+    widget.onChartReady(function() {
+        const searchBox = document.querySelector('.tv-search-row__input');
+        if (searchBox) {
+            searchBox.addEventListener('focus', function(e) {
+                // Prevent default focus behavior
+                e.preventDefault();
+                // Clear the search box
+                this.value = '';
+            });
+        }
     });
 }
 
@@ -73,9 +114,51 @@ function toggleFullscreen() {
     }
 }
 
+function handleMobileSearch() {
+    const input = document.getElementById('mobileSearchInput');
+    const results = document.getElementById('searchResults');
+    
+    input.addEventListener('input', (e) => {
+        const query = e.target.value.toLowerCase();
+        const filteredStocks = stocks.filter(stock => 
+            stock.Symbol.toLowerCase().includes(query) ||
+            (stock.CompanyName && stock.CompanyName.toLowerCase().includes(query))
+        );
+        
+        results.innerHTML = '';
+        filteredStocks.forEach(stock => {
+            const li = document.createElement('li');
+            li.textContent = `${stock.Symbol} - ${stock.CompanyName || ''}`;
+            li.className = 'p-2 hover:bg-gray-100 cursor-pointer';
+            li.addEventListener('click', () => {
+                currentIndex = stocks.findIndex(s => s.Symbol === stock.Symbol);
+                loadTradingViewWidget();
+                updatePaginationText();
+                input.value = '';
+                results.innerHTML = '';
+            });
+            results.appendChild(li);
+        });
+    });
+}
+
+function changeSymbol(symbol) {
+    if (widget && widget.chart && typeof widget.chart.setSymbol === 'function') {
+        widget.chart.setSymbol(`BSE:${symbol}`, function() {
+            console.log('Symbol changed to:', symbol);
+        });
+    }
+}
+
 document.getElementById('prevBtn').addEventListener('click', handlePrevious);
 document.getElementById('nextBtn').addEventListener('click', handleNext);
 document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
+
+// Add this event listener for symbol change
+document.addEventListener('symbolChange', function(e) {
+    const newSymbol = e.detail.symbol;
+    changeSymbol(newSymbol);
+});
 
 window.addEventListener('resize', loadTradingViewWidget);
 
@@ -89,3 +172,5 @@ document.addEventListener('fullscreenchange', () => {
 });
 
 fetchStocks();
+handleMobileSearch();
+
