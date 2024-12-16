@@ -26,9 +26,8 @@ async function fetchStocks() {
 function loadTradingViewWidget() {
     const container = document.getElementById('tradingview_widget');
     container.innerHTML = '';
-    const footerHeight = 48;
-    const searchHeight = 76; // Adjust based on your layout
-    const containerHeight = window.innerHeight - footerHeight - searchHeight;
+    const footerHeight = 88; // Increased to accommodate the search box
+    const containerHeight = window.innerHeight - footerHeight;
     container.style.height = `${containerHeight}px`;
     
     widget = new TradingView.widget({
