@@ -3,12 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TradingView Test</title>
+    <title>Stock Chart</title>
     <script src="https://s3.tradingview.com/tv.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-    <div id="tradingview_widget"></div>
+<body class="font-sans">
+    <div id="app" class="flex flex-col h-screen overflow-hidden">
+        <div id="tradingview_widget" class="flex-grow"></div>
+        <footer class="h-12 bg-gray-100 shadow-inner flex items-center justify-between px-4">
+            <button id="fullscreenBtn" class="p-2 rounded hover:bg-gray-200 transition-colors">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6m0 0v6m0-6-7 7"/><path d="M9 21H3m0 0v-6m0 6 7-7"/></svg>
+            </button>
+            <div class="flex items-center space-x-4">
+                <button id="prevBtn" class="p-2 rounded hover:bg-gray-200 transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 18-6-6 6-6"/></svg>
+                </button>
+                <span id="paginationText" class="text-sm font-medium">- / -</span>
+                <button id="nextBtn" class="p-2 rounded hover:bg-gray-200 transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 18 6-6-6-6"/></svg>
+                </button>
+            </div>
+        </footer>
+    </div>
     <script src="script.js"></script>
 </body>
 </html>
-
