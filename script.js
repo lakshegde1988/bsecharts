@@ -42,7 +42,7 @@ function loadTradingViewWidget() {
     widget = new TradingView.widget({
         autosize: true,
         symbol: `BSE:${stocks[currentIndex].Symbol}`,
-        interval: 'W',
+        interval: 'M',
         timezone: 'Asia/Kolkata',
         theme: 'light',
         style: '0',
