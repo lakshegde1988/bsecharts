@@ -2,6 +2,16 @@ let stocks = [];
 let currentIndex = 0;
 let widget;
 
+
+  // add event listener for keydown event
+  window.addEventListener('keydown', (event) => {
+      if (event.key === 'ArrowLeft') {
+        handlePrevious();
+      } else if (event.key === 'ArrowRight') {
+        handleNext();
+      }
+    });
+
 async function fetchStocks() {
     try {
         const response = await fetch('stocks.json');
