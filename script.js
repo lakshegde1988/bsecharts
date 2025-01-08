@@ -1,16 +1,146 @@
 let stocks = [];
 let currentIndex = 0;
-let widget;
-let currentInterval = '1M';
+let chart;
+let candleSeries;
+let volumeSeries;
+let currentInterval = '1y';
 
-// add event listener for keydown event
-window.addEventListener('keydown', (event) => {
-    if (event.key === 'ArrowLeft') {
-        handlePrevious();
-    } else if (event.key === 'ArrowRight') {
-        handleNext();
+// Initialize the chart
+function initChart() {
+    const container = document.getElementById('chart_container');
+    const footerHeight = 48;
+    const containerHeight = window.innerHeight - footerHeight;
+    container.style.height = `${containerHeight}px`;
+
+    chart = LightweightCharts.createChart(container, {
+        width: container.clientWidth,
+        height: containerHeight,
+        layout: {
+            background: { color: '#ffffff' },
+            textColor: '#333',
+        },
+        grid: {
+            vertLines: { color: '#f0f0f0' },
+            horzLines: { color: '#f0f0f0' },
+        },
+        crosshair: {
+            mode: LightweightCharts.CrosshairMode.Normal,
+        },
+        timeScale: {
+            timeVisible: true,
+            secondsVisible: false,
+        },
+    });
+
+    // Create the candlestick series
+    candleSeries = chart.addCandlestickSeries({
+        upColor: '#26a69a',
+        downColor: '#ef5350',
+        borderVisible: false,
+        wickUpColor: '#26a69a',
+        wickDownColor: '#ef5350',
+    });
+
+    // Create volume series
+    volumeSeries = chart.addHistogramSeries({
+        color: '#26a69a',
+        priceFormat: {
+            type: 'volume',
+        },
+        priceScaleId: '', // Set as an overlay
+        scaleMargins: {
+            top: 0.8,
+            bottom: 0,
+        },
+    });
+}
+
+// Fetch data from Yahoo Finance
+async function fetchYahooFinanceData(symbol, interval) {
+    // Convert BSE symbol to Yahoo Finance format (add .BO)
+    const yahooSymbol = `${symbol}.BO`;
+    
+    // Calculate start and end dates
+    const end = Math.floor(Date.now() / 1000);
+    let start;
+    
+    switch(interval) {
+        case '1mo':
+            start = end - (30 * 24 * 60 * 60);
+            break;
+        case '3mo':
+            start = end - (90 * 24 * 60 * 60);
+            break;
+        case '1y':
+        default:
+            start = end - (365 * 24 * 60 * 60);
+            break;
     }
-});
+
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yahooSymbol}?period1=${start}&period2=${end}&interval=1d`;
+
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        const data = await response.json();
+        return formatYahooData(data);
+    } catch (error) {
+        console.error('Error fetching Yahoo Finance data:', error);
+        return null;
+    }
+}
+
+// Format Yahoo Finance data for Lightweight Charts
+function formatYahooData(yahooData) {
+    const timestamps = yahooData.chart.result[0].timestamp;
+    const quotes = yahooData.chart.result[0].indicators.quote[0];
+    
+    const candleData = [];
+    const volumeData = [];
+
+    for (let i = 0; i < timestamps.length; i++) {
+        if (quotes.high[i] && quotes.low[i] && quotes.open[i] && quotes.close[i]) {
+            const time = timestamps[i];
+            
+            candleData.push({
+                time: time,
+                open: quotes.open[i],
+                high: quotes.high[i],
+                low: quotes.low[i],
+                close: quotes.close[i],
+            });
+
+            volumeData.push({
+                time: time,
+                value: quotes.volume[i],
+                color: quotes.close[i] >= quotes.open[i] ? '#26a69a' : '#ef5350',
+            });
+        }
+    }
+
+    return { candleData, volumeData };
+}
+
+async function loadChart() {
+    if (!chart) {
+        initChart();
+    }
+
+    try {
+        const symbol = stocks[currentIndex].Symbol;
+        const data = await fetchYahooFinanceData(symbol, currentInterval);
+        
+        if (data) {
+            candleSeries.setData(data.candleData);
+            volumeSeries.setData(data.volumeData);
+            document.title = `${symbol} - BseCharts`;
+        }
+    } catch (error) {
+        console.error('Error loading chart:', error);
+    }
+}
 
 async function fetchStocks() {
     try {
@@ -20,47 +150,16 @@ async function fetchStocks() {
         }
         stocks = await response.json();
         if (stocks.length > 0) {
-            loadTradingViewWidget();
+            await loadChart();
             updatePaginationText();
         } else {
             throw new Error('No stocks found in the data');
         }
     } catch (e) {
         console.error("Failed to fetch or process stocks data:", e);
-        document.getElementById('tradingview_widget').innerHTML = 
+        document.getElementById('chart_container').innerHTML = 
             "<p class='text-red-500 p-4'>Failed to load stocks data. Please try again later.</p>";
     }
-}
-
-function loadTradingViewWidget() {
-    const container = document.getElementById('tradingview_widget');
-    container.innerHTML = '';
-    const footerHeight = 48;
-    const containerHeight = window.innerHeight - footerHeight;
-    container.style.height = `${containerHeight}px`;
-    
-    widget = new TradingView.widget({
-        autosize: true,
-        symbol: `BSE:${stocks[currentIndex].Symbol}`,
-        interval: currentInterval,
-        timezone: 'Asia/Kolkata',
-        theme: 'light',
-        style: '1',
-        locale: 'in',
-        toolbar_bg: '#f1f3f6',
-        enable_publishing: false,
-        allow_symbol_change: false,
-        container_id: 'tradingview_widget',
-        height: containerHeight,
-        studies_overrides: {},
-        charts_storage_api_version: "1.1",
-        client_id: "tradingview.com",
-        user_id: "public_user",
-        loading_screen: { backgroundColor: "#ffffff" },
-        overrides: {
-            "scalesProperties.logarithmic": true  // Enable logarithmic scale
-        }
-    });
 }
 
 function updatePaginationText() {
@@ -68,15 +167,15 @@ function updatePaginationText() {
         stocks.length > 0 ? `${currentIndex + 1} / ${stocks.length}` : '- / -';
 }
 
-function handlePrevious() {
+async function handlePrevious() {
     currentIndex = (currentIndex - 1 + stocks.length) % stocks.length;
-    loadTradingViewWidget();
+    await loadChart();
     updatePaginationText();
 }
 
-function handleNext() {
+async function handleNext() {
     currentIndex = (currentIndex + 1) % stocks.length;
-    loadTradingViewWidget();
+    await loadChart();
     updatePaginationText();
 }
 
@@ -90,9 +189,9 @@ function toggleFullscreen() {
     }
 }
 
-function handleIntervalChange(interval) {
+async function handleIntervalChange(interval) {
     currentInterval = interval;
-    loadTradingViewWidget();
+    await loadChart();
 }
 
 // Event Listeners
@@ -102,8 +201,8 @@ document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscr
 
 // Add event listeners for interval buttons
 document.querySelectorAll('.interval-btn').forEach(button => {
-    button.addEventListener('click', (e) => {
-        handleIntervalChange(e.target.dataset.interval);
+    button.addEventListener('click', async (e) => {
+        await handleIntervalChange(e.target.dataset.interval);
         
         // Update active state of interval buttons
         document.querySelectorAll('.interval-btn').forEach(btn => {
@@ -115,8 +214,18 @@ document.querySelectorAll('.interval-btn').forEach(button => {
     });
 });
 
-window.addEventListener('resize', loadTradingViewWidget);
+// Handle window resize
+window.addEventListener('resize', () => {
+    if (chart) {
+        const container = document.getElementById('chart_container');
+        const footerHeight = 48;
+        const containerHeight = window.innerHeight - footerHeight;
+        container.style.height = `${containerHeight}px`;
+        chart.resize(container.clientWidth, containerHeight);
+    }
+});
 
+// Handle fullscreen change
 document.addEventListener('fullscreenchange', () => {
     const fullscreenBtn = document.getElementById('fullscreenBtn');
     if (document.fullscreenElement) {
