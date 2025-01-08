@@ -1,7 +1,7 @@
 let stocks = [];
 let currentIndex = 0;
 let widget;
-let currentInterval = '12M';
+let currentInterval = '1M';
 
 // add event listener for keydown event
 window.addEventListener('keydown', (event) => {
@@ -13,61 +13,22 @@ window.addEventListener('keydown', (event) => {
 });
 
 async function fetchStocks() {
-    const container = document.getElementById('tradingview_widget');
     try {
-        container.innerHTML = "<p class='text-blue-500 p-4'>Loading stocks data...</p>";
-        
         const response = await fetch('bse500.json');
-        console.log('Fetch response status:', response.status);
-        
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        
-        const data = await response.json();
-        console.log('Data loaded, first item:', data[0]);
-        
-        if (!Array.isArray(data)) {
-            throw new Error('Data is not an array');
-        }
-        
-        if (data.length === 0) {
+        stocks = await response.json();
+        if (stocks.length > 0) {
+            loadTradingViewWidget();
+            updatePaginationText();
+        } else {
             throw new Error('No stocks found in the data');
         }
-        
-        // Verify data structure
-        if (!data[0].Symbol) {
-            throw new Error('Invalid data structure - missing Symbol property');
-        }
-        
-        stocks = data;
-        loadTradingViewWidget();
-        updatePaginationText();
-        
     } catch (e) {
-        console.error("Detailed error:", e);
-        let errorMessage = "Failed to load stocks data. ";
-        
-        if (e.message.includes('HTTP error')) {
-            errorMessage += "Server returned an error. ";
-        } else if (e.message.includes('Invalid data structure')) {
-            errorMessage += "Data format is incorrect. ";
-        } else if (e.message === 'No stocks found in the data') {
-            errorMessage += "No stocks data available. ";
-        } else if (e.name === 'SyntaxError') {
-            errorMessage += "Invalid JSON format. ";
-        }
-        
-        errorMessage += "Please check the console for more details.";
-        
-        container.innerHTML = `
-            <div class='p-4'>
-                <p class='text-red-500 font-medium'>Error Loading Data</p>
-                <p class='text-gray-700 mt-2'>${errorMessage}</p>
-                <button onclick="fetchStocks()" class='mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600'>
-                    Retry Loading
-                </button>
-            </div>`;
+        console.error("Failed to fetch or process stocks data:", e);
+        document.getElementById('tradingview_widget').innerHTML = 
+            "<p class='text-red-500 p-4'>Failed to load stocks data. Please try again later.</p>";
     }
 }
 
@@ -91,27 +52,14 @@ function loadTradingViewWidget() {
         allow_symbol_change: false,
         container_id: 'tradingview_widget',
         height: containerHeight,
-        disabled_features: ["header_widget"],
-        enabled_features: ["hide_left_toolbar_by_default"],
-        save_image: false,
-        backgroundColor: "white",
-        // Setting up default properties for logarithmic mode
-        defaults: {
-            "scalesProperties.scaleSeriesOnly": false,
-            "mainSeriesProperties.logDisabled": false,
-            "mainSeriesProperties.priceFormat.type": "price",
-            "mainSeriesProperties.style": 1,
-            "scalesProperties.showLeftScale": false,
+        studies_overrides: {},
+        charts_storage_api_version: "1.1",
+        client_id: "tradingview.com",
+        user_id: "public_user",
+        loading_screen: { backgroundColor: "#ffffff" },
+        overrides: {
+            "scalesProperties.logarithmic": true  // Enable logarithmic scale
         }
-    });
-
-    // Set up widget ready callback to ensure logarithmic mode
-    widget.onChartReady(() => {
-        widget.activeChart().setChartType(1);  // 1 is for candlestick
-        widget.activeChart().setPriceScale('right', {
-            mode: 1,  // 1 means logarithmic
-            autoScale: true
-        });
     });
 }
 
@@ -178,5 +126,4 @@ document.addEventListener('fullscreenchange', () => {
     }
 });
 
-// Initialize the app
 fetchStocks();
