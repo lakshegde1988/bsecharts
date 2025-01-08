@@ -3,7 +3,6 @@ let currentIndex = 0;
 let chart;
 let candleSeries;
 let volumeSeries;
-let currentInterval = '1y';
 
 // Initialize the chart
 function initChart() {
@@ -56,28 +55,9 @@ function initChart() {
 }
 
 // Fetch data from Yahoo Finance
-async function fetchYahooFinanceData(symbol, interval) {
-    // Convert BSE symbol to Yahoo Finance format (add .BO)
-    const yahooSymbol = `${symbol}.BO`;
-    
-    // Calculate start and end dates
-    const end = Math.floor(Date.now() / 1000);
-    let start;
-    
-    switch(interval) {
-        case '1mo':
-            start = end - (30 * 24 * 60 * 60);
-            break;
-        case '3mo':
-            start = end - (90 * 24 * 60 * 60);
-            break;
-        case '1y':
-        default:
-            start = end - (365 * 24 * 60 * 60);
-            break;
-    }
-
-    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yahooSymbol}?period1=${start}&period2=${end}&interval=1d`;
+async function fetchYahooFinanceData(symbol) {
+    const yahooSymbol = `${symbol}.NS`;
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${yahooSymbol}?interval=1d&range=1y`;
 
     try {
         const response = await fetch(url);
@@ -85,6 +65,11 @@ async function fetchYahooFinanceData(symbol, interval) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const data = await response.json();
+        
+        if (!data.chart || !data.chart.result || !data.chart.result[0]) {
+            throw new Error('Invalid data structure received from Yahoo Finance');
+        }
+        
         return formatYahooData(data);
     } catch (error) {
         console.error('Error fetching Yahoo Finance data:', error);
@@ -94,29 +79,36 @@ async function fetchYahooFinanceData(symbol, interval) {
 
 // Format Yahoo Finance data for Lightweight Charts
 function formatYahooData(yahooData) {
-    const timestamps = yahooData.chart.result[0].timestamp;
-    const quotes = yahooData.chart.result[0].indicators.quote[0];
+    const result = yahooData.chart.result[0];
+    const quotes = result.indicators.quote[0];
+    const timestamps = result.timestamp;
     
     const candleData = [];
     const volumeData = [];
 
     for (let i = 0; i < timestamps.length; i++) {
-        if (quotes.high[i] && quotes.low[i] && quotes.open[i] && quotes.close[i]) {
-            const time = timestamps[i];
+        const time = timestamps[i];
+        
+        // Check if we have valid OHLC data
+        if (quotes.open[i] !== null && quotes.high[i] !== null && 
+            quotes.low[i] !== null && quotes.close[i] !== null) {
             
             candleData.push({
                 time: time,
-                open: quotes.open[i],
-                high: quotes.high[i],
-                low: quotes.low[i],
-                close: quotes.close[i],
+                open: parseFloat(quotes.open[i].toFixed(2)),
+                high: parseFloat(quotes.high[i].toFixed(2)),
+                low: parseFloat(quotes.low[i].toFixed(2)),
+                close: parseFloat(quotes.close[i].toFixed(2))
             });
 
-            volumeData.push({
-                time: time,
-                value: quotes.volume[i],
-                color: quotes.close[i] >= quotes.open[i] ? '#26a69a' : '#ef5350',
-            });
+            // Add volume data if available
+            if (quotes.volume[i] !== null) {
+                volumeData.push({
+                    time: time,
+                    value: quotes.volume[i],
+                    color: quotes.close[i] >= quotes.open[i] ? '#26a69a' : '#ef5350'
+                });
+            }
         }
     }
 
@@ -130,12 +122,25 @@ async function loadChart() {
 
     try {
         const symbol = stocks[currentIndex].Symbol;
-        const data = await fetchYahooFinanceData(symbol, currentInterval);
+        console.log('Loading data for symbol:', symbol);
         
-        if (data) {
+        // Clear existing data
+        candleSeries.setData([]);
+        volumeSeries.setData([]);
+        
+        const data = await fetchYahooFinanceData(symbol);
+        
+        if (data && data.candleData.length > 0) {
+            console.log('Received data:', data.candleData.length, 'candles');
             candleSeries.setData(data.candleData);
             volumeSeries.setData(data.volumeData);
+            
+            // Fit content
+            chart.timeScale().fitContent();
+            
             document.title = `${symbol} - BseCharts`;
+        } else {
+            console.error('No valid data received for symbol:', symbol);
         }
     } catch (error) {
         console.error('Error loading chart:', error);
@@ -189,11 +194,6 @@ function toggleFullscreen() {
     }
 }
 
-async function handleIntervalChange(interval) {
-    currentInterval = interval;
-    await loadChart();
-}
-
 // Event Listeners
 document.getElementById('prevBtn').addEventListener('click', handlePrevious);
 document.getElementById('nextBtn').addEventListener('click', handleNext);
@@ -202,13 +202,12 @@ document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscr
 // Add event listeners for interval buttons
 document.querySelectorAll('.interval-btn').forEach(button => {
     button.addEventListener('click', async (e) => {
-        await handleIntervalChange(e.target.dataset.interval);
-        
-        // Update active state of interval buttons
+        // Remove active state from all buttons
         document.querySelectorAll('.interval-btn').forEach(btn => {
             btn.classList.remove('bg-blue-100');
             btn.classList.add('bg-gray-100');
         });
+        // Add active state to clicked button
         e.target.classList.remove('bg-gray-100');
         e.target.classList.add('bg-blue-100');
     });
@@ -222,6 +221,7 @@ window.addEventListener('resize', () => {
         const containerHeight = window.innerHeight - footerHeight;
         container.style.height = `${containerHeight}px`;
         chart.resize(container.clientWidth, containerHeight);
+        chart.timeScale().fitContent();
     }
 });
 
