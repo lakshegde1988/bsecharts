@@ -1,16 +1,16 @@
 let stocks = [];
 let currentIndex = 0;
 let widget;
+let currentInterval = '12M';
 
-
-  // add event listener for keydown event
-  window.addEventListener('keydown', (event) => {
-      if (event.key === 'ArrowLeft') {
+// add event listener for keydown event
+window.addEventListener('keydown', (event) => {
+    if (event.key === 'ArrowLeft') {
         handlePrevious();
-      } else if (event.key === 'ArrowRight') {
+    } else if (event.key === 'ArrowRight') {
         handleNext();
-      }
-    });
+    }
+});
 
 async function fetchStocks() {
     try {
@@ -42,7 +42,7 @@ function loadTradingViewWidget() {
     widget = new TradingView.widget({
         autosize: true,
         symbol: `BSE:${stocks[currentIndex].Symbol}`,
-        interval: '12M',
+        interval: currentInterval,
         timezone: 'Asia/Kolkata',
         theme: 'light',
         style: '1',
@@ -52,6 +52,14 @@ function loadTradingViewWidget() {
         allow_symbol_change: false,
         container_id: 'tradingview_widget',
         height: containerHeight,
+        studies_overrides: {},
+        charts_storage_api_version: "1.1",
+        client_id: "tradingview.com",
+        user_id: "public_user",
+        loading_screen: { backgroundColor: "#ffffff" },
+        overrides: {
+            "scalesProperties.logarithmic": true  // Enable logarithmic scale
+        }
     });
 }
 
@@ -82,9 +90,30 @@ function toggleFullscreen() {
     }
 }
 
+function handleIntervalChange(interval) {
+    currentInterval = interval;
+    loadTradingViewWidget();
+}
+
+// Event Listeners
 document.getElementById('prevBtn').addEventListener('click', handlePrevious);
 document.getElementById('nextBtn').addEventListener('click', handleNext);
 document.getElementById('fullscreenBtn').addEventListener('click', toggleFullscreen);
+
+// Add event listeners for interval buttons
+document.querySelectorAll('.interval-btn').forEach(button => {
+    button.addEventListener('click', (e) => {
+        handleIntervalChange(e.target.dataset.interval);
+        
+        // Update active state of interval buttons
+        document.querySelectorAll('.interval-btn').forEach(btn => {
+            btn.classList.remove('bg-blue-100');
+            btn.classList.add('bg-gray-100');
+        });
+        e.target.classList.remove('bg-gray-100');
+        e.target.classList.add('bg-blue-100');
+    });
+});
 
 window.addEventListener('resize', loadTradingViewWidget);
 
