@@ -13,22 +13,61 @@ window.addEventListener('keydown', (event) => {
 });
 
 async function fetchStocks() {
+    const container = document.getElementById('tradingview_widget');
     try {
+        container.innerHTML = "<p class='text-blue-500 p-4'>Loading stocks data...</p>";
+        
         const response = await fetch('bse500.json');
+        console.log('Fetch response status:', response.status);
+        
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
-        stocks = await response.json();
-        if (stocks.length > 0) {
-            loadTradingViewWidget();
-            updatePaginationText();
-        } else {
+        
+        const data = await response.json();
+        console.log('Data loaded, first item:', data[0]);
+        
+        if (!Array.isArray(data)) {
+            throw new Error('Data is not an array');
+        }
+        
+        if (data.length === 0) {
             throw new Error('No stocks found in the data');
         }
+        
+        // Verify data structure
+        if (!data[0].Symbol) {
+            throw new Error('Invalid data structure - missing Symbol property');
+        }
+        
+        stocks = data;
+        loadTradingViewWidget();
+        updatePaginationText();
+        
     } catch (e) {
-        console.error("Failed to fetch or process stocks data:", e);
-        document.getElementById('tradingview_widget').innerHTML = 
-            "<p class='text-red-500 p-4'>Failed to load stocks data. Please try again later.</p>";
+        console.error("Detailed error:", e);
+        let errorMessage = "Failed to load stocks data. ";
+        
+        if (e.message.includes('HTTP error')) {
+            errorMessage += "Server returned an error. ";
+        } else if (e.message.includes('Invalid data structure')) {
+            errorMessage += "Data format is incorrect. ";
+        } else if (e.message === 'No stocks found in the data') {
+            errorMessage += "No stocks data available. ";
+        } else if (e.name === 'SyntaxError') {
+            errorMessage += "Invalid JSON format. ";
+        }
+        
+        errorMessage += "Please check the console for more details.";
+        
+        container.innerHTML = `
+            <div class='p-4'>
+                <p class='text-red-500 font-medium'>Error Loading Data</p>
+                <p class='text-gray-700 mt-2'>${errorMessage}</p>
+                <button onclick="fetchStocks()" class='mt-4 bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600'>
+                    Retry Loading
+                </button>
+            </div>`;
     }
 }
 
@@ -139,4 +178,5 @@ document.addEventListener('fullscreenchange', () => {
     }
 });
 
+// Initialize the app
 fetchStocks();
