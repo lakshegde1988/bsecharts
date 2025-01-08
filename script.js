@@ -52,14 +52,27 @@ function loadTradingViewWidget() {
         allow_symbol_change: false,
         container_id: 'tradingview_widget',
         height: containerHeight,
-        studies_overrides: {},
-        charts_storage_api_version: "1.1",
-        client_id: "tradingview.com",
-        user_id: "public_user",
-        loading_screen: { backgroundColor: "#ffffff" },
-        overrides: {
-            "scalesProperties.logarithmic": true  // Enable logarithmic scale
+        disabled_features: ["header_widget"],
+        enabled_features: ["hide_left_toolbar_by_default"],
+        save_image: false,
+        backgroundColor: "white",
+        // Setting up default properties for logarithmic mode
+        defaults: {
+            "scalesProperties.scaleSeriesOnly": false,
+            "mainSeriesProperties.logDisabled": false,
+            "mainSeriesProperties.priceFormat.type": "price",
+            "mainSeriesProperties.style": 1,
+            "scalesProperties.showLeftScale": false,
         }
+    });
+
+    // Set up widget ready callback to ensure logarithmic mode
+    widget.onChartReady(() => {
+        widget.activeChart().setChartType(1);  // 1 is for candlestick
+        widget.activeChart().setPriceScale('right', {
+            mode: 1,  // 1 means logarithmic
+            autoScale: true
+        });
     });
 }
 
