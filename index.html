@@ -10,14 +10,21 @@
 <body class="font-sans bg-gray-850">
     <div id="app" class="max-w-xl mx-auto flex flex-col h-dvh item-center overflow-hidden">
         <div id="tradingview_widget" class="flex-grow"></div>
-        <footer class="h-10 flex items-center justify-between px-4 bg-gray-850">
-            <button id="fullscreenBtn" class="p-2 bg-gray-50 rounded hover:bg-gray-100 transition-colors">
-                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6m0 0v6m0-6-7 7"/><path d="M9 21H3m0 0v-6m0 6 7-7"/></svg>
-            </button>
+        <footer class="h-12 flex items-center justify-between px-4 bg-gray-850">
+            <div class="flex items-center space-x-2">
+                <button id="fullscreenBtn" class="p-2 bg-gray-50 rounded hover:bg-gray-100 transition-colors">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6m0 0v6m0-6-7 7"/><path d="M9 21H3m0 0v-6m0 6 7-7"/></svg>
+                </button>
+                <div class="flex items-center space-x-1">
+                    <button class="interval-btn bg-gray-100 hover:bg-blue-100 text-xs text-black py-1 px-2 rounded" data-interval="M">M</button>
+                    <button class="interval-btn bg-gray-100 hover:bg-blue-100 text-xs text-black py-1 px-2 rounded" data-interval="3M">3M</button>
+                    <button class="interval-btn bg-gray-100 hover:bg-blue-100 text-xs text-black py-1 px-2 rounded" data-interval="12M">12M</button>
+                </div>
+            </div>
             <div class="flex items-center space-x-4">
                <button id="prevBtn" class="bg-gray-100 hover:bg-blue-100 text-sm text-black py-2 px-4 rounded-full">Previous</button>
                 <span id="paginationText" class="text-sm text-black font-medium">- / -</span>
-                <button id="nextBtn" class="bg-gray-100 hover:bg-blue-100 text-sm text-black py-2 px-4 rounded-full"> Next </button>
+                <button id="nextBtn" class="bg-gray-100 hover:bg-blue-100 text-sm text-black py-2 px-4 rounded-full">Next</button>
             </div>
         </footer>
     </div>
