@@ -1,7 +1,7 @@
 let stocks = [];
 let currentIndex = 0;
 let widget;
-let currentInterval = '12M';
+let currentInterval = 'D';
 
 // add event listener for keydown event
 window.addEventListener('keydown', (event) => {
