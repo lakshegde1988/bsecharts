@@ -87,7 +87,7 @@
     "Symbol": "ALOKINDS"
   },
   {
-    "Symbol": "ARE&M"
+    "Symbol": "ARE_M"
   },
   {
     "Symbol": "AMBER"
@@ -156,7 +156,7 @@
     "Symbol": "AXISBANK"
   },
   {
-    "Symbol": "BAJAJ-AUTO"
+    "Symbol": "BAJAJ_AUTO"
   },
   {
     "Symbol": "BAJFINANCE"
@@ -903,10 +903,10 @@
     "Symbol": "MAHLIFE"
   },
   {
-    "Symbol": "M&MFIN"
+    "Symbol": "M_MFIN"
   },
   {
-    "Symbol": "M&M"
+    "Symbol": "M_M"
   },
   {
     "Symbol": "MANAPPURAM"
@@ -1005,7 +1005,7 @@
     "Symbol": "NHPC"
   },
   {
-    "Symbol": "NAM-INDIA"
+    "Symbol": "NAM_INDIA"
   },
   {
     "Symbol": "NLCINDIA"
@@ -1347,7 +1347,7 @@
     "Symbol": "INDHOTEL"
   },
   {
-    "Symbol": "J&KBANK"
+    "Symbol": "J_KBANK"
   },
   {
     "Symbol": "PHOENIXLTD"
